@@ -16,5 +16,5 @@ Student::~Student()
 
 int Student::getID()
 {
-	return 0;
+	return ID;
 }
