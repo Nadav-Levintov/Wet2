@@ -5,6 +5,9 @@
 #include <iostream>
 #include <assert.h>
 #include <exception>
+
+#define ARRAYINLARGE 2
+#define ARRAYFULLFACTOR 1
 using std::exception;
 
 
@@ -36,7 +39,7 @@ public:
 	bool enlargeArray()
 	{
 		int oldSize = arraySize;
-		arraySize *= 2;
+		arraySize *= ARRAYINLARGE;
 		numOfItems = 0;
 		avlTree<T, C>* oldArray = hashArray;
 		avlTree<T, C>* newArray = new avlTree<T, C>[arraySize];
@@ -55,22 +58,22 @@ public:
 		
 		return true;
 	}
-	void insert(T item)
+	void insert(&T item)
 	{
-		if (numOfItems == arraySize)
+		if (numOfItems == ARRAYFULLFACTOR * arraySize)
 		{
 			enlargeArray();
 		}
 		hashArray[hashing(keyFunc(item))].insert(item);
 		numOfItems++;
 	}
-	T member(int itemID) {
+	T& member(int itemID) {
 		T searchItem = T(itemID);
 		if (!hashArray[hashing(itemID)].find(searchItem))
 		{
 			throw NotFound();
 		}
-		T item = hashArray[hashing(itemID)].find(searchItem)->getData();
+		T& item = hashArray[hashing(itemID)].find(searchItem)->getData();
 		
 		return item;
 	}
