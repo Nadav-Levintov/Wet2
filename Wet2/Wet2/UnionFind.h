@@ -2,6 +2,7 @@
 #define UNIONFIND_H_
 #include <cassert>
 #define ROOT -1
+#define NO_NAME -1
 
 typedef int T;
 
@@ -28,15 +29,18 @@ UnionFind::UnionFind(int n) :
 	assert(n > 2);
 	this->parent = new T[n];
 	this->numOfEelements = new T[n];
+	this->groupName = new T[n];
 	for (int i = 0; i < n; i++) {
 		parent[i] = ROOT;
 		numOfEelements[i] = 1;
+		groupName[i] = i;
 	}
 }
 
 UnionFind::~UnionFind() {
 	delete[] parent;
 	delete[] numOfEelements;
+	delete[] groupName;
 }
 
 T& UnionFind::Find(T& element) {
@@ -51,11 +55,17 @@ T& UnionFind::Find(T& element) {
 		this->parent[ptr] = root;
 		ptr = tmp;
 	}
-	return root;
+	return groupName[root];
 }
 
 void UnionFind::Union(T& set1, T& set2) {
-
+	T small = (numOfEelements[set1] < numOfEelements[set2]) ? set1 : set2;
+	T large = (small == set1) ? set2 : set1;
+		parent[small] = large;
+		numOfEelements[large] += numOfEelements[small];
+		numOfEelements[small] = 0;
+		groupName[small] = NO_NAME;
+		groupName[large] = small;
 }
 
 T* UnionFind::getNumOfEelements() const {
