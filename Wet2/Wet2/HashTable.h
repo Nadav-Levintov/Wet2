@@ -58,7 +58,7 @@ public:
 		
 		return true;
 	}
-	void insert(&T item)
+	void insert(T& item)
 	{
 		if (numOfItems == ARRAYFULLFACTOR * arraySize)
 		{
