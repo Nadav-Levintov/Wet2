@@ -31,24 +31,11 @@ public:
 	class InvalidInput :public exception {};
 	class Failure :public exception {};
 
-	DS(int numOfFacu) :numOfFacultys(numOfFacu),facultys(numOfFacu)
-	{
-		if (numOfFacu < 2)
-		{
-			throw InvalidInput();
-		}
-		maxArray = new int[numOfFacu];
-		maxIdArray = new int[numOfFacu];
-		gradesHistogram = new int[101];
-	}
-	~DS()
-	{
-		delete[] maxArray;
-		delete[] maxIdArray;
-		delete[] gradesHistogram;
-	}
+	DS(int numOfFacu);
+	~DS();
 	void AddStudent(int studentID, int average);
 	void AssignStudent(void* DS, int studentID, int studyGroup);
+	void JoinFaculties(int studyGroup1, int studyGroup2);
 };
 
 #endif /*DS_H*/
