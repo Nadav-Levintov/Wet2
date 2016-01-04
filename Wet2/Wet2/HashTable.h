@@ -20,20 +20,6 @@ class HashTable
 	avlTree<T, C>* hashArray;
 
 private:
-
-public:
-	class NotFound :public exception {};
-	class Exists :public exception {};
-
-	HashTable(int initSize = 2) : arraySize(initSize), numOfItems(0)
-	{
-		keyFunc = K();
-		hashArray = new avlTree<T, C>[arraySize];
-	}
-	~HashTable()
-	{
-		delete[] hashArray;
-	}
 	int hashing(int index) {
 		return index % arraySize;
 	}
@@ -57,6 +43,20 @@ public:
 		}
 		delete[] oldArray;
 	}
+public:
+	class NotFound :public exception {};
+	class Exists :public exception {};
+
+	HashTable(int initSize = 2) : arraySize(initSize), numOfItems(0)
+	{
+		keyFunc = K();
+		hashArray = new avlTree<T, C>[arraySize];
+	}
+	~HashTable()
+	{
+		delete[] hashArray;
+	}
+	
 	
 	void insert(T& item)
 	{
