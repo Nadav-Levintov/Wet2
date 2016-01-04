@@ -8,6 +8,13 @@ DS::DS(int numOfFacu) :
 	maxArray = new int[numOfFacu];
 	maxIdArray = new int[numOfFacu];
 	gradesHistogram = new int[101];
+	for (int i = 0; i < numOfFacu; i++) {
+		maxArray[i] = EMPTY;
+		maxIdArray[i] = EMPTY;
+	}
+	for (int i = 0; i <= 100; i++) {
+		gradesHistogram[i] = 0;
+	}
 }
 
 DS::~DS() {
@@ -25,17 +32,18 @@ void DS::AddStudent(int studentID, int average) {
 		throw Failure();
 	}
 	studentTree.insert(s);
-	gradesHistogram[int(floor(average))]++;
+	gradesHistogram[average]++;
 }
 
 void DS::AssignStudent(void * DS, int studentID, int studyGroup) {
 	if (studentID < 0 || studyGroup < 0 || studyGroup >= numOfFacultys) {
 		throw InvalidInput();
 	}
-	if (!studentTree.find(Student(studentID))) {
+	Student tmp(studentID);
+	if (!studentTree.find(tmp)) {
 		throw Failure();
 	}
-	Student s = studentTree.find(Student(studentID))->getData();
+	Student s = studentTree.find(tmp)->getData();
 	if (s.getGroup() != -1) {
 		throw Failure();
 	}
@@ -76,4 +84,82 @@ void DS::JoinFaculties(int studyGroup1, int studyGroup2) {
 	}
 	/** Union */
 	facultys.Union(facultys.Find(studyGroup1), facultys.Find(studyGroup2));
+}
+
+void DS::GetFaculty(int studentID, int* faculty) {
+	if (studentID < 0 || !faculty) {
+		throw InvalidInput();
+	}
+	Student s;
+	try {
+		s = ht.member(studentID);
+	} catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound& e) {
+		throw Failure();
+	}
+	*faculty = facultys.Find(ht.member(studentID).getGroup());
+}
+
+void DS::UnifyFacultiesByStudents(void* DS, int studentID1, int studentID2) {
+	if (studentID1 < 0 || studentID2 < 0) {
+		throw InvalidInput();
+	}
+	try {
+		if (facultys.Find(ht.member(studentID1).getGroup())
+				== facultys.Find(ht.member(studentID2).getGroup())) {
+			throw Failure();
+		}
+	} catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound& e) {
+		throw Failure();
+	}
+	JoinFaculties(facultys.Find(ht.member(studentID1).getGroup()),
+			facultys.Find(ht.member(studentID2).getGroup()));
+}
+
+void DS::UpgradeStudyGroup(void* DS, int studyGroup, int factor) {
+	if (factor < 1 || studyGroup < 0 || studyGroup >= numOfFacultys) {
+		throw InvalidInput();
+	}
+	int faculty = facultys.Find(studyGroup);
+	Student* students = studentTree.inOrder();
+	int numOfStudents = studentTree.getSize();
+	for (int i = 0; i < numOfStudents; i++) {
+		if (students[i].getGroup() == studyGroup) {
+			int oldAvg = students[i].getAvg();
+			int newAvg = (100 < oldAvg * factor) ? 100 : oldAvg * factor;
+			students[i].setAvg(newAvg);
+			gradesHistogram[oldAvg]--;
+			gradesHistogram[newAvg]++;
+			if (newAvg > maxArray[faculty]
+					|| ((newAvg == maxArray[faculty])
+							&& students[i].getID() < maxIdArray[faculty])) {
+				maxArray[faculty] = newAvg;
+				maxIdArray[faculty] = students[i].getID();
+			}
+		}
+	}
+	studentTree.clear();
+	studentTree.buildEmpty(numOfStudents);
+	int index = 0;
+	studentTree.inOrderInsert(students, &index);
+}
+
+void DS::GetSmartestStudent(void* DS, int facultyID, int* student) {
+	if (!student || facultyID < 0 || facultyID >= numOfFacultys) {
+		throw InvalidInput();
+	}
+	if (maxIdArray[facultyID] == EMPTY) {
+		throw Failure();
+	}
+	*student = maxIdArray[facultyID];
+}
+
+void DS::GetNumOfStudentsInRange(void* DS, int fromAvg, int toAvg, int* num) {
+	if (fromAvg >= toAvg || fromAvg < 0 || toAvg > 100) {
+		throw InvalidInput();
+	}
+	int counter = 0;
+	for (int i = fromAvg + 1; i <= toAvg; i++) {
+		counter += gradesHistogram[i];
+	}
+	*num = counter;
 }

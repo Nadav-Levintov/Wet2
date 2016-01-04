@@ -6,6 +6,7 @@ Student::Student()
 {
 	ID = 0;
 	avg = 0.0;
+	studyGroup = -1;
 }
 
 
@@ -32,4 +33,8 @@ void Student::setGroup(int n)
 double Student::getAvg()
 {
 	return avg;
+}
+
+void Student::setAvg(int newAvg) {
+	avg = newAvg;
 }

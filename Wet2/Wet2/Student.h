@@ -14,13 +14,13 @@ class Student
 
 public:
 	Student();
-	Student(int id, double avg=0, int group=-1) :ID(id), avg(avg),studyGroup(group) {};
+	Student(int id, int avg=0, int group=-1) :ID(id), avg(avg),studyGroup(group) {};
 	~Student();
 	int getID();
 	int getGroup();
 	void setGroup(int n);
 	double getAvg();
-
+	void setAvg(int newAvg);
 };
 
 
