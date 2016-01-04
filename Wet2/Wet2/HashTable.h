@@ -19,9 +19,11 @@ class HashTable
 	K keyFunc;
 	avlTree<T, C>* hashArray;
 
+private:
+
 public:
 	class NotFound :public exception {};
-
+	class Exists :public exception {};
 
 	HashTable(int initSize = 2) : arraySize(initSize), numOfItems(0)
 	{
@@ -32,11 +34,10 @@ public:
 	{
 		delete[] hashArray;
 	}
-
 	int hashing(int index) {
 		return index % arraySize;
 	}
-	bool enlargeArray()
+	void enlargeArray()
 	{
 		int oldSize = arraySize;
 		arraySize *= ARRAYINLARGE;
@@ -55,14 +56,18 @@ public:
 			delete[] oldContent;
 		}
 		delete[] oldArray;
-		
-		return true;
 	}
+	
 	void insert(T& item)
 	{
 		if (numOfItems == ARRAYFULLFACTOR * arraySize)
 		{
 			enlargeArray();
+		}
+		
+		if (hashArray[hashing(keyFunc(item))].find(item))
+		{
+			throw Exists();
 		}
 		hashArray[hashing(keyFunc(item))].insert(item);
 		numOfItems++;

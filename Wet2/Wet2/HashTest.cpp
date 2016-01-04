@@ -20,6 +20,10 @@ int main()
 	ht.insert(s3);
 
 	Student s = ht.member(3);
-	s = ht.member(4);
+	try { s = ht.member(4); }
+	catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound e)
+	{
+		printf("All Good\n");
+	}
 	return 0;
 }

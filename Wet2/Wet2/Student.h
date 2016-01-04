@@ -10,12 +10,17 @@ class Student
 {
 	int ID;
 	double avg;
+	int studyGroup;
 
 public:
 	Student();
-	Student(int id, double avg=0) :ID(id), avg(avg) {};
+	Student(int id, double avg=0, int group=-1) :ID(id), avg(avg),studyGroup(group) {};
 	~Student();
 	int getID();
+	int getGroup();
+	void setGroup(int n);
+	double getAvg();
+
 };
 
 

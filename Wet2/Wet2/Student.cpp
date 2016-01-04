@@ -18,3 +18,18 @@ int Student::getID()
 {
 	return ID;
 }
+
+int Student::getGroup()
+{
+	return studyGroup;
+}
+
+void Student::setGroup(int n)
+{
+	studyGroup = n;
+}
+
+double Student::getAvg()
+{
+	return avg;
+}
