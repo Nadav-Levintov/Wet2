@@ -141,6 +141,7 @@ void DataStruct::UpgradeStudyGroup( int studyGroup, int factor) {
 	studentTree.buildEmpty(numOfStudents);
 	int index = 0;
 	studentTree.inOrderInsert(students, &index);
+	delete[] students;
 }
 
 void DataStruct::GetSmartestStudent( int facultyID, int* student) {
