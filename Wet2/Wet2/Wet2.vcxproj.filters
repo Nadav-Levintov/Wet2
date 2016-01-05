@@ -30,7 +30,7 @@
     <ClInclude Include="UnionFind.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DS.h">
+    <ClInclude Include="DataStruct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -44,7 +44,16 @@
     <ClCompile Include="HashTest.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DS.cpp">
+    <ClCompile Include="TestUnionFind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UnionFind.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="library2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStruct.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
