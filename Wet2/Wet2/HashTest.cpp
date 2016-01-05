@@ -23,7 +23,7 @@ int main()
 	try { s = ht.member(4); }
 	catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound e)
 	{
-		printf("All Good\n");
+		cout << "All Good" << endl;
 	}
 	return 0;
 }
