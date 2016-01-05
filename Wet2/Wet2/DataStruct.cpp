@@ -82,6 +82,8 @@ void DataStruct::JoinFaculties(int studyGroup1, int studyGroup2) {
 		maxArray[faculty1] = maxArray[faculty2];
 		maxIdArray[faculty1] = maxIdArray[faculty2];
 	}
+	maxArray[faculty2] = EMPTY;
+	maxIdArray[faculty2] = EMPTY;
 	/** Union */
 	facultys.Union(facultys.Find(studyGroup1), facultys.Find(studyGroup2));
 }

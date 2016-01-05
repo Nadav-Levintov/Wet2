@@ -35,7 +35,7 @@ int UnionFind::Find(int element) {
 }
 
 void UnionFind::Union(int set1, int set2) {
-	int small = (numOfEelements[set1] < numOfEelements[set2]) ? set1 : set2;
+	int small = (numOfEelements[set1] <= numOfEelements[set2]) ? set1 : set2;
 	int large = (small == set1) ? set2 : set1;
 	parent[small] = large;
 	numOfEelements[large] += numOfEelements[small];
