@@ -35,7 +35,7 @@ void DataStruct::AddStudent(int studentID, int average) {
 	gradesHistogram[average]++;
 }
 
-void DataStruct::AssignStudent( int studentID, int studyGroup) {
+void DataStruct::AssignStudent(int studentID, int studyGroup) {
 	if (studentID < 0 || studyGroup < 0 || studyGroup >= numOfFacultys) {
 		throw InvalidInput();
 	}
@@ -44,6 +44,9 @@ void DataStruct::AssignStudent( int studentID, int studyGroup) {
 		throw Failure();
 	}
 	Student s = studentTree.find(tmp)->getData();
+	if (s.getGroup() == studyGroup) {
+		return;
+	}
 	if (s.getGroup() != -1) {
 		throw Failure();
 	}
@@ -101,7 +104,7 @@ void DataStruct::GetFaculty(int studentID, int* faculty) {
 	*faculty = facultys.Find(ht.member(studentID).getGroup());
 }
 
-void DataStruct::UnifyFacultiesByStudents( int studentID1, int studentID2) {
+void DataStruct::UnifyFacultiesByStudents(int studentID1, int studentID2) {
 	if (studentID1 < 0 || studentID2 < 0) {
 		throw InvalidInput();
 	}
@@ -117,7 +120,7 @@ void DataStruct::UnifyFacultiesByStudents( int studentID1, int studentID2) {
 			facultys.Find(ht.member(studentID2).getGroup()));
 }
 
-void DataStruct::UpgradeStudyGroup( int studyGroup, int factor) {
+void DataStruct::UpgradeStudyGroup(int studyGroup, int factor) {
 	if (factor < 1 || studyGroup < 0 || studyGroup >= numOfFacultys) {
 		throw InvalidInput();
 	}
@@ -146,7 +149,7 @@ void DataStruct::UpgradeStudyGroup( int studyGroup, int factor) {
 	delete[] students;
 }
 
-void DataStruct::GetSmartestStudent( int facultyID, int* student) {
+void DataStruct::GetSmartestStudent(int facultyID, int* student) {
 	if (!student || facultyID < 0 || facultyID >= numOfFacultys) {
 		throw InvalidInput();
 	}
@@ -156,7 +159,7 @@ void DataStruct::GetSmartestStudent( int facultyID, int* student) {
 	*student = maxIdArray[facultyID];
 }
 
-void DataStruct::GetNumOfStudentsInRange( int fromAvg, int toAvg, int* num) {
+void DataStruct::GetNumOfStudentsInRange(int fromAvg, int toAvg, int* num) {
 	if (fromAvg >= toAvg || fromAvg < 0 || toAvg > 100) {
 		throw InvalidInput();
 	}
