@@ -65,7 +65,7 @@ StatusType AssignStudent(void * DS, int studentID, int studyGroup)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -92,7 +92,7 @@ StatusType JoinFaculties(void * DS, int studyGroup1, int studyGroup2)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -119,7 +119,7 @@ StatusType UnifyFacultiesByStudents(void * DS, int studentID1, int studentID2)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -146,7 +146,7 @@ StatusType GetFaculty(void * DS, int studentID, int * faculty)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -173,7 +173,7 @@ StatusType UpgradeStudyGroup(void * DS, int studyGroup, int factor)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -200,7 +200,7 @@ StatusType GetSmartestStudent(void * DS, int facultyID, int * student)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}
@@ -227,7 +227,7 @@ StatusType GetNumOfStudentsInRange(void * DS, int fromAvg, int toAvg, int * num)
 	{
 		return FAILURE;
 	}
-	catch (DataStruct::InvalidInput invalid)
+	catch (DataStruct::InvalidInput& invalid)
 	{
 		return INVALID_INPUT;
 	}

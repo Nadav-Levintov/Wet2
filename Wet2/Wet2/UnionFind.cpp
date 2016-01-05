@@ -1,4 +1,7 @@
 #include "UnionFind.h"
+#include <iostream>
+using std::cout;
+using std::endl;
 
 UnionFind::UnionFind(int n) :
 		size(n) {
@@ -20,10 +23,13 @@ UnionFind::~UnionFind() {
 }
 
 int UnionFind::Find(int element) {
+//	cout << "Find" << endl;
 	int root = element;
 	while (this->parent[root] != ROOT) {
+//		cout << root << " " << endl;
 		root = this->parent[root];
 	}
+//	cout << endl;
 	/* shrinking paths */
 	int ptr = element;
 	while (this->parent[ptr] != ROOT) {
@@ -35,8 +41,16 @@ int UnionFind::Find(int element) {
 }
 
 void UnionFind::Union(int set1, int set2) {
-	int small = (numOfEelements[set1] <= numOfEelements[set2]) ? set1 : set2;
+	int numOfElements1 = numOfEelements[set1];
+	int numOfElements2 = numOfEelements[set2];
+	int small = (numOfElements1 <= numOfElements2) ? set1 : set2;
 	int large = (small == set1) ? set2 : set1;
+	while (parent[small] != ROOT) {
+		small = parent[small];
+	}
+	while (parent[large] != ROOT) {
+		large = parent[large];
+	}
 	parent[small] = large;
 	numOfEelements[large] += numOfEelements[small];
 	numOfEelements[small] = 0;
