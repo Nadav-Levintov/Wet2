@@ -23,13 +23,13 @@ UnionFind::~UnionFind() {
 }
 
 int UnionFind::Find(int element) {
-//	cout << "Find" << endl;
+
 	int root = element;
 	while (this->parent[root] != ROOT) {
-//		cout << root << " " << endl;
+
 		root = this->parent[root];
 	}
-//	cout << endl;
+
 	/* shrinking paths */
 	int ptr = element;
 	while (this->parent[ptr] != ROOT) {

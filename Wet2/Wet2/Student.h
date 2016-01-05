@@ -9,7 +9,7 @@
 class Student
 {
 	int ID;
-	double avg;
+	int avg;
 	int studyGroup;
 
 public:
@@ -19,7 +19,7 @@ public:
 	int getID();
 	int getGroup();
 	void setGroup(int n);
-	double getAvg();
+	int getAvg();
 	void setAvg(int newAvg);
 };
 
