@@ -215,7 +215,7 @@ StatusType GetSmartestStudent(void * DS, int facultyID, int * student)
 
 StatusType GetNumOfStudentsInRange(void * DS, int fromAvg, int toAvg, int * num)
 {
-	if (!DS)
+	if (!DS || !num)
 	{
 		return INVALID_INPUT;
 	}
