@@ -1,6 +1,6 @@
 /***************************************************************************/
 /*                                                                         */
-/* 234218 Data DSs 1, Winter 2015-2016                                     */
+/* 234218 Data DSs 1, Spring 2016                                          */
 /*                                                                         */
 /* Homework : Wet 2                                                        */
 /*                                                                         */
@@ -23,28 +23,29 @@
 
 using namespace std;
 
+#ifdef __cplusplus
+extern "C" {
+#endif
 
 /* The command's strings */
 typedef enum {
 	NONE_CMD = -2,
 	COMMENT_CMD = -1,
 	INIT_CMD = 0,
-	ADDSTUDENT_CMD = 1,
-	ASSIGNSTUDENT_CMD = 2,
-	JOINFACULTIES_CMD = 3,
-	JOINFACULTIESBYSTUDENTS_CMD = 4,
-	GETFACULTY_CMD = 5,
-	UPGRADESTUDYGROUP_CMD = 6,
-	GETSMARTESTSTUDENT_CMD = 7,
-	GETNUMOFSTUDENTSINRANGE_CMD = 8,
-	QUIT_CMD = 9
+	ADDTROLL_CMD = 1,
+	ASSIGNTROLL_CMD = 2,
+	JOINGROUPS_CMD = 3,
+	GETGROUP_CMD = 4,
+	TEAMUPGRADE_CMD = 5,
+	GETSTRONGEST_CMD = 6,
+	GETINRANGE_CMD = 7,
+	QUIT_CMD = 8
 } commandType;
 
-static const int numActions = 10;
-
-static const char *commandStr[] = { "Init", "AddStudent", "AssignStudent",
-				    "JoinFaculties", "UnifyFacultiesByStudents", "GetFaculty", "UpgradeStudyGroup",
-				    "GetSmartestStudent", "GetNumOfStudentsInRange", "Quit" };
+static const int numActions = 9;
+static const char *commandStr[] = { "Init", "AddTroll", "AssignTroll",
+		"JoinGroups", "GetGroup", "TeamUpgrade",
+		"GetStrongestTroll", "GetNumOfTrollsInRange", "Quit" };
 
 static const char* ReturnValToStr(int val) {
 	switch (val) {
@@ -82,7 +83,6 @@ static bool isInit = false;
 /***************************************************************************/
 
 int main(int argc, const char**argv) {
-
 	char buffer[MAX_STRING_INPUT_SIZE];
 	// Reading commands
 	while (fgets(buffer, MAX_STRING_INPUT_SIZE, stdin) != NULL) {
@@ -100,7 +100,6 @@ int main(int argc, const char**argv) {
 
 static commandType CheckCommand(const char* const command,
 		const char** const command_arg) {
-
 	if (command == NULL || strlen(command) == 0 || StrCmp("\n", command))
 		return (NONE_CMD);
 	if (StrCmp("#", command)) {
@@ -123,20 +122,21 @@ static commandType CheckCommand(const char* const command,
 /***************************************************************************/
 
 static errorType OnInit(void** DS, const char* const command);
-static errorType OnAddStudent(void* DS, const char* const command);
-static errorType OnAssignStudent(void* DS, const char* const command);
-static errorType OnJoinFaculties(void* DS, const char* const command);
-static errorType OnUnifyFacultiesByStudents(void* DS, const char* const command);
-static errorType OnGetFaculty(void* DS, const char* const command);
-static errorType OnUpgradeStudyGroup(void* DS, const char* const command);
-static errorType OnGetSmartestStudent(void* DS, const char* const command);
-static errorType OnGetNumOfStudentsInRange(void* DS,const char* const command);
+static errorType OnAddTroll(void* DS, const char* const command);
+static errorType OnAssignTroll(void* DS, const char* const command);
+static errorType OnJoinGroups(void* DS, const char* const command);
+static errorType OnGetGroup(void* DS, const char* const command);
+static errorType OnTeamUpgrade(void* DS, const char* const command);
+static errorType OnGetStrongestTroll(void* DS, const char* const command);
+static errorType OnGetNumOfTrollsInRange(void* DS,
+		const char* const command);
 static errorType OnQuit(void** DS, const char* const command);
 
 
 /***************************************************************************/
 /* Parser                                                                  */
 /***************************************************************************/
+
 static errorType parser(const char* const command) {
 	static void *DS = NULL; /* The general data structure */
 	const char* command_args = NULL;
@@ -149,33 +149,31 @@ static errorType parser(const char* const command) {
 	case (INIT_CMD):
 		rtn_val = OnInit(&DS, command_args);
 		break;
-	case (ADDSTUDENT_CMD):
-		rtn_val = OnAddStudent(DS, command_args);
+	case (ADDTROLL_CMD):
+		rtn_val = OnAddTroll(DS, command_args);
 		break;
-	case (ASSIGNSTUDENT_CMD):
-		rtn_val = OnAssignStudent(DS, command_args);
+	case (ASSIGNTROLL_CMD):
+		rtn_val = OnAssignTroll(DS, command_args);
 		break;
-	case (JOINFACULTIES_CMD):
-		rtn_val = OnJoinFaculties(DS, command_args);
+	case (JOINGROUPS_CMD):
+		rtn_val = OnJoinGroups(DS, command_args);
 		break;
-        case (JOINFACULTIESBYSTUDENTS_CMD):
-                rtn_val = OnUnifyFacultiesByStudents(DS, command_args);
-                break;
-	case (GETFACULTY_CMD):
-		rtn_val = OnGetFaculty(DS, command_args);
+	case (GETGROUP_CMD):
+		rtn_val = OnGetGroup(DS, command_args);
 		break;
-	case (UPGRADESTUDYGROUP_CMD):
-		rtn_val = OnUpgradeStudyGroup(DS, command_args);
+	case (TEAMUPGRADE_CMD):
+		rtn_val = OnTeamUpgrade(DS, command_args);
 		break;
-	case (GETSMARTESTSTUDENT_CMD):
-		rtn_val = OnGetSmartestStudent(DS, command_args);
+	case (GETSTRONGEST_CMD):
+		rtn_val = OnGetStrongestTroll(DS, command_args);
 		break;
-	case (GETNUMOFSTUDENTSINRANGE_CMD):
-		rtn_val = OnGetNumOfStudentsInRange(DS, command_args);
+	case (GETINRANGE_CMD):
+		rtn_val = OnGetNumOfTrollsInRange(DS, command_args);
 		break;
 	case (QUIT_CMD):
 		rtn_val = OnQuit(&DS, command_args);
 		break;
+
 	case (COMMENT_CMD):
 		rtn_val = error_free;
 		break;
@@ -214,143 +212,121 @@ static errorType OnInit(void** DS, const char* const command) {
 }
 
 /***************************************************************************/
-/* OnAddStudent                                                          */
+/* OnAddTroll                                                          */
 /***************************************************************************/
-static errorType OnAddStudent(void* DS, const char* const command) {
+static errorType OnAddTroll(void* DS, const char* const command) {
+	int trollID;
+	int strength;
+	ValidateRead( sscanf(command, "%d %d",&trollID,&strength), 2,
+			"AddTroll failed.\n");
+	StatusType res = AddTroll(DS, trollID, strength);
 
-	int studentID;
-	int average;
-	ValidateRead( sscanf(command, "%d %d",&studentID,&average), 2,
-			"AddStudent failed.\n");
-	StatusType res = AddStudent(DS, studentID, average);
-
-	printf("AddStudent: %s\n", ReturnValToStr(res));
+	printf("AddTroll: %s\n", ReturnValToStr(res));
 
 	return error_free;
 }
 
 /***************************************************************************/
-/* OnAddStudentToStudyGroup                                                */
+/* OnAssignTroll                                                       */
 /***************************************************************************/
-static errorType OnAssignStudent(void* DS, const char* const command) {
+static errorType OnAssignTroll(void* DS, const char* const command) {
+	int trollID;
+	int team;
+	ValidateRead( sscanf(command, "%d %d",&trollID,&team), 2,
+			"AssignTroll failed.\n");
+	StatusType res = AssignTroll(DS, trollID, team);
 
-	int studentID;
-	int study_grp;
-	ValidateRead( sscanf(command, "%d %d",&studentID,&study_grp), 2,
-			"AssignStudent failed.\n");
-	StatusType res = AssignStudent(DS, studentID, study_grp);
-
-	printf("AssignStudent: %s\n", ReturnValToStr(res));
-
-	return error_free;
-}
-
-
-/***************************************************************************/
-/* OnUnifyFacultiesByStudents                                              */
-/***************************************************************************/
-static errorType OnUnifyFacultiesByStudents(void* DS, const char* const command) {
-
-  int studentID1;
-  int studentID2;
-
-  ValidateRead( sscanf(command, "%d %d",&studentID1,&studentID2), 2,
-			"UnifyFacultiesByStudents failed.\n");
-
-  StatusType res = UnifyFacultiesByStudents(DS, studentID1, studentID2);
-
-  printf("UnifyFacultiesByStudents: %s\n", ReturnValToStr(res));
-
-  return error_free;
-}
-
-
-/***************************************************************************/
-/* OnJoinFaculties                                                       */
-/***************************************************************************/
-static errorType OnJoinFaculties(void* DS, const char* const command) {
-	int study_grp1;
-	int study_grp2;
-	ValidateRead( sscanf(command, "%d %d",&study_grp1,&study_grp2), 2,
-			"JoinFaculties failed.\n");
-	StatusType res = JoinFaculties(DS, study_grp1, study_grp2);
-
-	printf("JoinFaculties: %s\n", ReturnValToStr(res));
+	printf("AssignTroll: %s\n", ReturnValToStr(res));
 
 	return error_free;
 }
 
 /***************************************************************************/
-/* OnGetFaculty                                                         */
+/* OnJoinGroups                                                       */
 /***************************************************************************/
-static errorType OnGetFaculty(void* DS, const char* const command) {
-	int studentID;
-	ValidateRead( sscanf(command, "%d",&studentID), 1,
-			"GetFaculty failed.\n");
-	int faculty;
-	StatusType res = GetFaculty(DS, studentID, &faculty);
+static errorType OnJoinGroups(void* DS, const char* const command) {
+	int team1;
+	int team2;
+	ValidateRead( sscanf(command, "%d %d",&team1,&team2), 2,
+			"JoinGroups failed.\n");
+	StatusType res = JoinGroups(DS, team1, team2);
+
+	printf("JoinGroups: %s\n", ReturnValToStr(res));
+
+	return error_free;
+}
+
+/***************************************************************************/
+/* OnGetGroup                                                         */
+/***************************************************************************/
+static errorType OnGetGroup(void* DS, const char* const command) {
+	int trollID;
+	ValidateRead( sscanf(command, "%d",&trollID), 1,
+			"GetGroup failed.\n");
+	int dep;
+	StatusType res = GetGroup(DS, trollID, &dep);
 
 	if (res != SUCCESS) {
-		printf("GetFaculty: %s\n", ReturnValToStr(res));
+		printf("GetGroup: %s\n", ReturnValToStr(res));
 	} else {
-		printf("GetFaculty: %s %d\n", ReturnValToStr(res), faculty);
+		printf("GetGroup: %s %d\n", ReturnValToStr(res), dep);
 	}
 
 	return error_free;
 }
 
 /***************************************************************************/
-/* OnUpgradeStudyGroup                                                           */
+/* OnTeamUpgrade                                                           */
 /***************************************************************************/
-static errorType OnUpgradeStudyGroup(void* DS, const char* const command) {
-	int groupID;
+static errorType OnTeamUpgrade(void* DS, const char* const command) {
+	int teamID;
 	int factor;
-	ValidateRead( sscanf(command, "%d %d",&groupID,&factor), 2,
-			"UpgradeStudyGroup failed.\n");
-	StatusType res = UpgradeStudyGroup(DS, groupID, factor);
+	ValidateRead( sscanf(command, "%d %d",&teamID,&factor), 2,
+			"TeamUpgrade failed.\n");
+	StatusType res = TeamUpgrade(DS, teamID, factor);
 
-	printf("UpgradeStudyGroup: %s\n", ReturnValToStr(res));
+	printf("TeamUpgrade: %s\n", ReturnValToStr(res));
 
 	return error_free;
 }
 
 /***************************************************************************/
-/* OnGetSmartestStudent                                                 */
+/* OnGetStrongestTroll                                                 */
 /***************************************************************************/
-static errorType OnGetSmartestStudent(void* DS, const char* const command) {
+static errorType OnGetStrongestTroll(void* DS, const char* const command) {
 	int groupID;
 	ValidateRead( sscanf(command, "%d",&groupID), 1,
-			"GetSmartestStudent failed.\n");
-	int student;
-	StatusType res = GetSmartestStudent(DS, groupID, &student);
+			"GetStrongestTroll failed.\n");
+	int troll;
+	StatusType res = GetStrongestTroll(DS, groupID, &troll);
 
 	if (res != SUCCESS) {
-		printf("GetSmartestStudent: %s\n", ReturnValToStr(res));
+		printf("GetStrongestTroll: %s\n", ReturnValToStr(res));
 	} else {
-		printf("GetSmartestStudent: %s %d\n", ReturnValToStr(res),
-				student);
+		printf("GetStrongestTroll: %s %d\n", ReturnValToStr(res),
+				troll);
 	}
 
 	return error_free;
 }
 
 /***************************************************************************/
-/* OnGetNumOfStudentsInRange                                                 */
+/* OnGetNumOfTrollsInRange                                             */
 /***************************************************************************/
-static errorType OnGetNumOfStudentsInRange(void* DS,
+static errorType OnGetNumOfTrollsInRange(void* DS,
 		const char* const command) {
 	int min;
 	int max;
 	ValidateRead( sscanf(command, "%d %d",&min,&max), 2,
-			"GetNumOfSuperherosInRange failed.\n");
-	int student;
-	StatusType res = GetNumOfStudentsInRange(DS, min, max, &student);
+			"GetNumOfTrollsInRange failed.\n");
+	int troll;
+	StatusType res = GetNumOfTrollsInRange(DS, min, max, &troll);
 
 	if (res != SUCCESS) {
-		printf("GetNumOfStudentsInRange: %s\n", ReturnValToStr(res));
+		printf("GetNumOfTrollsInRange: %s\n", ReturnValToStr(res));
 	} else {
-		printf("GetNumOfStudentsInRange: %s %d\n", ReturnValToStr(res),
-				student);
+		printf("GetNumOfTrollsInRange: %s %d\n", ReturnValToStr(res),
+				troll);
 	}
 
 	return error_free;
@@ -371,3 +347,6 @@ static errorType OnQuit(void** DS, const char* const command) {
 	return error_free;
 }
 
+#ifdef __cplusplus
+}
+#endif
