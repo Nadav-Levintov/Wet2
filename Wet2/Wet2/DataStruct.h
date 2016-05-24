@@ -7,7 +7,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#include "Student.h"
+#include "Troll.h"
 #include "UnionFind.h"
 #include "HashTable.h"
 #include "AVLTree.h"
@@ -18,13 +18,13 @@ using std::exception;
 
 class DataStruct
 {
-	int numOfFacultys;
+	int numOfGroups;
 	int* maxArray;
 	int* maxIdArray;
-	int* gradesHistogram;
-	UnionFind facultys;
-	avlTree<Student, StudentComparer> studentTree;
-	HashTable<Student, StudentComparer, StudentIDKey> ht;
+	int* strengthHistogram;
+	UnionFind groups;
+	avlTree<Troll, TrollComparer> TrollTree;
+	HashTable<Troll, TrollComparer, TrollIDKey> ht;
 
 
 public:
@@ -33,14 +33,14 @@ public:
 
 	DataStruct(int numOfFacu);
 	~DataStruct();
-	void AddStudent(int studentID, int average);
-	void AssignStudent(int studentID, int studyGroup);
-	void JoinFaculties(int studyGroup1, int studyGroup2);
-	void GetFaculty(int studentID, int *faculty);
-	void UnifyFacultiesByStudents(int studentID1, int studentID2);
-	void UpgradeStudyGroup(int studyGroup, int factor);
-	void GetSmartestStudent(int facultyID, int* student);
-	void GetNumOfStudentsInRange(int fromAvg, int toAvg, int* num);
+	void AddTroll(int TrollID, int strength);
+	void AssignTroll(int TrollID, int team);
+	void JoinGroups(int team1, int team2);
+	void GetGroup(int TrollID, int *group);
+	/*void UnifyFacultiesByTrolls(int TrollID1, int TrollID2);*/
+	void TeamUpgrade(int team, int factor);
+	void GetStrongestTroll(int groupID, int* Troll);
+	void GetNumOfTrollsInRange(int fromStrength, int toStrength, int* num);
 };
 
 #endif /*DS_H*/

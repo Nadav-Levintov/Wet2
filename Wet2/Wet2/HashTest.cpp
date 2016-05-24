@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string>
 #include <cstring>
-#include "Student.h"
+#include "Troll.h"
 #include "HashTable.h"
 
 using namespace std;
@@ -11,17 +11,17 @@ using namespace std;
 int main()
 {
 
-	HashTable<Student, StudentComparer, StudentIDKey> ht = HashTable<Student, StudentComparer, StudentIDKey>();
-	Student s1(1, 2);
+	HashTable<Troll, TrollComparer, TrollIDKey> ht = HashTable<Troll, TrollComparer, TrollIDKey>();
+	Troll s1(1, 2);
 	ht.insert(s1);
-	Student s2(2, 2);
+	Troll s2(2, 2);
 	ht.insert(s2);
-	Student s3(3, 2);
+	Troll s3(3, 2);
 	ht.insert(s3);
 
-	Student s = ht.member(3);
+	Troll s = ht.member(3);
 	try { s = ht.member(4); }
-	catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound e)
+	catch (HashTable<Troll, TrollComparer, TrollIDKey>::NotFound e)
 	{
 		cout << "All Good" << endl;
 	}

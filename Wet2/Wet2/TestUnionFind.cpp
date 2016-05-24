@@ -47,7 +47,7 @@ int main() {
 	int* names = UF.getGroupName();
 	int* parents = UF.getParent();
 	int* sizes = UF.getNumOfEelements();
-	cout << "group names:\n";
+	cout << "team names:\n";
 	for (int i = 0; i < 8; i++) {
 		cout << names[i] << " ";
 	}

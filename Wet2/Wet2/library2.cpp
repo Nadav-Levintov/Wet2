@@ -28,15 +28,15 @@ void * Init(int n)
 
 }
 
-StatusType AddStudent(void * DS, int studentID, int average)
+StatusType AddTroll(void * DS, int TrollID, int strength)
 {
-	if (!DS || studentID < 0 || average < 0 || average>100)
+	if (!DS || TrollID < 0 || strength < 0)
 	{
 		return INVALID_INPUT;
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->AddStudent(studentID, average);
+		data->AddTroll(TrollID, strength);
 	}
 	catch (DataStruct::Failure& f)
 	{
@@ -51,7 +51,7 @@ StatusType AddStudent(void * DS, int studentID, int average)
 	return SUCCESS;
 }
 
-StatusType AssignStudent(void * DS, int studentID, int studyGroup)
+StatusType AssignTroll(void * DS, int TrollID, int team)
 {
 	if (!DS)
 	{
@@ -59,7 +59,7 @@ StatusType AssignStudent(void * DS, int studentID, int studyGroup)
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->AssignStudent(studentID, studyGroup);
+		data->AssignTroll(TrollID, team);
 	}
 	catch (DataStruct::Failure& f)
 	{
@@ -78,7 +78,7 @@ StatusType AssignStudent(void * DS, int studentID, int studyGroup)
 	return SUCCESS;
 }
 
-StatusType JoinFaculties(void * DS, int studyGroup1, int studyGroup2)
+StatusType JoinGroups(void * DS, int team1, int team2)
 {
 	if (!DS)
 	{
@@ -86,7 +86,61 @@ StatusType JoinFaculties(void * DS, int studyGroup1, int studyGroup2)
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->JoinFaculties(studyGroup1, studyGroup2);
+		data->JoinGroups(team1, team2);
+	}
+	catch (DataStruct::Failure& f)
+	{
+		return FAILURE;
+	}
+	catch (DataStruct::InvalidInput& invalid)
+	{
+		return INVALID_INPUT;
+	}
+	catch (std::bad_alloc& ba)
+	{
+		return ALLOCATION_ERROR;
+	}
+
+
+	return SUCCESS;
+}
+/*
+StatusType UnifyFacultiesByTrolls(void * DS, int TrollID1, int TrollID2)
+{
+	if (!DS)
+	{
+		return INVALID_INPUT;
+	}
+	DataStruct* data = (DataStruct*)DS;
+	try {
+		data->UnifyFacultiesByTrolls(TrollID1, TrollID2);
+	}
+	catch (DataStruct::Failure& f)
+	{
+		return FAILURE;
+	}
+	catch (DataStruct::InvalidInput& invalid)
+	{
+		return INVALID_INPUT;
+	}
+	catch (std::bad_alloc& ba)
+	{
+		return ALLOCATION_ERROR;
+	}
+	
+
+	return SUCCESS;
+}
+*/
+StatusType GetGroup(void * DS, int TrollID, int * group)
+{
+	if (!DS)
+	{
+		return INVALID_INPUT;
+	}
+	DataStruct* data = (DataStruct*)DS;
+	try {
+		data->GetGroup(TrollID, group);
 	}
 	catch (DataStruct::Failure& f)
 	{
@@ -105,7 +159,7 @@ StatusType JoinFaculties(void * DS, int studyGroup1, int studyGroup2)
 	return SUCCESS;
 }
 
-StatusType UnifyFacultiesByStudents(void * DS, int studentID1, int studentID2)
+StatusType TeamUpgrade(void * DS, int team, int factor)
 {
 	if (!DS)
 	{
@@ -113,7 +167,7 @@ StatusType UnifyFacultiesByStudents(void * DS, int studentID1, int studentID2)
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->UnifyFacultiesByStudents(studentID1, studentID2);
+		data->TeamUpgrade(team, factor);
 	}
 	catch (DataStruct::Failure& f)
 	{
@@ -132,7 +186,7 @@ StatusType UnifyFacultiesByStudents(void * DS, int studentID1, int studentID2)
 	return SUCCESS;
 }
 
-StatusType GetFaculty(void * DS, int studentID, int * faculty)
+StatusType GetStrongestTroll(void * DS, int groupID, int * Troll)
 {
 	if (!DS)
 	{
@@ -140,7 +194,7 @@ StatusType GetFaculty(void * DS, int studentID, int * faculty)
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->GetFaculty(studentID, faculty);
+		data->GetStrongestTroll(groupID,Troll);
 	}
 	catch (DataStruct::Failure& f)
 	{
@@ -159,61 +213,7 @@ StatusType GetFaculty(void * DS, int studentID, int * faculty)
 	return SUCCESS;
 }
 
-StatusType UpgradeStudyGroup(void * DS, int studyGroup, int factor)
-{
-	if (!DS)
-	{
-		return INVALID_INPUT;
-	}
-	DataStruct* data = (DataStruct*)DS;
-	try {
-		data->UpgradeStudyGroup(studyGroup, factor);
-	}
-	catch (DataStruct::Failure& f)
-	{
-		return FAILURE;
-	}
-	catch (DataStruct::InvalidInput& invalid)
-	{
-		return INVALID_INPUT;
-	}
-	catch (std::bad_alloc& ba)
-	{
-		return ALLOCATION_ERROR;
-	}
-
-
-	return SUCCESS;
-}
-
-StatusType GetSmartestStudent(void * DS, int facultyID, int * student)
-{
-	if (!DS)
-	{
-		return INVALID_INPUT;
-	}
-	DataStruct* data = (DataStruct*)DS;
-	try {
-		data->GetSmartestStudent(facultyID,student);
-	}
-	catch (DataStruct::Failure& f)
-	{
-		return FAILURE;
-	}
-	catch (DataStruct::InvalidInput& invalid)
-	{
-		return INVALID_INPUT;
-	}
-	catch (std::bad_alloc& ba)
-	{
-		return ALLOCATION_ERROR;
-	}
-
-
-	return SUCCESS;
-}
-
-StatusType GetNumOfStudentsInRange(void * DS, int fromAvg, int toAvg, int * num)
+StatusType GetNumOfTrollsInRange(void * DS, int min, int max, int * num)
 {
 	if (!DS || !num)
 	{
@@ -221,7 +221,7 @@ StatusType GetNumOfStudentsInRange(void * DS, int fromAvg, int toAvg, int * num)
 	}
 	DataStruct* data = (DataStruct*)DS;
 	try {
-		data->GetNumOfStudentsInRange(fromAvg,toAvg,num);
+		data->GetNumOfTrollsInRange(min,max,num);
 	}
 	catch (DataStruct::Failure& f)
 	{

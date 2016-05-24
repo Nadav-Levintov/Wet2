@@ -1,171 +1,171 @@
 #include "DataStruct.h"
 
 DataStruct::DataStruct(int numOfFacu) :
-		numOfFacultys(numOfFacu), facultys(numOfFacu) {
+		numOfGroups(numOfFacu), groups(numOfFacu) {
 	if (numOfFacu < 2) {
 		throw InvalidInput();
 	}
 	maxArray = new int[numOfFacu];
 	maxIdArray = new int[numOfFacu];
-	gradesHistogram = new int[101];
+	strengthHistogram = new int[101];
 	for (int i = 0; i < numOfFacu; i++) {
 		maxArray[i] = EMPTY;
 		maxIdArray[i] = EMPTY;
 	}
 	for (int i = 0; i <= 100; i++) {
-		gradesHistogram[i] = 0;
+		strengthHistogram[i] = 0;
 	}
 }
 
 DataStruct::~DataStruct() {
 	delete[] maxArray;
 	delete[] maxIdArray;
-	delete[] gradesHistogram;
+	delete[] strengthHistogram;
 }
 
-void DataStruct::AddStudent(int studentID, int average) {
-	if (average > 100 || average < 0 || studentID < 0) {
+void DataStruct::AddTroll(int TrollID, int strength) {
+	if (strength < 0 || TrollID < 0) {
 		throw InvalidInput();
 	}
-	Student s(studentID, average);
-	if (studentTree.find(s)) {
+	Troll s(TrollID, strength);
+	if (TrollTree.find(s)) {
 		throw Failure();
 	}
-	studentTree.insert(s);
-	gradesHistogram[average]++;
+	TrollTree.insert(s);
+	strengthHistogram[strength]++;
 }
 
-void DataStruct::AssignStudent(int studentID, int studyGroup) {
-	if (studentID < 0 || studyGroup < 0 || studyGroup >= numOfFacultys) {
+void DataStruct::AssignTroll(int TrollID, int team) {
+	if (TrollID < 0 || team < 0 || team >= numOfGroups) {
 		throw InvalidInput();
 	}
-	Student tmp(studentID);
-	if (!studentTree.find(tmp)) {
+	Troll tmp(TrollID);
+	if (!TrollTree.find(tmp)) {
 		throw Failure();
 	}
-	Student s = studentTree.find(tmp)->getData();
-	if (s.getGroup() == studyGroup) {
+	Troll s = TrollTree.find(tmp)->getData();
+	if (s.getGroup() == team) {
 		return;
 	}
 	if (s.getGroup() != -1) {
 		throw Failure();
 	}
-	s.setGroup(studyGroup);
+	s.setGroup(team);
 	ht.insert(s);
-	int faculty = facultys.Find(studyGroup);
-	if (maxArray[faculty] <= s.getAvg()) {
-		if (maxArray[faculty] == s.getAvg()) {
-			if (maxIdArray[faculty] > s.getID()) {
-				maxIdArray[faculty] = s.getID();
+	int group = groups.Find(team);
+	if (maxArray[group] <= s.getStrength()) {
+		if (maxArray[group] == s.getStrength()) {
+			if (maxIdArray[group] > s.getID()) {
+				maxIdArray[group] = s.getID();
 			}
 		} else {
-			maxIdArray[faculty] = s.getID();
-			maxArray[faculty] = s.getAvg();
+			maxIdArray[group] = s.getID();
+			maxArray[group] = s.getStrength();
 		}
 	}
-	studentTree.remove(s);
-	studentTree.insert(s);
+	TrollTree.remove(s);
+	TrollTree.insert(s);
 
 }
 
-void DataStruct::JoinFaculties(int studyGroup1, int studyGroup2) {
-	if (studyGroup1 < 0 || studyGroup2 < 0 || studyGroup1 >= numOfFacultys
-			|| studyGroup2 >= numOfFacultys) {
+void DataStruct::JoinGroups(int team1, int team2) {
+	if (team1 < 0 || team2 < 0 || team1 >= numOfGroups
+			|| team2 >= numOfGroups) {
 		throw InvalidInput();
 	}
-	int faculty1 = facultys.Find(studyGroup1);
-	int faculty2 = facultys.Find(studyGroup2);
-	if (faculty1 == faculty2) {
+	int group1 = groups.Find(team1);
+	int group2 = groups.Find(team2);
+	if (group1 == group2) {
 		throw Failure();
 	}
 	/** Updating Max */
-	if (maxArray[faculty2] > maxArray[faculty1]
-			|| ((maxArray[faculty2] == maxArray[faculty1])
-					&& maxIdArray[faculty2] < maxIdArray[faculty1])) {
-		maxArray[faculty1] = maxArray[faculty2];
-		maxIdArray[faculty1] = maxIdArray[faculty2];
+	if (maxArray[group2] > maxArray[group1]
+			|| ((maxArray[group2] == maxArray[group1])
+					&& maxIdArray[group2] < maxIdArray[group1])) {
+		maxArray[group1] = maxArray[group2];
+		maxIdArray[group1] = maxIdArray[group2];
 	}
-	maxArray[faculty2] = EMPTY;
-	maxIdArray[faculty2] = EMPTY;
+	maxArray[group2] = EMPTY;
+	maxIdArray[group2] = EMPTY;
 	/** Union */
-	facultys.Union(faculty1, faculty2);
+	groups.Union(group1, group2);
 }
 
-void DataStruct::GetFaculty(int studentID, int* faculty) {
-	if (studentID < 0 || !faculty) {
+void DataStruct::GetGroup(int TrollID, int* group) {
+	if (TrollID < 0 || !group) {
 		throw InvalidInput();
 	}
-	Student s;
+	Troll s;
 	try {
-		s = ht.member(studentID);
-	} catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound& e) {
+		s = ht.member(TrollID);
+	} catch (HashTable<Troll, TrollComparer, TrollIDKey>::NotFound& e) {
 		throw Failure();
 	}
-	*faculty = facultys.Find(ht.member(studentID).getGroup());
+	*group = groups.Find(ht.member(TrollID).getGroup());
 }
-
-void DataStruct::UnifyFacultiesByStudents(int studentID1, int studentID2) {
-	if (studentID1 < 0 || studentID2 < 0) {
+/*
+void DataStruct::UnifyFacultiesByTrolls(int TrollID1, int TrollID2) {
+	if (TrollID1 < 0 || TrollID2 < 0) {
 		throw InvalidInput();
 	}
 	try {
-		if (facultys.Find(ht.member(studentID1).getGroup())
-				== facultys.Find(ht.member(studentID2).getGroup())) {
+		if (groups.Find(ht.member(TrollID1).getGroup())
+				== groups.Find(ht.member(TrollID2).getGroup())) {
 			throw Failure();
 		}
-	} catch (HashTable<Student, StudentComparer, StudentIDKey>::NotFound& e) {
+	} catch (HashTable<Troll, TrollComparer, TrollIDKey>::NotFound& e) {
 		throw Failure();
 	}
-	JoinFaculties(facultys.Find(ht.member(studentID1).getGroup()),
-			facultys.Find(ht.member(studentID2).getGroup()));
+	JoinFaculties(groups.Find(ht.member(TrollID1).getGroup()),
+			groups.Find(ht.member(TrollID2).getGroup()));
 }
-
-void DataStruct::UpgradeStudyGroup(int studyGroup, int factor) {
-	if (factor < 1 || studyGroup < 0 || studyGroup >= numOfFacultys) {
+*/
+void DataStruct::TeamUpgrade(int team, int factor) {
+	if (factor < 1 || team < 0 || team >= numOfGroups) {
 		throw InvalidInput();
 	}
-	int faculty = facultys.Find(studyGroup);
-	Student* students = studentTree.inOrder();
-	int numOfStudents = studentTree.getSize();
-	for (int i = 0; i < numOfStudents; i++) {
-		if (students[i].getGroup() == studyGroup) {
-			int oldAvg = students[i].getAvg();
-			int newAvg = (100 < oldAvg * factor) ? 100 : oldAvg * factor;
-			students[i].setAvg(newAvg);
-			gradesHistogram[oldAvg]--;
-			gradesHistogram[newAvg]++;
-			if (newAvg > maxArray[faculty]
-					|| ((newAvg == maxArray[faculty])
-							&& students[i].getID() < maxIdArray[faculty])) {
-				maxArray[faculty] = newAvg;
-				maxIdArray[faculty] = students[i].getID();
+	int group = groups.Find(team);
+	Troll* Trolls = TrollTree.inOrder();
+	int numOfTrolls = TrollTree.getSize();
+	for (int i = 0; i < numOfTrolls; i++) {
+		if (Trolls[i].getGroup() == team) {
+			int oldStrength = Trolls[i].getStrength();
+			int newStrength = (100 < oldStrength * factor) ? 100 : oldStrength * factor;
+			Trolls[i].setStrength(newStrength);
+			strengthHistogram[oldStrength]--;
+			strengthHistogram[newStrength]++;
+			if (newStrength > maxArray[group]
+					|| ((newStrength == maxArray[group])
+							&& Trolls[i].getID() < maxIdArray[group])) {
+				maxArray[group] = newStrength;
+				maxIdArray[group] = Trolls[i].getID();
 			}
 		}
 	}
-	studentTree.clear();
-	studentTree.buildEmpty(numOfStudents);
+	TrollTree.clear();
+	TrollTree.buildEmpty(numOfTrolls);
 	int index = 0;
-	studentTree.inOrderInsert(students, &index);
-	delete[] students;
+	TrollTree.inOrderInsert(Trolls, &index);
+	delete[] Trolls;
 }
 
-void DataStruct::GetSmartestStudent(int facultyID, int* student) {
-	if (!student || facultyID < 0 || facultyID >= numOfFacultys) {
+void DataStruct::GetStrongestTroll(int groupID, int* Troll) {
+	if (!Troll || groupID < 0 || groupID >= numOfGroups) {
 		throw InvalidInput();
 	}
-	if (maxIdArray[facultyID] == EMPTY) {
+	if (maxIdArray[groupID] == EMPTY) {
 		throw Failure();
 	}
-	*student = maxIdArray[facultyID];
+	*Troll = maxIdArray[groupID];
 }
 
-void DataStruct::GetNumOfStudentsInRange(int fromAvg, int toAvg, int* num) {
-	if (fromAvg >= toAvg || fromAvg < 0 || toAvg > 100) {
+void DataStruct::GetNumOfTrollsInRange(int fromStrength, int toStrength, int* num) {
+	if (fromStrength >= toStrength || fromStrength < 0 || toStrength > 100) {
 		throw InvalidInput();
 	}
 	int counter = 0;
-	for (int i = fromAvg + 1; i <= toAvg; i++) {
-		counter += gradesHistogram[i];
+	for (int i = fromStrength + 1; i <= toStrength; i++) {
+		counter += strengthHistogram[i];
 	}
 	*num = counter;
 }
