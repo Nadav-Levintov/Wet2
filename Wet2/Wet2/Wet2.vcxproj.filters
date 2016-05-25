@@ -21,9 +21,6 @@
     <ClInclude Include="AVLTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Student.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="HashTable.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -33,12 +30,15 @@
     <ClInclude Include="DataStruct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="AVLRankTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Troll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Student.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="HashTest.cpp">
@@ -54,6 +54,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="DataStruct.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Troll.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

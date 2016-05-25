@@ -39,7 +39,6 @@ class DataStruct
 	rankTree<int, intComparer> strengthTree;
 	HashTable<Troll, TrollComparer, TrollIDKey> ht;
 
-
 public:
 	class InvalidInput :public exception {};
 	class Failure :public exception {};

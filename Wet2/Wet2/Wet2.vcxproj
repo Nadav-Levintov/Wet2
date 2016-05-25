@@ -19,11 +19,12 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AVLRankTree.h" />
     <ClInclude Include="AVLTree.h" />
     <ClInclude Include="DataStruct.h" />
     <ClInclude Include="HashTable.h" />
     <ClInclude Include="library2.h" />
-    <ClInclude Include="Student.h" />
+    <ClInclude Include="Troll.h" />
     <ClInclude Include="UnionFind.h" />
   </ItemGroup>
   <ItemGroup>
@@ -35,10 +36,10 @@
     <ClCompile Include="HashTest.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="Student.cpp" />
     <ClCompile Include="TestUnionFind.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Troll.cpp" />
     <ClCompile Include="UnionFind.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
