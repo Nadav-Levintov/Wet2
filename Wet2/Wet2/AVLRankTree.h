@@ -929,6 +929,7 @@ int rankTree<T, C>::rankAux(T & item, rankNode<T, C>* node)
 	if (comparer(data, item)) // Current node is smaller then item? keep searching right.
 	{
 		int leftS = (node->getLeft()) ? node->getLeft()->getsubTreeData() : 0;
+		leftS += node->getCurrentData();
 		return leftS + rankAux(item, node->getRight());
 	}
 	return 1; //found item.
