@@ -45,5 +45,20 @@ public:
 		return a.getID() > b.getID();
 	}
 };
+
+class TrollStrengthComparer {
+public:
+	TrollStrengthComparer() {
+	}
+	~TrollStrengthComparer() {
+	}
+	bool operator()(Troll& a, Troll& b) {
+		if(a.getStrength() == b.getStrength())
+			return a.getID() > b.getID();
+		else
+			return a.getStrength() < b.getStrength();
+	}
+};
+
 #endif /*Troll_H*/
 

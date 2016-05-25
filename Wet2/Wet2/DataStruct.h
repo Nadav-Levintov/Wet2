@@ -11,19 +11,32 @@
 #include "UnionFind.h"
 #include "HashTable.h"
 #include "AVLTree.h"
+#include "AVLRankTree.h"
 
 #define EMPTY -1
 
 using std::exception;
+
+class intComparer {
+public:
+	intComparer() {
+	}
+	~intComparer() {
+	}
+	bool operator()(int a, int b) {
+		return a < b;
+	}
+};
 
 class DataStruct
 {
 	int numOfGroups;
 	int* maxArray;
 	int* maxIdArray;
-	int* strengthHistogram;
 	UnionFind groups;
 	avlTree<Troll, TrollComparer> TrollTree;
+	avlTree<Troll, TrollStrengthComparer> TrollStrengthTree;
+	rankTree<int, intComparer> strengthTree;
 	HashTable<Troll, TrollComparer, TrollIDKey> ht;
 
 
@@ -31,7 +44,7 @@ public:
 	class InvalidInput :public exception {};
 	class Failure :public exception {};
 
-	DataStruct(int numOfFacu);
+	DataStruct(int numOfTeams);
 	~DataStruct();
 	void AddTroll(int TrollID, int strength);
 	void AssignTroll(int TrollID, int team);
