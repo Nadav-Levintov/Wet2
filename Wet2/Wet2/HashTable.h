@@ -6,6 +6,7 @@
 #include <assert.h>
 #include <exception>
 
+#define ARRAYINITIAL 11
 #define ARRAYINLARGE 2
 #define ARRAYFULLFACTOR 1
 using std::exception;
@@ -47,7 +48,7 @@ public:
 	class NotFound :public exception {};
 	class Exists :public exception {};
 
-	HashTable(int initSize = 2) : arraySize(initSize), numOfItems(0)
+	HashTable(int initSize = ARRAYINITIAL) : arraySize(initSize), numOfItems(0)
 	{
 		keyFunc = K();
 		hashArray = new avlTree<T, C>[arraySize];
