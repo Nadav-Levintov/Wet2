@@ -39,6 +39,8 @@ class DataStruct
 	rankTree<int, intComparer> strengthTree;
 	HashTable<Troll, TrollComparer, TrollIDKey> ht;
 
+	static Troll* mergeTrollsArray(Troll* array1, Troll* array2, int num);
+	static void buildStrengthHistogram(Troll* strengthArray, int** histogramData,int** histogramBase, int numOfTrolls, int* numOfStrengths);
 public:
 	class InvalidInput :public exception {};
 	class Failure :public exception {};
