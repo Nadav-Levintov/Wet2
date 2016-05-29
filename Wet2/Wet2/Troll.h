@@ -21,6 +21,7 @@ public:
 	void setGroup(int n);
 	int getStrength();
 	void setStrength(int newStrength);
+	void setID(int n);
 };
 
 

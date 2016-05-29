@@ -38,3 +38,8 @@ int Troll::getStrength()
 void Troll::setStrength(int newStrength) {
 	strength = newStrength;
 }
+
+void Troll::setID(int n)
+{
+	ID = n;
+}

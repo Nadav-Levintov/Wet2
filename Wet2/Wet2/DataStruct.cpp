@@ -271,7 +271,7 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 			int newStrength = oldStrength * factor;
 			newStrengthArray[x] = TrollsByStrength[i];
 			newStrengthArray[x].setStrength(newStrength);
-			Trolls[i] = Troll();
+			TrollsByStrength[i].setID(NOTROLL);
 			x++;
 		}
 	}
