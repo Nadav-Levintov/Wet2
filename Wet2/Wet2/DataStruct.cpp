@@ -56,10 +56,10 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 	return merged;
 }
 
-void DataStruct::buildStrengthHistogram(Troll * strengthArray, int ** histogramData, int ** histogramBase, int numOfTrolls,int* numOfStrengths)
+void DataStruct::buildStrengthHistogram(Troll * strengthArray, int ** histogramData, int ** histogramBase, int numOfTrolls, int* numOfStrengths)
 {
 	int numOfStrength = 1;
-	for (int i = 0; i < numOfTrolls-1; i++)
+	for (int i = 0; i < numOfTrolls - 1; i++)
 	{
 		if (strengthArray[i].getStrength() != strengthArray[i + 1].getStrength())
 		{
@@ -72,7 +72,7 @@ void DataStruct::buildStrengthHistogram(Troll * strengthArray, int ** histogramD
 	{
 		data[i] = 1;
 	}
-	int histoCounter = 1,histoIndex=0;
+	int histoCounter = 1, histoIndex = 0;
 	base[0] = strengthArray[0].getStrength();
 	for (int i = 1; i < numOfTrolls; i++)
 	{
@@ -230,23 +230,22 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	if (factor < 1 || team < 0 || team >= numOfGroups) {
 		throw InvalidInput();
 	}
-	int group = groups.Find(team);
 	/*ID tree update*/
+	int group = groups.Find(team), tempMax = maxArray[group], tempMaxID = maxIdArray[group];
 	Troll* Trolls = TrollTree.inOrder();
 	int numOfTrolls = TrollTree.getSize();
 	for (int i = 0; i < numOfTrolls; i++) {
-		if (Trolls[i].getGroup() == group) {
+		if (Trolls[i].getGroup() == team) {
 			int oldStrength = Trolls[i].getStrength();
 			int newStrength = oldStrength * factor;
 			Trolls[i].setStrength(newStrength);
 
 
-
-			if (newStrength > maxArray[group]
-				|| ((newStrength == maxArray[group])
-					&& Trolls[i].getID() < maxIdArray[group])) {
-				maxArray[group] = newStrength;
-				maxIdArray[group] = Trolls[i].getID();
+			if (newStrength > tempMax
+				|| ((newStrength == tempMax)
+					&& Trolls[i].getID() < tempMaxID)) {
+				tempMax = newStrength;
+				tempMaxID = Trolls[i].getID();
 			}
 		}
 	}
@@ -257,7 +256,9 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	int index = 0;
 	TrollTree.inOrderInsert(Trolls, &index);
 	delete[] Trolls;
-
+	/*update max*/
+	maxArray[group] = tempMax;
+	maxIdArray[group] = tempMaxID;
 	/*strength Tree update*/
 
 	Troll* TrollsByStrength = TrollStrengthTree.inOrder();
@@ -265,15 +266,13 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	numOfTrolls = TrollTree.getSize();
 	int x = 0;
 	for (int i = 0; i < numOfTrolls; i++) {
-		if (TrollsByStrength[i].getGroup() == group) {
+		if (TrollsByStrength[i].getGroup() == team) {
 			int oldStrength = TrollsByStrength[i].getStrength();
 			int newStrength = oldStrength * factor;
 			newStrengthArray[x] = TrollsByStrength[i];
 			newStrengthArray[x].setStrength(newStrength);
 			Trolls[i] = Troll();
 			x++;
-
-
 		}
 	}
 	Troll* mergedArray = mergeTrollsArray(TrollsByStrength, newStrengthArray, numOfTrolls);
@@ -282,7 +281,7 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	TrollStrengthTree.buildEmpty(numOfTrolls);
 	index = 0;
 	TrollStrengthTree.inOrderInsert(mergedArray, &index);
-	
+	/*build histogram for strengthTree and update the tree*/
 	int numOfStrength = 0;
 	int* histogramData = NULL, *histogramBase = NULL;
 	buildStrengthHistogram(mergedArray, &histogramData, &histogramBase, numOfTrolls, &numOfStrength);
