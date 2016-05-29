@@ -6,7 +6,7 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 	int a = 0, b = 0, i = 0;
 	while ((a < num) && (b < num) && (i < num))
 	{
-		if ((array1[a].getID() != 0) && (array2[b].getID() != 0))
+		if ((array1[a].getID() != NOTROLL) && (array2[b].getID() != NOTROLL))
 		{
 			if (array1[a].getStrength() < array2[b].getStrength())
 			{
@@ -22,15 +22,15 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 			}
 		}
 		else {
-			if (array1[a].getID() == 0)
+			if (array1[a].getID() == NOTROLL)
 				a++;
-			if (array2[b].getID() == 0)
+			if (array2[b].getID() == NOTROLL)
 				b++;
 		}
 	}
 	while ((a < num) && (i < num))
 	{
-		if (array1[a].getID() != 0)
+		if (array1[a].getID() != NOTROLL)
 		{
 			merged[i] = array1[a];
 			i++;
@@ -40,7 +40,7 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 	}
 	while ((b < num) && (i < num))
 	{
-		if (array2[b].getID() != 0)
+		if (array2[b].getID() != NOTROLL)
 		{
 			merged[i] = array2[b];
 			i++;
