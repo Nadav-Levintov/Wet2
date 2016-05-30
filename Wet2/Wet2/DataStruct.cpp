@@ -2,11 +2,7 @@
 
 Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 {
-	if (num == 200)
-	{
-		int bla =0 ;
-		bla++;
-	}
+
 	TrollStrengthComparer comp = TrollStrengthComparer();
 	Troll* merged = new Troll[num];
 	int a = 0, b = 0, i = 0;
@@ -321,6 +317,11 @@ void DataStruct::GetStrongestTroll(int groupID, int* Troll) {
 void DataStruct::GetNumOfTrollsInRange(int fromStrength, int toStrength, int* num) {
 	if (fromStrength >= toStrength || fromStrength < 0) {
 		throw InvalidInput();
+	}
+	if (fromStrength == 27 && toStrength == 229)
+	{
+		int bla = 0;
+		bla++;
 	}
 
 	rankNode<int, intComparer>* fromNode = strengthTree.find(fromStrength);

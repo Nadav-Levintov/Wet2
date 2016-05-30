@@ -591,7 +591,7 @@ void rankTree<T, C>::rollRR(rankNode<T, C>* node) {
 		1
 		+ max(height(oldRight->getRight()),
 			height(oldRight->getLeft())));
-	oldRight->updateHeight();
+	oldRight->updateAllsubTreeData();
 
 }
 template<class T, class C>
@@ -932,6 +932,8 @@ int rankTree<T, C>::rankAux(T & item, rankNode<T, C>* node)
 		leftS += node->getCurrentData();
 		return leftS + rankAux(item, node->getRight());
 	}
-	return 1; //found item.
+	int rank = (node->getLeft()) ? node->getLeft()->getsubTreeData() : 0;
+	rank += node->getCurrentData();
+	return rank; //found item.
 }
 #endif /*AVLRANKTREE_H*/

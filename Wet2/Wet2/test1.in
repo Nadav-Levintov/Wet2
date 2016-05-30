@@ -1,0 +1,10002 @@
+Init 30
+AddTroll 17 46
+AssignTroll 96 7 
+AddTroll 98 85
+AssignTroll 88 26 
+AssignTroll 36 10 
+GetGroup 49
+JoinGroups 14 28
+GetGroup 50
+GetStrongestTroll 13
+AssignTroll 73 23 
+AddTroll 92 0
+AssignTroll 88 2 
+AssignTroll 40 22 
+GetStrongestTroll 4
+GetStrongestTroll 27
+JoinGroups 23 0
+GetGroup 35
+GetGroup 87
+GetStrongestTroll 13
+GetNumOfTrollsInRange 12 108
+AddTroll 47 66
+JoinGroups 2 7
+GetGroup 17
+GetGroup 26
+GetNumOfTrollsInRange 7 134
+AssignTroll 52 7 
+GetGroup 35
+GetGroup 21
+JoinGroups 11 27
+AssignTroll 44 2 
+AssignTroll 82 5 
+GetNumOfTrollsInRange 44 193
+AddTroll 6 76
+GetStrongestTroll 7
+GetGroup 49
+AddTroll 84 85
+AddTroll 42 60
+JoinGroups 25 20
+GetGroup 13
+JoinGroups 26 16
+AddTroll 48 86
+GetGroup 23
+AssignTroll 0 3 
+AddTroll 27 68
+GetNumOfTrollsInRange 40 94
+GetGroup 16
+AssignTroll 15 16 
+GetGroup 88
+GetStrongestTroll 25
+JoinGroups 5 0
+GetNumOfTrollsInRange 67 156
+JoinGroups 28 12
+GetStrongestTroll 26
+GetStrongestTroll 18
+AddTroll 17 38
+JoinGroups 19 25
+GetStrongestTroll 8
+AssignTroll 78 21 
+JoinGroups 17 13
+GetStrongestTroll 2
+GetStrongestTroll 19
+GetGroup 20
+GetStrongestTroll 26
+AssignTroll 70 16 
+AssignTroll 17 24 
+GetStrongestTroll 0
+JoinGroups 8 29
+GetStrongestTroll 10
+GetStrongestTroll 28
+GetStrongestTroll 5
+AddTroll 77 55
+AddTroll 72 37
+AddTroll 92 43
+GetStrongestTroll 16
+GetStrongestTroll 27
+GetNumOfTrollsInRange 25 91
+GetGroup 11
+JoinGroups 11 1
+JoinGroups 14 12
+AddTroll 36 89
+GetGroup 38
+AddTroll 87 35
+AssignTroll 89 21 
+AssignTroll 23 7 
+AddTroll 20 88
+AssignTroll 8 23 
+GetGroup 17
+JoinGroups 26 20
+GetNumOfTrollsInRange 78 152
+AddTroll 81 49
+GetGroup 39
+AssignTroll 52 28 
+AddTroll 86 13
+AssignTroll 59 23 
+GetNumOfTrollsInRange 2 189
+GetNumOfTrollsInRange 96 112
+GetStrongestTroll 8
+AssignTroll 32 26 
+GetGroup 78
+JoinGroups 1 16
+GetNumOfTrollsInRange 99 179
+GetGroup 17
+GetNumOfTrollsInRange 2 215
+GetNumOfTrollsInRange 83 242
+GetStrongestTroll 13
+GetNumOfTrollsInRange 4 64
+GetGroup 32
+GetGroup 98
+JoinGroups 13 13
+GetGroup 56
+GetNumOfTrollsInRange 5 30
+AddTroll 62 82
+AddTroll 1 24
+AssignTroll 44 27 
+JoinGroups 27 23
+AssignTroll 92 18 
+AssignTroll 96 15 
+GetStrongestTroll 28
+GetGroup 45
+JoinGroups 19 20
+GetNumOfTrollsInRange 0 138
+GetGroup 22
+GetStrongestTroll 6
+JoinGroups 15 9
+AssignTroll 73 3 
+JoinGroups 21 21
+GetGroup 76
+GetStrongestTroll 2
+AssignTroll 94 28 
+GetStrongestTroll 14
+AssignTroll 64 0 
+JoinGroups 3 29
+AssignTroll 13 15 
+GetStrongestTroll 7
+AssignTroll 43 26 
+GetStrongestTroll 27
+GetGroup 58
+GetStrongestTroll 1
+GetStrongestTroll 9
+GetGroup 3
+GetStrongestTroll 14
+GetStrongestTroll 11
+GetStrongestTroll 8
+JoinGroups 22 12
+GetStrongestTroll 3
+AddTroll 80 6
+GetGroup 73
+AddTroll 31 3
+GetStrongestTroll 19
+AddTroll 82 79
+AssignTroll 43 3 
+GetNumOfTrollsInRange 24 100
+AssignTroll 7 8 
+GetGroup 81
+AddTroll 10 55
+GetNumOfTrollsInRange 51 156
+GetGroup 63
+GetStrongestTroll 1
+GetNumOfTrollsInRange 10 82
+AssignTroll 65 0 
+JoinGroups 1 15
+AddTroll 84 24
+AssignTroll 96 23 
+GetStrongestTroll 21
+AddTroll 77 21
+AssignTroll 18 16 
+AddTroll 66 59
+GetNumOfTrollsInRange 9 39
+JoinGroups 18 14
+GetStrongestTroll 16
+GetStrongestTroll 25
+AssignTroll 10 10 
+GetGroup 17
+GetGroup 77
+AddTroll 88 56
+GetStrongestTroll 0
+GetGroup 78
+JoinGroups 8 3
+GetStrongestTroll 13
+AddTroll 21 87
+GetNumOfTrollsInRange 9 111
+JoinGroups 14 8
+GetNumOfTrollsInRange 51 194
+JoinGroups 12 0
+GetNumOfTrollsInRange 11 21
+AssignTroll 74 9 
+JoinGroups 14 21
+GetGroup 4
+AddTroll 53 25
+GetNumOfTrollsInRange 32 252
+GetGroup 17
+GetGroup 57
+AddTroll 54 59
+GetStrongestTroll 18
+GetStrongestTroll 21
+AssignTroll 87 26 
+GetStrongestTroll 6
+GetGroup 99
+AddTroll 11 48
+GetNumOfTrollsInRange 87 115
+GetNumOfTrollsInRange 39 151
+GetNumOfTrollsInRange 87 243
+GetNumOfTrollsInRange 18 64
+GetNumOfTrollsInRange 84 106
+JoinGroups 25 16
+GetStrongestTroll 7
+AssignTroll 12 0 
+AddTroll 59 50
+GetGroup 24
+JoinGroups 14 6
+AssignTroll 67 27 
+GetGroup 98
+GetStrongestTroll 10
+AddTroll 60 27
+GetStrongestTroll 17
+AddTroll 19 60
+GetGroup 7
+GetNumOfTrollsInRange 10 129
+GetNumOfTrollsInRange 85 177
+JoinGroups 3 7
+GetStrongestTroll 23
+GetNumOfTrollsInRange 98 287
+GetGroup 38
+GetGroup 49
+GetGroup 18
+GetNumOfTrollsInRange 68 283
+AssignTroll 59 21 
+GetNumOfTrollsInRange 17 109
+JoinGroups 13 14
+AddTroll 79 35
+AssignTroll 9 16 
+GetNumOfTrollsInRange 64 172
+AddTroll 91 96
+GetNumOfTrollsInRange 74 294
+AssignTroll 56 11 
+GetGroup 94
+GetNumOfTrollsInRange 69 261
+GetNumOfTrollsInRange 67 169
+GetGroup 66
+GetNumOfTrollsInRange 57 227
+GetStrongestTroll 14
+JoinGroups 1 15
+AddTroll 41 33
+GetGroup 42
+GetStrongestTroll 6
+JoinGroups 29 14
+AssignTroll 1 23 
+JoinGroups 20 8
+GetStrongestTroll 22
+JoinGroups 29 4
+GetNumOfTrollsInRange 25 287
+GetStrongestTroll 5
+AssignTroll 35 24 
+GetGroup 84
+GetNumOfTrollsInRange 67 199
+JoinGroups 1 22
+AddTroll 65 59
+GetGroup 92
+GetStrongestTroll 1
+AssignTroll 98 4 
+JoinGroups 17 1
+GetNumOfTrollsInRange 99 153
+GetGroup 50
+GetNumOfTrollsInRange 70 251
+AssignTroll 7 21 
+GetGroup 39
+JoinGroups 10 5
+AddTroll 87 77
+GetGroup 10
+JoinGroups 2 29
+AddTroll 63 12
+JoinGroups 4 25
+JoinGroups 4 22
+GetGroup 35
+AddTroll 34 35
+GetNumOfTrollsInRange 16 233
+JoinGroups 18 21
+JoinGroups 21 1
+AddTroll 46 54
+GetNumOfTrollsInRange 15 36
+GetStrongestTroll 2
+AssignTroll 46 19 
+GetGroup 26
+AssignTroll 50 2 
+GetStrongestTroll 20
+GetStrongestTroll 0
+AssignTroll 66 12 
+AddTroll 14 92
+AssignTroll 22 1 
+GetGroup 78
+JoinGroups 7 1
+AssignTroll 17 13 
+GetNumOfTrollsInRange 8 274
+GetStrongestTroll 27
+AssignTroll 10 24 
+JoinGroups 24 18
+AddTroll 92 66
+GetGroup 94
+GetStrongestTroll 13
+GetNumOfTrollsInRange 52 268
+GetStrongestTroll 26
+JoinGroups 22 27
+GetNumOfTrollsInRange 44 171
+AddTroll 2 38
+GetStrongestTroll 5
+AddTroll 85 46
+GetStrongestTroll 19
+JoinGroups 28 22
+JoinGroups 24 28
+AddTroll 30 18
+GetNumOfTrollsInRange 57 119
+GetStrongestTroll 21
+AssignTroll 72 18 
+GetGroup 32
+GetNumOfTrollsInRange 48 97
+GetGroup 58
+JoinGroups 9 19
+GetStrongestTroll 22
+AddTroll 50 56
+AssignTroll 21 25 
+AssignTroll 63 29 
+AddTroll 89 44
+GetStrongestTroll 18
+GetStrongestTroll 13
+JoinGroups 7 28
+AssignTroll 86 12 
+GetStrongestTroll 5
+GetGroup 50
+GetNumOfTrollsInRange 89 102
+GetNumOfTrollsInRange 37 251
+GetNumOfTrollsInRange 89 162
+AddTroll 84 10
+AssignTroll 39 27 
+GetGroup 94
+GetGroup 88
+GetGroup 89
+AddTroll 76 64
+GetNumOfTrollsInRange 33 151
+JoinGroups 21 29
+AddTroll 37 44
+GetNumOfTrollsInRange 31 200
+GetNumOfTrollsInRange 10 82
+GetGroup 76
+AddTroll 79 88
+GetStrongestTroll 10
+GetStrongestTroll 8
+AddTroll 92 30
+GetGroup 12
+GetStrongestTroll 10
+GetNumOfTrollsInRange 20 171
+JoinGroups 11 18
+GetNumOfTrollsInRange 0 212
+AssignTroll 43 0 
+GetStrongestTroll 16
+AddTroll 39 93
+GetStrongestTroll 11
+AddTroll 0 82
+GetNumOfTrollsInRange 91 283
+GetGroup 55
+GetNumOfTrollsInRange 55 76
+AssignTroll 25 26 
+GetNumOfTrollsInRange 16 235
+AssignTroll 21 20 
+AddTroll 95 10
+GetStrongestTroll 9
+GetNumOfTrollsInRange 54 230
+GetGroup 66
+AddTroll 85 65
+GetStrongestTroll 26
+JoinGroups 4 26
+AddTroll 53 96
+AddTroll 74 74
+AddTroll 58 27
+AssignTroll 74 25 
+GetGroup 1
+GetNumOfTrollsInRange 79 191
+AddTroll 69 18
+JoinGroups 24 3
+AssignTroll 39 12 
+JoinGroups 2 11
+JoinGroups 25 22
+GetGroup 55
+AddTroll 21 52
+AddTroll 73 34
+JoinGroups 22 24
+JoinGroups 11 14
+GetNumOfTrollsInRange 12 263
+GetNumOfTrollsInRange 56 203
+AddTroll 89 49
+AddTroll 95 43
+GetNumOfTrollsInRange 6 275
+GetGroup 82
+JoinGroups 15 2
+GetStrongestTroll 15
+JoinGroups 0 4
+GetStrongestTroll 28
+GetStrongestTroll 0
+JoinGroups 23 7
+AddTroll 42 39
+JoinGroups 22 13
+GetNumOfTrollsInRange 96 105
+AssignTroll 54 23 
+GetNumOfTrollsInRange 37 158
+GetNumOfTrollsInRange 53 185
+JoinGroups 6 22
+GetStrongestTroll 8
+GetStrongestTroll 17
+GetStrongestTroll 23
+JoinGroups 1 22
+GetStrongestTroll 26
+GetNumOfTrollsInRange 4 165
+AddTroll 60 85
+GetNumOfTrollsInRange 11 89
+AssignTroll 81 21 
+AssignTroll 9 11 
+GetGroup 55
+AddTroll 3 88
+JoinGroups 7 7
+AddTroll 81 99
+JoinGroups 24 10
+GetGroup 97
+AssignTroll 87 18 
+AssignTroll 70 0 
+JoinGroups 1 14
+JoinGroups 9 4
+AddTroll 1 20
+AddTroll 27 36
+GetNumOfTrollsInRange 36 283
+GetNumOfTrollsInRange 3 185
+AddTroll 10 19
+GetStrongestTroll 27
+JoinGroups 13 11
+AddTroll 55 21
+AddTroll 12 85
+AddTroll 14 36
+GetStrongestTroll 3
+JoinGroups 5 22
+AssignTroll 12 16 
+AddTroll 87 35
+GetNumOfTrollsInRange 11 190
+AddTroll 20 9
+AssignTroll 97 2 
+AddTroll 8 45
+JoinGroups 14 1
+GetGroup 70
+AddTroll 76 53
+JoinGroups 28 7
+AddTroll 5 34
+AssignTroll 61 2 
+GetNumOfTrollsInRange 9 172
+JoinGroups 9 20
+GetGroup 6
+JoinGroups 4 27
+GetGroup 63
+GetStrongestTroll 2
+AddTroll 22 23
+GetGroup 61
+GetNumOfTrollsInRange 20 282
+JoinGroups 12 12
+JoinGroups 13 15
+GetStrongestTroll 19
+GetGroup 51
+AssignTroll 77 1 
+AddTroll 21 40
+AddTroll 82 84
+GetStrongestTroll 29
+GetGroup 41
+AddTroll 89 52
+AssignTroll 90 10 
+AddTroll 86 20
+AssignTroll 84 6 
+GetStrongestTroll 29
+JoinGroups 4 29
+GetGroup 65
+GetNumOfTrollsInRange 18 129
+GetStrongestTroll 17
+AssignTroll 43 5 
+AssignTroll 49 29 
+AssignTroll 24 3 
+GetStrongestTroll 23
+GetGroup 55
+AddTroll 55 1
+GetGroup 33
+AddTroll 57 25
+AddTroll 44 7
+AssignTroll 93 0 
+JoinGroups 10 26
+GetNumOfTrollsInRange 17 125
+GetStrongestTroll 14
+GetNumOfTrollsInRange 19 155
+JoinGroups 15 28
+GetStrongestTroll 1
+GetNumOfTrollsInRange 36 245
+GetStrongestTroll 22
+GetStrongestTroll 25
+GetGroup 93
+JoinGroups 0 18
+GetStrongestTroll 1
+AssignTroll 56 5 
+AssignTroll 17 28 
+GetNumOfTrollsInRange 58 195
+GetGroup 61
+GetStrongestTroll 8
+JoinGroups 7 4
+AddTroll 76 19
+AddTroll 53 80
+GetStrongestTroll 17
+JoinGroups 14 6
+GetNumOfTrollsInRange 44 85
+AssignTroll 96 22 
+GetGroup 26
+GetNumOfTrollsInRange 72 202
+GetStrongestTroll 12
+AssignTroll 97 15 
+AddTroll 4 35
+GetNumOfTrollsInRange 95 137
+GetNumOfTrollsInRange 76 216
+GetGroup 28
+AssignTroll 60 19 
+GetGroup 60
+AddTroll 80 15
+AddTroll 33 41
+GetNumOfTrollsInRange 57 295
+AssignTroll 93 15 
+AssignTroll 48 23 
+GetNumOfTrollsInRange 89 294
+GetGroup 18
+AssignTroll 70 6 
+AddTroll 36 7
+AddTroll 53 6
+GetStrongestTroll 4
+AssignTroll 85 0 
+GetNumOfTrollsInRange 39 261
+JoinGroups 23 24
+GetGroup 5
+JoinGroups 4 4
+AssignTroll 47 2 
+GetGroup 68
+AssignTroll 78 5 
+GetStrongestTroll 11
+GetNumOfTrollsInRange 98 135
+JoinGroups 5 15
+GetNumOfTrollsInRange 98 277
+GetGroup 14
+GetStrongestTroll 25
+GetNumOfTrollsInRange 91 275
+AddTroll 16 46
+GetGroup 57
+GetGroup 50
+GetStrongestTroll 21
+JoinGroups 20 3
+GetStrongestTroll 14
+GetNumOfTrollsInRange 51 98
+JoinGroups 3 4
+JoinGroups 17 0
+GetStrongestTroll 2
+GetNumOfTrollsInRange 30 101
+GetGroup 46
+JoinGroups 28 6
+GetStrongestTroll 14
+JoinGroups 16 4
+GetGroup 99
+AddTroll 51 75
+GetNumOfTrollsInRange 36 207
+GetStrongestTroll 8
+AssignTroll 99 27 
+GetGroup 61
+GetGroup 1
+GetNumOfTrollsInRange 92 132
+JoinGroups 24 15
+AssignTroll 52 10 
+AddTroll 52 82
+GetGroup 0
+AssignTroll 0 0 
+AssignTroll 22 0 
+GetNumOfTrollsInRange 32 49
+JoinGroups 11 1
+JoinGroups 27 0
+GetNumOfTrollsInRange 22 289
+JoinGroups 23 21
+GetNumOfTrollsInRange 6 95
+GetNumOfTrollsInRange 47 169
+GetStrongestTroll 19
+GetNumOfTrollsInRange 58 106
+AssignTroll 93 2 
+AssignTroll 15 21 
+GetNumOfTrollsInRange 79 189
+JoinGroups 12 7
+JoinGroups 0 4
+GetStrongestTroll 1
+GetStrongestTroll 12
+AddTroll 19 68
+GetGroup 23
+GetGroup 71
+GetGroup 27
+AssignTroll 71 29 
+AssignTroll 79 9 
+GetNumOfTrollsInRange 33 111
+GetStrongestTroll 24
+GetStrongestTroll 11
+GetNumOfTrollsInRange 0 15
+JoinGroups 0 20
+GetNumOfTrollsInRange 73 281
+AssignTroll 36 15 
+GetNumOfTrollsInRange 32 228
+AssignTroll 99 28 
+GetGroup 10
+AddTroll 74 8
+AssignTroll 97 3 
+GetGroup 27
+GetStrongestTroll 17
+GetStrongestTroll 17
+AddTroll 77 48
+GetGroup 5
+JoinGroups 19 11
+GetNumOfTrollsInRange 75 126
+GetGroup 56
+GetNumOfTrollsInRange 40 254
+GetNumOfTrollsInRange 73 9
+GetNumOfTrollsInRange 50 231
+JoinGroups 13 9
+AddTroll 96 77
+JoinGroups 1 23
+JoinGroups 15 24
+AddTroll 78 60
+GetGroup 91
+GetStrongestTroll 27
+AssignTroll 87 19 
+GetGroup 20
+AddTroll 73 36
+GetNumOfTrollsInRange 86 198
+GetNumOfTrollsInRange 27 77
+JoinGroups 16 27
+AddTroll 4 62
+JoinGroups 28 10
+GetGroup 38
+AssignTroll 49 23 
+GetStrongestTroll 26
+GetNumOfTrollsInRange 65 298
+JoinGroups 22 17
+GetStrongestTroll 13
+AssignTroll 16 26 
+AssignTroll 51 9 
+GetGroup 40
+GetGroup 60
+GetGroup 3
+JoinGroups 21 16
+GetGroup 28
+GetNumOfTrollsInRange 59 163
+GetStrongestTroll 13
+AddTroll 36 38
+AssignTroll 68 24 
+GetGroup 28
+GetGroup 44
+GetStrongestTroll 9
+JoinGroups 8 28
+AssignTroll 49 13 
+AddTroll 12 24
+GetNumOfTrollsInRange 49 235
+GetGroup 66
+GetStrongestTroll 25
+GetNumOfTrollsInRange 53 80
+GetNumOfTrollsInRange 90 268
+AddTroll 67 6
+AssignTroll 50 7 
+GetNumOfTrollsInRange 79 200
+GetStrongestTroll 6
+AssignTroll 5 1 
+AddTroll 65 84
+AssignTroll 57 8 
+AddTroll 79 62
+AssignTroll 85 29 
+AddTroll 36 8
+GetGroup 96
+JoinGroups 29 2
+AddTroll 61 85
+AddTroll 21 62
+GetStrongestTroll 8
+AddTroll 36 35
+JoinGroups 12 5
+JoinGroups 17 1
+AddTroll 71 1
+AssignTroll 79 12 
+AssignTroll 49 10 
+GetGroup 51
+AddTroll 53 53
+AssignTroll 14 13 
+AddTroll 21 7
+AssignTroll 17 11 
+GetNumOfTrollsInRange 6 124
+GetNumOfTrollsInRange 29 55
+AssignTroll 67 16 
+GetGroup 36
+AddTroll 69 27
+AssignTroll 90 4 
+AddTroll 41 21
+AssignTroll 85 26 
+GetStrongestTroll 4
+AddTroll 37 54
+JoinGroups 8 21
+JoinGroups 18 24
+AssignTroll 8 1 
+GetNumOfTrollsInRange 36 243
+AssignTroll 23 7 
+AssignTroll 48 2 
+GetStrongestTroll 16
+AddTroll 70 7
+GetGroup 73
+GetStrongestTroll 22
+GetNumOfTrollsInRange 9 107
+GetNumOfTrollsInRange 80 276
+GetStrongestTroll 28
+GetNumOfTrollsInRange 70 87
+GetNumOfTrollsInRange 27 106
+GetStrongestTroll 11
+GetStrongestTroll 20
+GetStrongestTroll 13
+GetStrongestTroll 7
+GetGroup 26
+GetGroup 39
+GetGroup 62
+JoinGroups 13 26
+AddTroll 91 14
+AssignTroll 71 14 
+GetStrongestTroll 26
+GetNumOfTrollsInRange 97 213
+GetStrongestTroll 9
+GetStrongestTroll 11
+AssignTroll 15 23 
+JoinGroups 24 8
+GetStrongestTroll 19
+GetGroup 69
+GetNumOfTrollsInRange 68 203
+AssignTroll 61 13 
+AssignTroll 33 28 
+GetGroup 21
+GetStrongestTroll 25
+GetStrongestTroll 15
+JoinGroups 26 19
+AddTroll 94 5
+JoinGroups 15 2
+GetNumOfTrollsInRange 24 74
+GetNumOfTrollsInRange 63 157
+GetNumOfTrollsInRange 53 204
+JoinGroups 21 20
+GetGroup 11
+AssignTroll 50 25 
+GetStrongestTroll 9
+AssignTroll 36 1 
+GetNumOfTrollsInRange 56 143
+GetNumOfTrollsInRange 70 212
+JoinGroups 26 16
+GetStrongestTroll 14
+GetNumOfTrollsInRange 44 224
+JoinGroups 16 0
+JoinGroups 21 25
+AddTroll 36 16
+GetGroup 90
+GetGroup 14
+AddTroll 72 88
+GetStrongestTroll 16
+GetStrongestTroll 16
+GetGroup 53
+JoinGroups 4 13
+GetNumOfTrollsInRange 89 229
+GetGroup 27
+GetStrongestTroll 20
+AssignTroll 10 2 
+AddTroll 17 41
+GetNumOfTrollsInRange 3 60
+GetStrongestTroll 13
+JoinGroups 20 20
+JoinGroups 11 6
+AddTroll 23 65
+AddTroll 75 38
+JoinGroups 11 13
+AddTroll 20 14
+AddTroll 56 82
+GetStrongestTroll 8
+JoinGroups 3 21
+AssignTroll 93 19 
+GetStrongestTroll 17
+JoinGroups 10 12
+GetStrongestTroll 25
+AddTroll 89 89
+JoinGroups 0 16
+JoinGroups 6 15
+GetGroup 64
+AddTroll 79 22
+GetStrongestTroll 2
+JoinGroups 17 14
+AssignTroll 4 24 
+GetNumOfTrollsInRange 59 247
+AssignTroll 8 26 
+JoinGroups 2 28
+AssignTroll 18 2 
+JoinGroups 22 29
+AddTroll 10 15
+GetNumOfTrollsInRange 67 69
+JoinGroups 19 27
+AddTroll 4 49
+AddTroll 78 20
+AssignTroll 35 29 
+GetStrongestTroll 4
+AddTroll 53 40
+GetStrongestTroll 17
+AddTroll 13 2
+GetNumOfTrollsInRange 28 162
+GetNumOfTrollsInRange 35 264
+AssignTroll 49 21 
+AssignTroll 62 2 
+JoinGroups 1 9
+GetGroup 22
+GetNumOfTrollsInRange 86 218
+GetStrongestTroll 24
+JoinGroups 13 1
+GetStrongestTroll 7
+GetGroup 87
+GetGroup 63
+GetGroup 11
+JoinGroups 0 29
+AssignTroll 97 10 
+AssignTroll 92 26 
+AddTroll 44 28
+GetNumOfTrollsInRange 30 186
+GetGroup 8
+AssignTroll 37 4 
+AddTroll 41 84
+AddTroll 68 70
+GetGroup 98
+GetStrongestTroll 9
+GetNumOfTrollsInRange 74 273
+GetGroup 95
+GetGroup 41
+JoinGroups 10 19
+JoinGroups 23 16
+GetStrongestTroll 21
+GetStrongestTroll 28
+AssignTroll 53 6 
+AddTroll 2 71
+GetStrongestTroll 27
+AssignTroll 53 3 
+AddTroll 73 31
+GetStrongestTroll 13
+GetStrongestTroll 0
+JoinGroups 14 20
+GetGroup 21
+GetNumOfTrollsInRange 30 256
+AddTroll 6 16
+AddTroll 98 90
+GetGroup 9
+JoinGroups 20 4
+GetNumOfTrollsInRange 98 99
+AddTroll 18 89
+GetStrongestTroll 6
+GetStrongestTroll 15
+GetGroup 54
+AssignTroll 80 26 
+GetGroup 75
+GetGroup 21
+GetGroup 31
+GetGroup 34
+AddTroll 43 53
+GetNumOfTrollsInRange 23 57
+GetGroup 11
+AssignTroll 64 24 
+GetNumOfTrollsInRange 14 152
+AddTroll 25 94
+GetGroup 6
+GetNumOfTrollsInRange 8 74
+GetNumOfTrollsInRange 72 205
+AssignTroll 54 5 
+GetGroup 51
+GetNumOfTrollsInRange 47 287
+AssignTroll 58 4 
+AddTroll 48 9
+GetNumOfTrollsInRange 87 150
+AssignTroll 10 6 
+GetNumOfTrollsInRange 42 253
+AssignTroll 38 3 
+GetNumOfTrollsInRange 29 194
+GetStrongestTroll 5
+JoinGroups 7 2
+GetGroup 73
+GetNumOfTrollsInRange 10 120
+AssignTroll 27 6 
+GetStrongestTroll 18
+AssignTroll 39 10 
+JoinGroups 16 6
+AssignTroll 98 13 
+GetNumOfTrollsInRange 92 120
+GetGroup 40
+AddTroll 73 55
+JoinGroups 18 14
+GetStrongestTroll 22
+GetStrongestTroll 23
+GetNumOfTrollsInRange 51 250
+AddTroll 74 65
+GetNumOfTrollsInRange 61 99
+JoinGroups 17 0
+GetNumOfTrollsInRange 4 213
+GetStrongestTroll 2
+GetStrongestTroll 18
+GetNumOfTrollsInRange 23 125
+GetGroup 7
+GetStrongestTroll 25
+GetNumOfTrollsInRange 40 24
+GetNumOfTrollsInRange 25 210
+GetGroup 58
+AddTroll 56 45
+JoinGroups 7 1
+JoinGroups 25 27
+GetGroup 73
+AddTroll 25 99
+GetStrongestTroll 3
+GetNumOfTrollsInRange 89 258
+AssignTroll 19 1 
+AddTroll 50 69
+AssignTroll 6 5 
+AddTroll 2 2
+GetNumOfTrollsInRange 8 15
+GetStrongestTroll 12
+AddTroll 77 14
+GetNumOfTrollsInRange 14 39
+JoinGroups 20 25
+GetNumOfTrollsInRange 65 159
+GetStrongestTroll 18
+AddTroll 70 92
+GetStrongestTroll 24
+GetStrongestTroll 11
+GetGroup 24
+GetStrongestTroll 3
+JoinGroups 3 14
+GetGroup 4
+GetNumOfTrollsInRange 67 278
+JoinGroups 9 16
+AddTroll 93 29
+AssignTroll 60 19 
+AssignTroll 67 28 
+GetNumOfTrollsInRange 6 229
+GetGroup 21
+AssignTroll 92 10 
+AddTroll 47 92
+AddTroll 56 60
+AssignTroll 96 2 
+GetNumOfTrollsInRange 1 1
+GetNumOfTrollsInRange 52 295
+GetNumOfTrollsInRange 88 169
+AddTroll 17 99
+AddTroll 83 46
+AddTroll 61 52
+AssignTroll 2 13 
+JoinGroups 1 25
+AddTroll 22 12
+GetGroup 8
+GetNumOfTrollsInRange 74 158
+AssignTroll 91 25 
+GetGroup 94
+GetNumOfTrollsInRange 5 107
+AssignTroll 23 13 
+JoinGroups 7 21
+GetGroup 76
+GetNumOfTrollsInRange 88 127
+GetNumOfTrollsInRange 65 124
+AssignTroll 86 14 
+GetNumOfTrollsInRange 9 226
+GetNumOfTrollsInRange 78 75
+AddTroll 15 66
+JoinGroups 3 6
+GetStrongestTroll 13
+GetNumOfTrollsInRange 72 230
+AssignTroll 69 14 
+GetNumOfTrollsInRange 36 273
+GetNumOfTrollsInRange 84 104
+GetNumOfTrollsInRange 28 268
+GetStrongestTroll 16
+GetNumOfTrollsInRange 3 41
+GetStrongestTroll 27
+GetGroup 32
+AssignTroll 59 2 
+GetStrongestTroll 10
+JoinGroups 24 5
+GetStrongestTroll 17
+JoinGroups 12 27
+JoinGroups 11 12
+JoinGroups 17 23
+GetNumOfTrollsInRange 19 49
+AddTroll 93 1
+GetNumOfTrollsInRange 37 98
+JoinGroups 19 29
+GetGroup 19
+JoinGroups 12 16
+JoinGroups 4 0
+AssignTroll 30 23 
+AssignTroll 75 17 
+AddTroll 79 18
+GetNumOfTrollsInRange 74 250
+GetGroup 45
+GetGroup 65
+GetStrongestTroll 23
+JoinGroups 7 28
+AddTroll 27 54
+GetNumOfTrollsInRange 64 195
+GetGroup 29
+GetNumOfTrollsInRange 12 46
+GetNumOfTrollsInRange 14 85
+JoinGroups 11 29
+AddTroll 62 43
+GetStrongestTroll 2
+GetNumOfTrollsInRange 12 92
+AssignTroll 56 19 
+AssignTroll 59 21 
+JoinGroups 29 5
+AddTroll 20 87
+GetGroup 17
+GetStrongestTroll 19
+GetNumOfTrollsInRange 8 55
+AssignTroll 72 12 
+GetStrongestTroll 11
+GetNumOfTrollsInRange 72 224
+GetStrongestTroll 13
+JoinGroups 29 11
+JoinGroups 29 14
+AssignTroll 19 4 
+AddTroll 15 34
+GetGroup 22
+AddTroll 56 11
+GetNumOfTrollsInRange 72 280
+JoinGroups 21 14
+AssignTroll 11 26 
+JoinGroups 11 29
+GetGroup 53
+GetGroup 82
+AssignTroll 41 6 
+JoinGroups 13 20
+JoinGroups 13 2
+JoinGroups 16 29
+GetStrongestTroll 20
+AddTroll 63 47
+AssignTroll 50 9 
+JoinGroups 27 29
+GetStrongestTroll 24
+GetGroup 96
+AddTroll 2 81
+GetGroup 75
+TeamUpgrade 8 2
+GetGroup 12
+GetStrongestTroll 23
+AddTroll 38 74
+GetStrongestTroll 28
+JoinGroups 2 10
+GetNumOfTrollsInRange 60 103
+GetStrongestTroll 28
+GetNumOfTrollsInRange 33 130
+AssignTroll 39 11 
+JoinGroups 7 23
+AssignTroll 98 14 
+GetGroup 12
+GetGroup 63
+AddTroll 48 26
+GetStrongestTroll 6
+GetStrongestTroll 0
+GetStrongestTroll 11
+AssignTroll 7 10 
+GetNumOfTrollsInRange 10 50
+GetStrongestTroll 1
+GetStrongestTroll 15
+GetNumOfTrollsInRange 4 264
+AssignTroll 72 0 
+AssignTroll 57 12 
+JoinGroups 5 29
+GetStrongestTroll 2
+AssignTroll 15 13 
+AssignTroll 22 28 
+GetGroup 73
+AddTroll 43 87
+AssignTroll 7 27 
+GetStrongestTroll 4
+GetNumOfTrollsInRange 12 36
+AssignTroll 59 13 
+GetStrongestTroll 9
+GetNumOfTrollsInRange 27 81
+GetStrongestTroll 9
+GetStrongestTroll 26
+TeamUpgrade 15 4
+GetNumOfTrollsInRange 82 214
+AddTroll 5 30
+GetStrongestTroll 4
+AssignTroll 71 9 
+AssignTroll 60 12 
+AddTroll 40 68
+JoinGroups 8 29
+JoinGroups 20 27
+GetNumOfTrollsInRange 41 213
+GetNumOfTrollsInRange 37 89
+JoinGroups 14 17
+GetStrongestTroll 28
+GetGroup 45
+GetStrongestTroll 10
+GetStrongestTroll 24
+GetNumOfTrollsInRange 68 92
+AssignTroll 90 2 
+AddTroll 99 85
+JoinGroups 21 26
+GetStrongestTroll 6
+JoinGroups 10 19
+GetNumOfTrollsInRange 2 58
+AddTroll 57 76
+GetNumOfTrollsInRange 60 171
+JoinGroups 21 21
+GetStrongestTroll 18
+GetStrongestTroll 5
+GetNumOfTrollsInRange 18 109
+AddTroll 93 28
+AddTroll 31 68
+JoinGroups 13 13
+GetNumOfTrollsInRange 95 222
+GetGroup 19
+GetGroup 87
+GetStrongestTroll 28
+JoinGroups 13 25
+JoinGroups 14 4
+GetStrongestTroll 16
+GetGroup 27
+AssignTroll 11 6 
+GetNumOfTrollsInRange 46 274
+AddTroll 30 64
+GetNumOfTrollsInRange 30 279
+AssignTroll 49 19 
+JoinGroups 17 11
+GetStrongestTroll 13
+GetNumOfTrollsInRange 26 264
+AddTroll 85 0
+GetStrongestTroll 18
+AssignTroll 86 19 
+GetStrongestTroll 4
+GetStrongestTroll 28
+GetStrongestTroll 11
+JoinGroups 12 13
+AssignTroll 86 5 
+GetNumOfTrollsInRange 59 145
+GetGroup 97
+JoinGroups 15 27
+GetGroup 66
+JoinGroups 5 0
+GetStrongestTroll 23
+GetGroup 74
+JoinGroups 23 13
+GetNumOfTrollsInRange 77 184
+GetNumOfTrollsInRange 66 212
+JoinGroups 21 13
+GetNumOfTrollsInRange 23 102
+GetStrongestTroll 15
+GetStrongestTroll 10
+GetStrongestTroll 6
+AssignTroll 39 9 
+GetNumOfTrollsInRange 59 239
+GetGroup 56
+GetStrongestTroll 1
+AddTroll 79 51
+AssignTroll 3 13 
+GetNumOfTrollsInRange 53 198
+AddTroll 46 98
+AddTroll 94 69
+GetNumOfTrollsInRange 66 126
+AddTroll 9 43
+AddTroll 84 40
+JoinGroups 22 22
+JoinGroups 20 12
+AddTroll 59 75
+GetStrongestTroll 16
+GetNumOfTrollsInRange 67 186
+GetStrongestTroll 0
+GetNumOfTrollsInRange 40 56
+AssignTroll 9 5 
+AssignTroll 85 6 
+JoinGroups 25 1
+GetGroup 93
+GetStrongestTroll 13
+GetNumOfTrollsInRange 41 139
+GetNumOfTrollsInRange 11 227
+GetStrongestTroll 6
+AssignTroll 93 20 
+JoinGroups 24 6
+AssignTroll 93 0 
+GetStrongestTroll 18
+AddTroll 49 79
+AssignTroll 49 0 
+AssignTroll 3 26 
+GetNumOfTrollsInRange 12 235
+GetStrongestTroll 2
+GetNumOfTrollsInRange 75 69
+AddTroll 2 48
+GetNumOfTrollsInRange 11 20
+JoinGroups 8 1
+GetStrongestTroll 2
+JoinGroups 14 17
+AssignTroll 64 4 
+GetNumOfTrollsInRange 33 109
+AddTroll 70 36
+GetGroup 72
+GetNumOfTrollsInRange 13 199
+AssignTroll 35 14 
+GetGroup 7
+GetNumOfTrollsInRange 29 258
+GetNumOfTrollsInRange 71 271
+AddTroll 8 9
+AssignTroll 0 17 
+AssignTroll 30 13 
+AddTroll 26 78
+AssignTroll 46 18 
+GetStrongestTroll 8
+GetNumOfTrollsInRange 7 282
+GetGroup 68
+GetStrongestTroll 4
+AddTroll 79 38
+AssignTroll 67 4 
+GetNumOfTrollsInRange 8 94
+AssignTroll 14 16 
+GetStrongestTroll 11
+AddTroll 33 24
+AddTroll 65 69
+AssignTroll 43 12 
+GetStrongestTroll 12
+AddTroll 61 74
+JoinGroups 7 1
+JoinGroups 4 2
+AddTroll 34 52
+AssignTroll 53 17 
+GetGroup 77
+AddTroll 55 12
+AssignTroll 97 6 
+AddTroll 93 86
+GetNumOfTrollsInRange 41 146
+AddTroll 71 53
+JoinGroups 12 26
+GetGroup 48
+GetStrongestTroll 21
+GetStrongestTroll 14
+GetGroup 13
+JoinGroups 4 3
+GetStrongestTroll 26
+GetGroup 93
+GetGroup 63
+GetNumOfTrollsInRange 89 95
+GetStrongestTroll 15
+GetGroup 6
+GetNumOfTrollsInRange 60 164
+GetGroup 55
+GetNumOfTrollsInRange 76 160
+GetStrongestTroll 20
+GetStrongestTroll 10
+AddTroll 41 95
+JoinGroups 10 14
+GetGroup 53
+AddTroll 66 38
+AddTroll 60 28
+AssignTroll 35 10 
+GetNumOfTrollsInRange 27 199
+GetStrongestTroll 2
+AddTroll 8 95
+AddTroll 92 77
+AssignTroll 98 21 
+AddTroll 38 27
+GetGroup 91
+GetNumOfTrollsInRange 47 81
+AddTroll 6 86
+AddTroll 8 28
+GetStrongestTroll 18
+AddTroll 60 86
+AssignTroll 77 14 
+GetStrongestTroll 10
+AddTroll 94 67
+GetNumOfTrollsInRange 9 241
+GetNumOfTrollsInRange 20 144
+JoinGroups 11 18
+GetNumOfTrollsInRange 37 98
+GetGroup 49
+JoinGroups 7 26
+GetStrongestTroll 1
+AssignTroll 38 3 
+GetGroup 49
+AddTroll 28 93
+JoinGroups 20 4
+AddTroll 95 38
+GetNumOfTrollsInRange 41 102
+JoinGroups 6 24
+AddTroll 34 30
+GetStrongestTroll 26
+GetStrongestTroll 1
+AssignTroll 20 11 
+AssignTroll 21 20 
+GetNumOfTrollsInRange 16 98
+GetNumOfTrollsInRange 34 295
+AddTroll 53 42
+GetGroup 15
+GetGroup 75
+GetGroup 57
+GetStrongestTroll 13
+JoinGroups 4 13
+GetStrongestTroll 16
+GetNumOfTrollsInRange 81 97
+JoinGroups 2 10
+GetNumOfTrollsInRange 79 217
+AssignTroll 71 19 
+AssignTroll 40 3 
+AddTroll 14 82
+GetNumOfTrollsInRange 14 258
+GetGroup 67
+AssignTroll 13 18 
+AddTroll 10 29
+GetGroup 58
+JoinGroups 3 27
+AssignTroll 42 26 
+GetGroup 16
+GetStrongestTroll 16
+AddTroll 40 30
+AddTroll 1 87
+GetNumOfTrollsInRange 50 198
+JoinGroups 18 12
+GetStrongestTroll 13
+GetNumOfTrollsInRange 38 135
+AssignTroll 69 3 
+AddTroll 3 43
+GetNumOfTrollsInRange 95 189
+AssignTroll 66 17 
+AddTroll 58 58
+GetNumOfTrollsInRange 20 49
+AssignTroll 35 24 
+AssignTroll 84 4 
+JoinGroups 8 15
+GetGroup 88
+JoinGroups 22 12
+JoinGroups 10 6
+GetNumOfTrollsInRange 73 148
+GetNumOfTrollsInRange 34 129
+GetStrongestTroll 4
+GetNumOfTrollsInRange 29 154
+GetGroup 82
+AssignTroll 60 6 
+GetStrongestTroll 10
+GetNumOfTrollsInRange 73 122
+AssignTroll 49 24 
+GetStrongestTroll 9
+GetStrongestTroll 28
+JoinGroups 20 7
+JoinGroups 0 4
+GetNumOfTrollsInRange 33 81
+GetStrongestTroll 6
+GetNumOfTrollsInRange 43 201
+AddTroll 29 23
+GetNumOfTrollsInRange 33 200
+GetGroup 21
+GetGroup 12
+GetNumOfTrollsInRange 51 149
+GetGroup 22
+GetGroup 54
+GetStrongestTroll 3
+JoinGroups 17 28
+JoinGroups 9 6
+AddTroll 60 7
+GetGroup 4
+JoinGroups 7 22
+AddTroll 99 93
+GetGroup 5
+GetNumOfTrollsInRange 66 178
+JoinGroups 22 13
+GetGroup 11
+GetNumOfTrollsInRange 61 255
+GetNumOfTrollsInRange 21 77
+AddTroll 79 1
+JoinGroups 25 17
+AssignTroll 40 8 
+JoinGroups 20 20
+GetNumOfTrollsInRange 32 261
+AddTroll 6 31
+AddTroll 32 21
+AssignTroll 14 16 
+AddTroll 66 79
+GetStrongestTroll 24
+AddTroll 66 69
+JoinGroups 24 17
+GetNumOfTrollsInRange 48 275
+GetGroup 54
+GetGroup 37
+GetGroup 56
+AssignTroll 14 1 
+GetStrongestTroll 10
+GetStrongestTroll 2
+GetNumOfTrollsInRange 65 229
+GetStrongestTroll 6
+AssignTroll 71 29 
+GetNumOfTrollsInRange 95 126
+JoinGroups 10 1
+GetGroup 26
+GetGroup 0
+AddTroll 40 55
+JoinGroups 2 10
+AddTroll 15 38
+GetGroup 80
+AddTroll 59 81
+AddTroll 17 68
+GetNumOfTrollsInRange 95 118
+GetGroup 72
+AddTroll 56 79
+AddTroll 9 0
+GetStrongestTroll 3
+AddTroll 44 90
+AssignTroll 74 18 
+GetStrongestTroll 10
+GetNumOfTrollsInRange 2 257
+GetNumOfTrollsInRange 3 47
+GetStrongestTroll 24
+AssignTroll 12 23 
+AddTroll 80 86
+AddTroll 20 75
+AssignTroll 7 9 
+AssignTroll 66 22 
+GetGroup 6
+GetNumOfTrollsInRange 0 225
+GetNumOfTrollsInRange 45 250
+GetGroup 20
+JoinGroups 12 11
+GetNumOfTrollsInRange 69 141
+JoinGroups 17 6
+GetGroup 96
+GetStrongestTroll 20
+GetNumOfTrollsInRange 26 108
+GetNumOfTrollsInRange 38 80
+JoinGroups 9 5
+GetNumOfTrollsInRange 54 297
+JoinGroups 26 16
+GetStrongestTroll 19
+GetGroup 65
+AssignTroll 25 8 
+AssignTroll 31 3 
+GetNumOfTrollsInRange 92 266
+JoinGroups 23 14
+AssignTroll 81 23 
+GetNumOfTrollsInRange 65 101
+JoinGroups 15 1
+AssignTroll 72 14 
+GetNumOfTrollsInRange 74 178
+AssignTroll 68 13 
+GetStrongestTroll 23
+JoinGroups 4 24
+AddTroll 18 17
+JoinGroups 21 14
+GetStrongestTroll 2
+GetNumOfTrollsInRange 58 164
+GetNumOfTrollsInRange 70 289
+AssignTroll 79 1 
+GetGroup 56
+AddTroll 97 76
+AssignTroll 66 14 
+GetNumOfTrollsInRange 3 217
+AssignTroll 90 6 
+GetNumOfTrollsInRange 87 292
+JoinGroups 20 24
+JoinGroups 27 15
+GetStrongestTroll 2
+JoinGroups 19 5
+AssignTroll 10 10 
+JoinGroups 17 6
+AddTroll 73 20
+AssignTroll 44 0 
+AddTroll 54 30
+JoinGroups 9 24
+GetNumOfTrollsInRange 31 138
+AddTroll 66 17
+GetNumOfTrollsInRange 34 141
+AssignTroll 42 9 
+AddTroll 8 7
+GetGroup 40
+JoinGroups 5 11
+GetNumOfTrollsInRange 31 194
+JoinGroups 27 29
+JoinGroups 3 15
+GetStrongestTroll 0
+AssignTroll 69 5 
+GetGroup 53
+AddTroll 88 38
+GetNumOfTrollsInRange 8 30
+AssignTroll 83 24 
+JoinGroups 6 13
+JoinGroups 20 8
+AddTroll 78 78
+JoinGroups 19 9
+GetGroup 95
+JoinGroups 24 3
+GetGroup 55
+GetGroup 92
+AssignTroll 31 23 
+JoinGroups 3 19
+GetNumOfTrollsInRange 88 235
+GetNumOfTrollsInRange 52 272
+GetGroup 77
+AddTroll 6 82
+GetGroup 26
+GetStrongestTroll 13
+GetGroup 3
+GetGroup 82
+GetStrongestTroll 3
+GetNumOfTrollsInRange 26 50
+GetNumOfTrollsInRange 68 173
+GetNumOfTrollsInRange 62 84
+JoinGroups 17 15
+AddTroll 51 3
+AssignTroll 69 25 
+GetNumOfTrollsInRange 65 118
+AssignTroll 5 27 
+GetStrongestTroll 21
+GetNumOfTrollsInRange 98 130
+GetStrongestTroll 10
+GetGroup 49
+AddTroll 80 46
+AddTroll 62 42
+GetNumOfTrollsInRange 83 250
+GetGroup 98
+GetStrongestTroll 17
+GetGroup 26
+AssignTroll 42 26 
+GetGroup 4
+GetNumOfTrollsInRange 50 215
+JoinGroups 15 11
+JoinGroups 22 19
+GetStrongestTroll 6
+GetStrongestTroll 12
+GetNumOfTrollsInRange 74 270
+AssignTroll 59 2 
+GetGroup 42
+GetStrongestTroll 16
+GetStrongestTroll 27
+GetStrongestTroll 8
+GetNumOfTrollsInRange 54 121
+JoinGroups 27 21
+GetGroup 56
+JoinGroups 23 3
+AssignTroll 58 14 
+GetGroup 26
+GetGroup 78
+GetStrongestTroll 9
+GetStrongestTroll 6
+JoinGroups 5 18
+GetStrongestTroll 13
+GetGroup 42
+JoinGroups 10 25
+JoinGroups 13 4
+AddTroll 90 11
+JoinGroups 28 26
+AssignTroll 31 3 
+AssignTroll 75 22 
+GetNumOfTrollsInRange 21 169
+AddTroll 63 45
+AddTroll 63 1
+JoinGroups 19 11
+AssignTroll 90 8 
+GetGroup 98
+GetNumOfTrollsInRange 63 42
+JoinGroups 13 7
+JoinGroups 26 9
+AssignTroll 34 6 
+GetGroup 30
+GetStrongestTroll 8
+GetGroup 58
+GetStrongestTroll 3
+AddTroll 45 31
+GetStrongestTroll 6
+GetStrongestTroll 17
+GetNumOfTrollsInRange 70 154
+AssignTroll 82 22 
+AssignTroll 87 18 
+AssignTroll 95 6 
+GetGroup 77
+AddTroll 49 63
+AssignTroll 70 19 
+JoinGroups 9 19
+AssignTroll 49 18 
+AssignTroll 10 10 
+GetStrongestTroll 22
+GetNumOfTrollsInRange 64 257
+AddTroll 76 62
+AssignTroll 27 1 
+GetNumOfTrollsInRange 89 184
+GetStrongestTroll 9
+GetStrongestTroll 5
+GetNumOfTrollsInRange 24 124
+GetGroup 15
+GetStrongestTroll 16
+JoinGroups 27 9
+GetGroup 93
+AssignTroll 86 21 
+AddTroll 90 47
+JoinGroups 0 24
+AddTroll 71 3
+GetStrongestTroll 27
+GetStrongestTroll 0
+GetStrongestTroll 24
+JoinGroups 9 27
+AssignTroll 57 3 
+JoinGroups 8 20
+GetNumOfTrollsInRange 87 119
+AssignTroll 2 6 
+AssignTroll 77 26 
+JoinGroups 26 13
+GetGroup 39
+AssignTroll 32 12 
+AssignTroll 59 22 
+GetNumOfTrollsInRange 12 255
+AssignTroll 86 2 
+AddTroll 37 89
+AssignTroll 83 28 
+GetStrongestTroll 23
+GetNumOfTrollsInRange 67 282
+TeamUpgrade 2 8
+GetGroup 69
+GetGroup 84
+AssignTroll 65 4 
+AddTroll 60 65
+AddTroll 4 51
+AssignTroll 83 11 
+AssignTroll 57 23 
+JoinGroups 5 4
+GetStrongestTroll 7
+JoinGroups 18 1
+AddTroll 35 49
+AssignTroll 30 13 
+GetGroup 83
+GetStrongestTroll 29
+JoinGroups 15 17
+GetNumOfTrollsInRange 30 172
+AddTroll 42 48
+AddTroll 59 59
+AssignTroll 10 23 
+GetStrongestTroll 1
+GetStrongestTroll 8
+GetGroup 77
+GetStrongestTroll 23
+GetGroup 4
+GetNumOfTrollsInRange 48 94
+AddTroll 80 54
+AssignTroll 59 12 
+AssignTroll 96 24 
+GetStrongestTroll 5
+AssignTroll 86 24 
+JoinGroups 5 29
+JoinGroups 16 16
+GetNumOfTrollsInRange 52 222
+AssignTroll 16 28 
+GetNumOfTrollsInRange 13 60
+AssignTroll 82 6 
+AssignTroll 57 24 
+AddTroll 57 68
+JoinGroups 9 15
+AssignTroll 19 4 
+GetGroup 70
+AddTroll 67 26
+AddTroll 97 89
+JoinGroups 29 14
+JoinGroups 16 1
+GetGroup 73
+GetGroup 95
+GetNumOfTrollsInRange 10 135
+GetNumOfTrollsInRange 90 125
+AssignTroll 28 6 
+JoinGroups 14 25
+AddTroll 92 98
+AddTroll 71 15
+GetStrongestTroll 4
+JoinGroups 9 17
+AddTroll 48 36
+GetNumOfTrollsInRange 79 278
+GetNumOfTrollsInRange 54 55
+JoinGroups 28 11
+GetGroup 52
+AddTroll 3 54
+GetGroup 35
+GetNumOfTrollsInRange 84 102
+AssignTroll 21 28 
+AssignTroll 23 17 
+JoinGroups 6 15
+AddTroll 11 48
+AssignTroll 93 17 
+AddTroll 56 72
+AssignTroll 66 15 
+GetStrongestTroll 19
+GetNumOfTrollsInRange 39 63
+AssignTroll 56 7 
+AddTroll 58 55
+AddTroll 68 96
+GetGroup 79
+GetStrongestTroll 10
+GetStrongestTroll 2
+JoinGroups 19 29
+GetNumOfTrollsInRange 56 210
+GetStrongestTroll 9
+GetNumOfTrollsInRange 38 120
+AssignTroll 9 0 
+AddTroll 95 97
+GetGroup 68
+AssignTroll 49 20 
+AssignTroll 66 23 
+GetGroup 95
+GetStrongestTroll 26
+AssignTroll 29 26 
+GetStrongestTroll 8
+GetStrongestTroll 18
+AddTroll 97 75
+GetGroup 86
+GetNumOfTrollsInRange 6 130
+GetNumOfTrollsInRange 80 110
+GetGroup 56
+AddTroll 23 3
+AssignTroll 49 28 
+GetNumOfTrollsInRange 91 292
+GetNumOfTrollsInRange 67 213
+GetStrongestTroll 22
+AddTroll 55 14
+GetGroup 38
+GetNumOfTrollsInRange 25 181
+JoinGroups 24 29
+GetGroup 59
+GetNumOfTrollsInRange 98 102
+GetStrongestTroll 15
+JoinGroups 0 28
+GetGroup 77
+AddTroll 68 22
+AssignTroll 57 10 
+GetGroup 45
+AddTroll 84 84
+GetGroup 88
+JoinGroups 21 22
+AddTroll 65 54
+JoinGroups 20 27
+GetStrongestTroll 25
+JoinGroups 16 13
+JoinGroups 9 10
+AssignTroll 24 11 
+JoinGroups 9 6
+AddTroll 95 84
+GetStrongestTroll 16
+GetNumOfTrollsInRange 7 116
+AssignTroll 1 10 
+GetGroup 10
+JoinGroups 2 26
+GetNumOfTrollsInRange 32 185
+JoinGroups 4 12
+AddTroll 18 73
+AddTroll 82 77
+GetStrongestTroll 25
+GetNumOfTrollsInRange 54 282
+AddTroll 70 67
+GetGroup 33
+JoinGroups 7 6
+GetNumOfTrollsInRange 11 149
+GetNumOfTrollsInRange 90 261
+JoinGroups 10 16
+AssignTroll 35 23 
+JoinGroups 16 3
+GetNumOfTrollsInRange 4 17
+GetNumOfTrollsInRange 35 273
+GetStrongestTroll 26
+GetGroup 5
+GetNumOfTrollsInRange 62 182
+GetGroup 3
+AssignTroll 83 6 
+GetGroup 66
+GetGroup 51
+GetStrongestTroll 19
+GetGroup 90
+GetGroup 9
+JoinGroups 24 8
+GetStrongestTroll 9
+GetGroup 26
+JoinGroups 23 15
+GetGroup 87
+AssignTroll 13 17 
+GetStrongestTroll 13
+AddTroll 78 85
+AssignTroll 75 17 
+AddTroll 13 52
+JoinGroups 3 4
+GetStrongestTroll 29
+GetGroup 6
+AssignTroll 8 26 
+JoinGroups 20 13
+AddTroll 72 4
+AddTroll 26 50
+AddTroll 45 28
+GetNumOfTrollsInRange 30 30
+AddTroll 39 72
+JoinGroups 13 28
+GetNumOfTrollsInRange 5 120
+AssignTroll 76 22 
+GetGroup 66
+AddTroll 13 21
+GetGroup 20
+AssignTroll 51 26 
+GetStrongestTroll 13
+AssignTroll 95 25 
+AddTroll 71 51
+GetGroup 82
+GetNumOfTrollsInRange 51 143
+AssignTroll 81 10 
+AddTroll 62 72
+AddTroll 18 36
+GetStrongestTroll 12
+AddTroll 22 33
+AssignTroll 28 2 
+JoinGroups 25 2
+GetGroup 7
+AddTroll 18 4
+AddTroll 80 62
+AddTroll 32 28
+JoinGroups 22 20
+JoinGroups 7 5
+GetNumOfTrollsInRange 65 277
+AssignTroll 14 24 
+JoinGroups 25 4
+GetStrongestTroll 4
+AddTroll 89 33
+GetGroup 94
+GetNumOfTrollsInRange 20 205
+AddTroll 69 68
+GetNumOfTrollsInRange 75 194
+GetNumOfTrollsInRange 80 141
+AssignTroll 79 3 
+JoinGroups 26 12
+GetGroup 7
+GetStrongestTroll 21
+JoinGroups 17 23
+AssignTroll 62 11 
+GetStrongestTroll 27
+GetStrongestTroll 20
+GetGroup 85
+GetNumOfTrollsInRange 1 270
+AddTroll 29 95
+GetStrongestTroll 10
+GetNumOfTrollsInRange 23 112
+GetGroup 45
+AssignTroll 38 5 
+GetGroup 29
+GetStrongestTroll 23
+GetStrongestTroll 5
+AddTroll 26 63
+GetNumOfTrollsInRange 85 251
+AddTroll 13 66
+JoinGroups 20 0
+GetNumOfTrollsInRange 14 32
+AddTroll 92 81
+AddTroll 20 3
+GetStrongestTroll 25
+GetNumOfTrollsInRange 76 114
+GetGroup 7
+GetGroup 79
+AddTroll 30 46
+GetGroup 66
+GetGroup 38
+GetNumOfTrollsInRange 57 176
+GetNumOfTrollsInRange 3 94
+GetNumOfTrollsInRange 30 272
+AssignTroll 26 3 
+GetGroup 20
+JoinGroups 4 12
+GetStrongestTroll 26
+AssignTroll 84 1 
+GetNumOfTrollsInRange 1 202
+GetNumOfTrollsInRange 13 148
+GetGroup 62
+GetGroup 97
+GetNumOfTrollsInRange 77 200
+JoinGroups 7 18
+GetNumOfTrollsInRange 5 235
+GetGroup 42
+GetStrongestTroll 13
+GetGroup 57
+AssignTroll 80 28 
+JoinGroups 13 8
+AssignTroll 19 9 
+JoinGroups 11 21
+GetNumOfTrollsInRange 5 116
+GetStrongestTroll 5
+GetGroup 5
+GetStrongestTroll 5
+GetStrongestTroll 13
+GetGroup 12
+AddTroll 44 2
+AssignTroll 8 18 
+GetGroup 44
+GetNumOfTrollsInRange 45 231
+JoinGroups 28 22
+AssignTroll 34 23 
+JoinGroups 12 10
+GetStrongestTroll 9
+JoinGroups 21 11
+GetStrongestTroll 1
+JoinGroups 12 7
+GetStrongestTroll 10
+AssignTroll 83 20 
+AssignTroll 97 15 
+AssignTroll 32 28 
+GetGroup 11
+AssignTroll 18 9 
+JoinGroups 5 20
+AddTroll 77 31
+GetNumOfTrollsInRange 53 78
+GetNumOfTrollsInRange 92 195
+AssignTroll 43 5 
+GetGroup 22
+GetGroup 93
+JoinGroups 29 11
+GetStrongestTroll 16
+GetNumOfTrollsInRange 88 178
+GetStrongestTroll 8
+GetNumOfTrollsInRange 12 252
+GetNumOfTrollsInRange 49 61
+AddTroll 61 75
+GetStrongestTroll 21
+JoinGroups 29 29
+GetNumOfTrollsInRange 18 231
+AssignTroll 80 15 
+AssignTroll 25 26 
+GetStrongestTroll 15
+GetGroup 1
+AssignTroll 57 0 
+GetGroup 49
+GetStrongestTroll 16
+GetStrongestTroll 14
+AddTroll 49 35
+GetStrongestTroll 14
+AddTroll 86 51
+AddTroll 13 71
+GetStrongestTroll 14
+GetGroup 65
+JoinGroups 8 2
+AddTroll 3 40
+JoinGroups 23 4
+JoinGroups 1 13
+GetNumOfTrollsInRange 42 184
+GetNumOfTrollsInRange 6 259
+GetNumOfTrollsInRange 89 128
+AssignTroll 41 6 
+GetGroup 10
+GetStrongestTroll 24
+JoinGroups 24 25
+GetStrongestTroll 27
+GetStrongestTroll 13
+JoinGroups 25 18
+AddTroll 83 69
+GetGroup 56
+GetGroup 33
+AddTroll 96 56
+GetStrongestTroll 11
+GetStrongestTroll 16
+GetStrongestTroll 14
+GetStrongestTroll 19
+AddTroll 26 5
+JoinGroups 26 15
+JoinGroups 16 18
+JoinGroups 27 18
+GetNumOfTrollsInRange 24 78
+GetNumOfTrollsInRange 13 294
+GetGroup 88
+AssignTroll 82 26 
+GetGroup 51
+GetNumOfTrollsInRange 55 89
+GetNumOfTrollsInRange 60 207
+AddTroll 41 86
+GetGroup 97
+GetStrongestTroll 4
+JoinGroups 8 4
+AddTroll 27 0
+JoinGroups 10 19
+GetNumOfTrollsInRange 79 162
+JoinGroups 25 16
+AddTroll 46 38
+AddTroll 89 67
+GetStrongestTroll 21
+GetGroup 82
+JoinGroups 29 6
+GetGroup 45
+JoinGroups 22 24
+AddTroll 57 57
+AssignTroll 32 21 
+JoinGroups 23 9
+JoinGroups 12 5
+GetNumOfTrollsInRange 72 132
+JoinGroups 10 20
+GetStrongestTroll 4
+GetGroup 51
+AddTroll 9 45
+AddTroll 49 89
+GetStrongestTroll 23
+AssignTroll 57 9 
+GetNumOfTrollsInRange 40 96
+GetGroup 75
+JoinGroups 17 6
+GetGroup 38
+GetNumOfTrollsInRange 56 281
+GetStrongestTroll 12
+GetGroup 64
+GetGroup 42
+GetNumOfTrollsInRange 85 179
+JoinGroups 21 26
+GetStrongestTroll 2
+AssignTroll 69 16 
+JoinGroups 29 10
+AssignTroll 68 25 
+AddTroll 79 3
+JoinGroups 14 5
+GetGroup 10
+GetStrongestTroll 27
+AssignTroll 7 1 
+GetGroup 48
+AddTroll 45 49
+GetGroup 32
+AddTroll 52 61
+JoinGroups 21 1
+AddTroll 38 77
+JoinGroups 29 21
+GetGroup 8
+GetNumOfTrollsInRange 22 29
+JoinGroups 12 6
+AddTroll 81 99
+JoinGroups 18 3
+AssignTroll 67 6 
+JoinGroups 23 13
+GetNumOfTrollsInRange 7 48
+GetGroup 75
+AssignTroll 95 28 
+GetStrongestTroll 7
+GetStrongestTroll 2
+GetStrongestTroll 26
+JoinGroups 17 13
+JoinGroups 25 6
+AddTroll 67 6
+JoinGroups 7 22
+JoinGroups 18 11
+GetGroup 96
+JoinGroups 9 6
+AddTroll 57 54
+GetStrongestTroll 15
+GetNumOfTrollsInRange 1 285
+JoinGroups 6 2
+GetStrongestTroll 3
+TeamUpgrade 2 6
+GetStrongestTroll 11
+AddTroll 16 29
+AddTroll 31 70
+AssignTroll 66 28 
+AssignTroll 11 21 
+JoinGroups 21 16
+GetStrongestTroll 6
+GetNumOfTrollsInRange 14 85
+GetNumOfTrollsInRange 79 291
+AddTroll 51 15
+AssignTroll 39 26 
+GetNumOfTrollsInRange 48 102
+JoinGroups 13 21
+JoinGroups 13 13
+GetStrongestTroll 22
+GetGroup 29
+GetNumOfTrollsInRange 72 203
+GetNumOfTrollsInRange 67 253
+AssignTroll 16 14 
+GetNumOfTrollsInRange 6 174
+AddTroll 25 88
+JoinGroups 13 24
+GetGroup 28
+AddTroll 82 22
+AssignTroll 33 1 
+GetGroup 78
+AddTroll 40 84
+JoinGroups 12 23
+GetStrongestTroll 0
+GetGroup 28
+GetGroup 51
+AddTroll 29 93
+JoinGroups 0 20
+GetStrongestTroll 16
+AssignTroll 55 22 
+GetNumOfTrollsInRange 63 297
+GetNumOfTrollsInRange 19 227
+GetGroup 16
+JoinGroups 28 19
+GetNumOfTrollsInRange 50 267
+AddTroll 6 78
+GetNumOfTrollsInRange 87 286
+AddTroll 33 23
+GetStrongestTroll 25
+GetGroup 20
+JoinGroups 25 10
+AssignTroll 79 3 
+AssignTroll 38 25 
+JoinGroups 25 0
+GetGroup 51
+AssignTroll 47 12 
+JoinGroups 15 23
+AddTroll 64 58
+GetStrongestTroll 20
+AssignTroll 59 29 
+GetGroup 46
+GetGroup 58
+AddTroll 86 34
+GetStrongestTroll 17
+GetNumOfTrollsInRange 28 231
+GetStrongestTroll 4
+AssignTroll 86 7 
+GetGroup 79
+AssignTroll 28 17 
+JoinGroups 19 0
+GetStrongestTroll 3
+GetGroup 85
+JoinGroups 11 8
+JoinGroups 14 22
+AddTroll 63 31
+GetGroup 32
+GetGroup 5
+AddTroll 53 91
+AddTroll 25 21
+JoinGroups 29 21
+GetNumOfTrollsInRange 38 298
+GetNumOfTrollsInRange 17 75
+GetStrongestTroll 0
+GetGroup 25
+JoinGroups 4 4
+AddTroll 32 78
+GetGroup 76
+AssignTroll 4 7 
+GetGroup 21
+GetStrongestTroll 28
+AddTroll 20 28
+AddTroll 16 41
+AssignTroll 93 5 
+AssignTroll 23 1 
+JoinGroups 0 4
+JoinGroups 0 14
+AddTroll 60 71
+AssignTroll 29 16 
+GetNumOfTrollsInRange 55 123
+GetGroup 8
+GetGroup 98
+AddTroll 43 64
+AssignTroll 94 21 
+GetStrongestTroll 12
+AssignTroll 67 11 
+AddTroll 85 34
+AddTroll 6 68
+JoinGroups 6 10
+GetStrongestTroll 25
+AddTroll 28 2
+GetStrongestTroll 3
+GetStrongestTroll 1
+AssignTroll 72 24 
+GetGroup 93
+JoinGroups 29 17
+GetStrongestTroll 22
+GetGroup 37
+GetGroup 34
+AddTroll 32 99
+AddTroll 83 53
+AddTroll 87 80
+GetNumOfTrollsInRange 28 246
+JoinGroups 7 23
+GetNumOfTrollsInRange 67 234
+GetStrongestTroll 18
+GetGroup 73
+GetNumOfTrollsInRange 67 20
+AssignTroll 59 24 
+JoinGroups 1 5
+GetStrongestTroll 16
+AddTroll 50 36
+JoinGroups 12 13
+AssignTroll 69 13 
+GetGroup 32
+GetNumOfTrollsInRange 18 133
+GetNumOfTrollsInRange 7 178
+GetNumOfTrollsInRange 76 155
+JoinGroups 25 18
+JoinGroups 16 4
+GetNumOfTrollsInRange 80 263
+GetStrongestTroll 16
+GetNumOfTrollsInRange 84 297
+GetNumOfTrollsInRange 13 175
+GetGroup 96
+AddTroll 73 37
+GetNumOfTrollsInRange 83 261
+AddTroll 26 85
+AddTroll 15 38
+JoinGroups 16 18
+AddTroll 82 78
+GetStrongestTroll 8
+JoinGroups 27 14
+AddTroll 82 86
+AddTroll 20 27
+AssignTroll 82 1 
+AddTroll 90 63
+AssignTroll 76 10 
+GetNumOfTrollsInRange 0 234
+AddTroll 70 30
+AssignTroll 99 14 
+AssignTroll 48 5 
+GetGroup 29
+AddTroll 75 52
+JoinGroups 5 21
+JoinGroups 4 4
+AssignTroll 76 14 
+AssignTroll 87 20 
+GetNumOfTrollsInRange 69 192
+JoinGroups 24 1
+JoinGroups 8 7
+JoinGroups 15 16
+AssignTroll 98 1 
+GetGroup 58
+GetStrongestTroll 0
+GetGroup 58
+GetStrongestTroll 19
+GetNumOfTrollsInRange 32 236
+GetStrongestTroll 24
+GetNumOfTrollsInRange 75 219
+GetStrongestTroll 17
+AssignTroll 81 29 
+GetNumOfTrollsInRange 25 288
+AddTroll 74 64
+GetNumOfTrollsInRange 10 71
+AssignTroll 29 1 
+GetStrongestTroll 6
+AddTroll 90 80
+GetGroup 79
+GetNumOfTrollsInRange 61 93
+GetNumOfTrollsInRange 18 191
+GetGroup 47
+AssignTroll 1 4 
+AssignTroll 3 3 
+GetNumOfTrollsInRange 93 46
+GetNumOfTrollsInRange 73 7
+GetStrongestTroll 17
+JoinGroups 25 2
+JoinGroups 0 23
+AddTroll 35 81
+AssignTroll 93 3 
+GetStrongestTroll 14
+GetGroup 88
+GetNumOfTrollsInRange 15 22
+GetStrongestTroll 11
+AssignTroll 10 13 
+GetGroup 63
+GetStrongestTroll 21
+GetNumOfTrollsInRange 34 195
+GetStrongestTroll 2
+GetGroup 31
+GetNumOfTrollsInRange 29 127
+GetNumOfTrollsInRange 23 253
+AssignTroll 32 1 
+GetStrongestTroll 27
+AddTroll 86 81
+AddTroll 26 19
+AssignTroll 41 0 
+GetGroup 14
+GetNumOfTrollsInRange 51 168
+GetStrongestTroll 1
+JoinGroups 15 24
+AssignTroll 84 25 
+GetStrongestTroll 19
+AssignTroll 53 25 
+JoinGroups 27 12
+JoinGroups 3 23
+AddTroll 46 68
+JoinGroups 11 2
+GetGroup 76
+AssignTroll 30 11 
+GetGroup 8
+GetNumOfTrollsInRange 43 58
+GetStrongestTroll 12
+GetStrongestTroll 7
+GetStrongestTroll 17
+AddTroll 64 99
+AddTroll 20 47
+JoinGroups 12 19
+AssignTroll 31 17 
+GetGroup 72
+JoinGroups 21 0
+GetStrongestTroll 24
+JoinGroups 4 20
+GetGroup 1
+GetNumOfTrollsInRange 57 70
+AssignTroll 83 24 
+GetStrongestTroll 8
+JoinGroups 3 19
+AddTroll 36 98
+GetNumOfTrollsInRange 4 146
+AddTroll 31 24
+GetGroup 68
+AssignTroll 59 13 
+JoinGroups 23 5
+GetGroup 6
+JoinGroups 26 21
+AssignTroll 66 25 
+AddTroll 30 92
+AddTroll 52 97
+JoinGroups 21 21
+GetGroup 80
+JoinGroups 21 19
+GetStrongestTroll 9
+AssignTroll 50 28 
+GetStrongestTroll 23
+JoinGroups 26 15
+GetGroup 32
+GetNumOfTrollsInRange 4 122
+GetGroup 56
+GetNumOfTrollsInRange 57 92
+JoinGroups 17 18
+JoinGroups 10 26
+GetStrongestTroll 7
+GetNumOfTrollsInRange 10 110
+AssignTroll 84 14 
+AssignTroll 50 1 
+AddTroll 7 46
+GetStrongestTroll 24
+JoinGroups 8 8
+AssignTroll 79 17 
+AddTroll 51 43
+JoinGroups 6 20
+GetStrongestTroll 29
+GetStrongestTroll 6
+JoinGroups 18 0
+GetStrongestTroll 9
+AssignTroll 31 24 
+AssignTroll 53 4 
+AssignTroll 24 19 
+GetGroup 98
+GetGroup 75
+JoinGroups 9 6
+JoinGroups 2 4
+JoinGroups 11 16
+GetGroup 89
+GetGroup 0
+AssignTroll 8 15 
+GetGroup 89
+GetNumOfTrollsInRange 29 86
+AssignTroll 25 3 
+AddTroll 39 83
+AssignTroll 99 26 
+GetNumOfTrollsInRange 6 175
+AddTroll 42 71
+GetGroup 71
+AssignTroll 54 5 
+GetStrongestTroll 26
+AddTroll 77 67
+AddTroll 30 83
+AddTroll 82 53
+AddTroll 54 66
+GetNumOfTrollsInRange 96 134
+JoinGroups 24 13
+GetStrongestTroll 25
+GetStrongestTroll 8
+JoinGroups 8 19
+AssignTroll 37 23 
+JoinGroups 26 25
+AssignTroll 12 15 
+AddTroll 61 42
+JoinGroups 12 14
+GetStrongestTroll 8
+AssignTroll 10 28 
+GetStrongestTroll 16
+AddTroll 22 66
+GetGroup 3
+JoinGroups 0 8
+JoinGroups 11 6
+GetGroup 76
+JoinGroups 9 14
+GetStrongestTroll 17
+GetNumOfTrollsInRange 14 75
+AssignTroll 82 7 
+AddTroll 53 48
+JoinGroups 1 18
+GetNumOfTrollsInRange 21 81
+GetStrongestTroll 25
+JoinGroups 6 18
+AddTroll 72 72
+GetNumOfTrollsInRange 56 127
+JoinGroups 4 2
+JoinGroups 25 0
+JoinGroups 10 8
+JoinGroups 12 6
+AssignTroll 63 15 
+GetGroup 28
+GetStrongestTroll 3
+JoinGroups 13 1
+AssignTroll 72 11 
+GetStrongestTroll 17
+GetGroup 77
+AddTroll 53 26
+AssignTroll 81 11 
+JoinGroups 9 5
+AssignTroll 76 14 
+GetNumOfTrollsInRange 62 272
+AssignTroll 79 8 
+AssignTroll 31 16 
+GetNumOfTrollsInRange 19 204
+AssignTroll 88 24 
+TeamUpgrade 9 9
+JoinGroups 7 21
+AssignTroll 74 12 
+GetStrongestTroll 29
+GetStrongestTroll 20
+GetStrongestTroll 6
+GetStrongestTroll 1
+JoinGroups 25 4
+AssignTroll 26 4 
+GetGroup 53
+AddTroll 61 65
+AssignTroll 95 17 
+GetStrongestTroll 24
+AssignTroll 34 18 
+AssignTroll 93 18 
+GetGroup 6
+AssignTroll 0 27 
+JoinGroups 9 4
+JoinGroups 17 12
+GetNumOfTrollsInRange 37 82
+JoinGroups 21 21
+GetStrongestTroll 14
+GetStrongestTroll 15
+GetStrongestTroll 25
+GetGroup 15
+GetNumOfTrollsInRange 36 247
+JoinGroups 21 15
+AssignTroll 67 1 
+AddTroll 10 25
+GetGroup 25
+GetGroup 21
+JoinGroups 13 20
+GetGroup 0
+AddTroll 6 78
+GetGroup 75
+GetStrongestTroll 0
+GetNumOfTrollsInRange 8 274
+AssignTroll 79 22 
+AssignTroll 41 15 
+GetStrongestTroll 0
+GetGroup 32
+GetStrongestTroll 20
+AddTroll 21 42
+JoinGroups 5 16
+GetStrongestTroll 28
+GetStrongestTroll 20
+JoinGroups 12 6
+GetStrongestTroll 27
+JoinGroups 29 12
+JoinGroups 17 15
+AssignTroll 47 24 
+JoinGroups 7 10
+AssignTroll 8 22 
+GetNumOfTrollsInRange 40 106
+AddTroll 80 68
+GetGroup 80
+AddTroll 5 12
+AssignTroll 78 29 
+AssignTroll 44 7 
+AddTroll 54 85
+AddTroll 99 78
+AddTroll 85 29
+GetNumOfTrollsInRange 12 62
+TeamUpgrade 9 5
+AddTroll 81 17
+GetStrongestTroll 17
+GetNumOfTrollsInRange 63 188
+AssignTroll 90 5 
+GetStrongestTroll 25
+GetNumOfTrollsInRange 26 93
+AddTroll 82 47
+AssignTroll 14 25 
+AddTroll 10 84
+GetGroup 75
+GetStrongestTroll 24
+JoinGroups 22 25
+JoinGroups 24 5
+JoinGroups 5 11
+AddTroll 37 14
+AddTroll 28 1
+AddTroll 59 6
+GetGroup 42
+AddTroll 89 71
+GetGroup 77
+AddTroll 97 78
+GetStrongestTroll 28
+GetStrongestTroll 18
+GetGroup 4
+JoinGroups 8 17
+AddTroll 14 18
+AddTroll 68 82
+AssignTroll 93 10 
+GetStrongestTroll 5
+JoinGroups 12 21
+GetGroup 36
+GetStrongestTroll 22
+GetStrongestTroll 17
+AddTroll 14 14
+GetStrongestTroll 25
+GetStrongestTroll 28
+GetNumOfTrollsInRange 27 129
+GetNumOfTrollsInRange 43 131
+JoinGroups 24 15
+GetStrongestTroll 20
+JoinGroups 10 7
+JoinGroups 3 24
+GetGroup 7
+AssignTroll 45 14 
+AssignTroll 52 27 
+GetStrongestTroll 22
+AssignTroll 61 12 
+GetNumOfTrollsInRange 43 215
+AddTroll 80 22
+AssignTroll 31 22 
+GetStrongestTroll 19
+GetStrongestTroll 5
+AssignTroll 99 22 
+AddTroll 17 30
+GetGroup 16
+GetStrongestTroll 11
+GetNumOfTrollsInRange 55 253
+AssignTroll 32 10 
+JoinGroups 17 12
+GetNumOfTrollsInRange 46 96
+AddTroll 96 63
+GetGroup 14
+AddTroll 77 82
+GetStrongestTroll 0
+AssignTroll 51 23 
+AddTroll 99 72
+JoinGroups 14 18
+JoinGroups 12 26
+AssignTroll 3 28 
+AddTroll 64 73
+AssignTroll 41 3 
+JoinGroups 27 15
+GetStrongestTroll 4
+GetNumOfTrollsInRange 3 200
+GetStrongestTroll 10
+GetNumOfTrollsInRange 68 174
+AddTroll 74 79
+GetNumOfTrollsInRange 71 248
+GetStrongestTroll 13
+GetGroup 3
+JoinGroups 24 20
+AddTroll 85 22
+AddTroll 76 61
+GetNumOfTrollsInRange 91 299
+GetStrongestTroll 28
+GetNumOfTrollsInRange 78 279
+AssignTroll 6 22 
+AddTroll 67 30
+AddTroll 51 21
+JoinGroups 21 24
+GetStrongestTroll 13
+GetGroup 61
+AddTroll 96 59
+GetGroup 33
+GetNumOfTrollsInRange 85 126
+JoinGroups 25 1
+GetGroup 66
+GetGroup 92
+GetNumOfTrollsInRange 35 172
+JoinGroups 6 23
+AssignTroll 90 23 
+GetNumOfTrollsInRange 49 135
+GetGroup 95
+GetNumOfTrollsInRange 44 143
+GetStrongestTroll 28
+GetGroup 23
+JoinGroups 5 8
+JoinGroups 22 0
+AddTroll 24 8
+GetGroup 93
+GetStrongestTroll 20
+AssignTroll 38 22 
+JoinGroups 21 12
+JoinGroups 21 18
+AssignTroll 30 21 
+AddTroll 30 41
+AssignTroll 19 1 
+AddTroll 78 56
+GetNumOfTrollsInRange 25 150
+AddTroll 50 26
+AssignTroll 75 13 
+JoinGroups 14 25
+AssignTroll 48 2 
+GetStrongestTroll 25
+JoinGroups 8 19
+JoinGroups 19 16
+GetGroup 21
+AssignTroll 12 3 
+GetGroup 1
+GetStrongestTroll 11
+JoinGroups 23 20
+GetNumOfTrollsInRange 72 156
+GetStrongestTroll 24
+AssignTroll 37 3 
+JoinGroups 12 26
+AssignTroll 19 5 
+GetGroup 18
+JoinGroups 0 27
+GetNumOfTrollsInRange 12 222
+AssignTroll 84 28 
+JoinGroups 7 19
+GetStrongestTroll 24
+GetGroup 50
+AddTroll 51 12
+GetGroup 2
+GetStrongestTroll 27
+GetStrongestTroll 25
+GetGroup 45
+AddTroll 67 48
+GetStrongestTroll 14
+GetGroup 30
+GetStrongestTroll 4
+GetNumOfTrollsInRange 61 71
+GetStrongestTroll 11
+JoinGroups 22 12
+AddTroll 69 79
+GetStrongestTroll 4
+AddTroll 36 94
+GetStrongestTroll 7
+JoinGroups 9 19
+GetNumOfTrollsInRange 20 164
+AddTroll 43 6
+AssignTroll 5 22 
+GetStrongestTroll 29
+GetNumOfTrollsInRange 8 98
+GetNumOfTrollsInRange 12 46
+AssignTroll 59 3 
+AssignTroll 12 25 
+JoinGroups 23 28
+AddTroll 44 19
+AddTroll 52 12
+AssignTroll 68 17 
+GetGroup 58
+GetStrongestTroll 22
+AssignTroll 98 11 
+GetNumOfTrollsInRange 96 234
+AssignTroll 48 16 
+GetNumOfTrollsInRange 40 249
+GetStrongestTroll 24
+AddTroll 24 69
+JoinGroups 20 20
+GetGroup 72
+GetGroup 49
+AssignTroll 44 9 
+AssignTroll 29 19 
+AssignTroll 84 1 
+JoinGroups 28 24
+JoinGroups 10 12
+GetStrongestTroll 10
+GetNumOfTrollsInRange 68 129
+GetGroup 9
+GetGroup 28
+GetGroup 6
+GetNumOfTrollsInRange 67 93
+GetStrongestTroll 4
+GetStrongestTroll 20
+GetNumOfTrollsInRange 13 32
+GetStrongestTroll 26
+GetGroup 74
+AddTroll 82 27
+GetGroup 64
+AssignTroll 6 29 
+GetStrongestTroll 3
+AssignTroll 83 11 
+AddTroll 51 70
+GetStrongestTroll 29
+JoinGroups 24 21
+GetGroup 10
+AssignTroll 64 3 
+JoinGroups 7 21
+JoinGroups 9 9
+GetNumOfTrollsInRange 17 199
+AssignTroll 74 13 
+JoinGroups 23 1
+JoinGroups 20 20
+JoinGroups 21 18
+AssignTroll 93 0 
+GetStrongestTroll 17
+GetStrongestTroll 12
+AddTroll 99 22
+JoinGroups 4 20
+GetGroup 37
+JoinGroups 0 16
+GetStrongestTroll 24
+GetNumOfTrollsInRange 28 86
+GetNumOfTrollsInRange 78 207
+JoinGroups 2 22
+GetGroup 18
+GetNumOfTrollsInRange 39 56
+AddTroll 9 75
+AddTroll 47 37
+JoinGroups 9 29
+JoinGroups 22 19
+AssignTroll 48 20 
+AddTroll 30 29
+GetGroup 53
+AssignTroll 6 12 
+GetStrongestTroll 21
+JoinGroups 13 26
+GetGroup 65
+AddTroll 1 73
+AddTroll 37 25
+AddTroll 77 88
+GetStrongestTroll 26
+AssignTroll 18 1 
+AssignTroll 54 16 
+GetStrongestTroll 13
+AddTroll 61 4
+GetStrongestTroll 15
+GetGroup 48
+JoinGroups 6 29
+AssignTroll 1 6 
+GetNumOfTrollsInRange 95 109
+TeamUpgrade 10 2
+AssignTroll 75 2 
+JoinGroups 11 28
+JoinGroups 19 10
+AddTroll 17 8
+GetGroup 57
+AssignTroll 91 11 
+AssignTroll 59 21 
+GetGroup 17
+GetGroup 65
+GetNumOfTrollsInRange 16 96
+AssignTroll 7 26 
+GetNumOfTrollsInRange 21 95
+GetGroup 64
+GetStrongestTroll 5
+GetNumOfTrollsInRange 4 24
+GetStrongestTroll 18
+AddTroll 14 99
+GetStrongestTroll 17
+GetGroup 62
+GetNumOfTrollsInRange 4 250
+GetGroup 90
+JoinGroups 6 29
+AddTroll 87 67
+JoinGroups 27 20
+JoinGroups 21 26
+AssignTroll 62 17 
+AddTroll 60 4
+GetNumOfTrollsInRange 92 39
+GetStrongestTroll 28
+JoinGroups 13 12
+GetGroup 19
+AddTroll 69 19
+JoinGroups 15 24
+AssignTroll 92 27 
+JoinGroups 13 8
+GetStrongestTroll 5
+GetStrongestTroll 21
+GetGroup 73
+AssignTroll 57 0 
+GetNumOfTrollsInRange 1 131
+JoinGroups 19 14
+GetGroup 18
+GetStrongestTroll 25
+AssignTroll 59 8 
+GetNumOfTrollsInRange 80 281
+GetNumOfTrollsInRange 39 134
+GetStrongestTroll 27
+AssignTroll 22 23 
+GetNumOfTrollsInRange 58 183
+AddTroll 14 90
+JoinGroups 22 0
+AssignTroll 18 26 
+AssignTroll 66 14 
+GetNumOfTrollsInRange 12 19
+JoinGroups 22 12
+GetNumOfTrollsInRange 48 113
+GetNumOfTrollsInRange 33 58
+GetNumOfTrollsInRange 81 170
+GetStrongestTroll 24
+GetGroup 98
+GetNumOfTrollsInRange 42 214
+AddTroll 75 36
+GetNumOfTrollsInRange 37 38
+GetGroup 11
+JoinGroups 16 6
+GetNumOfTrollsInRange 4 172
+TeamUpgrade 24 9
+JoinGroups 25 20
+AddTroll 70 92
+GetGroup 99
+GetGroup 78
+AssignTroll 93 11 
+GetGroup 79
+GetGroup 84
+AddTroll 34 24
+GetNumOfTrollsInRange 13 143
+AddTroll 27 50
+AddTroll 24 9
+AssignTroll 47 11 
+GetNumOfTrollsInRange 10 15
+AssignTroll 6 7 
+GetStrongestTroll 23
+GetGroup 87
+JoinGroups 5 17
+GetGroup 26
+AssignTroll 33 14 
+JoinGroups 16 26
+GetGroup 57
+GetNumOfTrollsInRange 18 20
+AssignTroll 17 25 
+JoinGroups 25 5
+AssignTroll 51 8 
+GetStrongestTroll 0
+AddTroll 35 43
+AddTroll 70 60
+AddTroll 62 4
+GetNumOfTrollsInRange 62 228
+JoinGroups 8 20
+GetGroup 59
+GetNumOfTrollsInRange 57 115
+GetNumOfTrollsInRange 67 271
+GetStrongestTroll 0
+GetGroup 15
+JoinGroups 8 26
+GetNumOfTrollsInRange 98 144
+GetStrongestTroll 23
+JoinGroups 9 7
+GetStrongestTroll 24
+GetGroup 5
+GetStrongestTroll 12
+AddTroll 59 84
+GetStrongestTroll 10
+GetNumOfTrollsInRange 17 291
+GetGroup 2
+GetStrongestTroll 4
+AddTroll 33 26
+AssignTroll 23 3 
+GetGroup 25
+AddTroll 20 18
+AddTroll 98 1
+GetStrongestTroll 26
+JoinGroups 22 18
+JoinGroups 3 23
+GetGroup 38
+GetNumOfTrollsInRange 87 284
+AssignTroll 40 0 
+AssignTroll 16 13 
+GetNumOfTrollsInRange 88 274
+GetStrongestTroll 0
+AssignTroll 71 8 
+AddTroll 73 80
+AddTroll 77 13
+JoinGroups 5 29
+GetStrongestTroll 2
+GetStrongestTroll 26
+GetStrongestTroll 25
+GetStrongestTroll 13
+JoinGroups 11 7
+GetGroup 34
+AssignTroll 14 12 
+GetGroup 20
+AssignTroll 36 28 
+GetStrongestTroll 4
+AddTroll 96 40
+GetNumOfTrollsInRange 0 266
+AddTroll 28 87
+AssignTroll 62 23 
+GetNumOfTrollsInRange 47 269
+GetGroup 41
+GetGroup 25
+AssignTroll 16 19 
+GetGroup 70
+GetNumOfTrollsInRange 97 203
+AssignTroll 36 5 
+AssignTroll 43 7 
+GetStrongestTroll 18
+GetStrongestTroll 0
+AddTroll 68 97
+GetGroup 0
+GetNumOfTrollsInRange 64 255
+GetGroup 47
+GetStrongestTroll 27
+GetStrongestTroll 21
+GetStrongestTroll 9
+GetNumOfTrollsInRange 27 289
+GetStrongestTroll 1
+GetGroup 53
+GetGroup 8
+AssignTroll 86 11 
+JoinGroups 27 25
+GetStrongestTroll 7
+GetNumOfTrollsInRange 3 6
+GetNumOfTrollsInRange 42 250
+AddTroll 44 73
+JoinGroups 19 4
+AssignTroll 75 16 
+GetGroup 83
+AssignTroll 92 7 
+GetStrongestTroll 21
+AddTroll 44 76
+GetStrongestTroll 7
+GetNumOfTrollsInRange 20 233
+AssignTroll 92 10 
+GetStrongestTroll 11
+AssignTroll 31 22 
+GetNumOfTrollsInRange 71 288
+GetNumOfTrollsInRange 50 89
+GetStrongestTroll 12
+AssignTroll 34 23 
+GetStrongestTroll 11
+GetGroup 50
+AssignTroll 96 26 
+AddTroll 19 77
+AssignTroll 64 29 
+AssignTroll 92 20 
+GetGroup 41
+GetStrongestTroll 1
+GetGroup 63
+GetGroup 90
+AssignTroll 61 8 
+JoinGroups 1 24
+AddTroll 2 77
+GetNumOfTrollsInRange 79 81
+GetNumOfTrollsInRange 37 163
+AddTroll 44 20
+GetStrongestTroll 25
+GetGroup 94
+JoinGroups 10 1
+GetStrongestTroll 26
+AddTroll 79 61
+JoinGroups 15 1
+GetGroup 41
+GetNumOfTrollsInRange 10 127
+GetGroup 87
+GetGroup 95
+JoinGroups 14 8
+GetStrongestTroll 26
+AssignTroll 28 3 
+JoinGroups 12 5
+AssignTroll 81 20 
+JoinGroups 11 29
+GetNumOfTrollsInRange 8 142
+AddTroll 70 36
+JoinGroups 28 7
+GetGroup 19
+AddTroll 12 10
+GetNumOfTrollsInRange 60 236
+GetNumOfTrollsInRange 83 138
+GetNumOfTrollsInRange 54 55
+GetGroup 99
+GetNumOfTrollsInRange 27 140
+GetStrongestTroll 11
+GetGroup 14
+GetGroup 31
+AddTroll 41 72
+GetGroup 11
+JoinGroups 4 3
+AssignTroll 67 26 
+JoinGroups 1 10
+GetGroup 36
+GetNumOfTrollsInRange 33 99
+GetGroup 31
+GetNumOfTrollsInRange 67 249
+GetNumOfTrollsInRange 32 234
+GetStrongestTroll 17
+GetNumOfTrollsInRange 54 249
+GetNumOfTrollsInRange 53 182
+AssignTroll 83 5 
+GetGroup 14
+GetNumOfTrollsInRange 63 152
+JoinGroups 13 11
+AddTroll 6 35
+GetGroup 55
+AddTroll 85 27
+AssignTroll 54 2 
+GetGroup 85
+GetGroup 65
+GetNumOfTrollsInRange 11 43
+GetStrongestTroll 4
+GetStrongestTroll 29
+GetGroup 35
+GetNumOfTrollsInRange 15 137
+GetGroup 40
+GetStrongestTroll 11
+GetStrongestTroll 18
+AssignTroll 26 18 
+JoinGroups 8 13
+GetGroup 16
+GetGroup 94
+GetNumOfTrollsInRange 59 259
+GetStrongestTroll 14
+GetNumOfTrollsInRange 84 183
+GetStrongestTroll 8
+GetNumOfTrollsInRange 90 138
+AssignTroll 10 2 
+AssignTroll 63 17 
+GetGroup 33
+JoinGroups 28 13
+AddTroll 11 33
+GetNumOfTrollsInRange 35 293
+GetStrongestTroll 20
+JoinGroups 17 27
+JoinGroups 5 16
+GetNumOfTrollsInRange 68 245
+GetNumOfTrollsInRange 21 128
+GetGroup 0
+AssignTroll 40 27 
+GetGroup 35
+GetNumOfTrollsInRange 38 195
+AddTroll 20 55
+GetStrongestTroll 24
+GetStrongestTroll 28
+GetStrongestTroll 16
+GetNumOfTrollsInRange 67 257
+JoinGroups 1 11
+GetNumOfTrollsInRange 19 136
+GetStrongestTroll 3
+GetGroup 6
+AddTroll 66 91
+AddTroll 97 3
+GetGroup 79
+JoinGroups 16 17
+GetGroup 26
+JoinGroups 11 27
+JoinGroups 20 26
+GetNumOfTrollsInRange 52 222
+GetGroup 54
+AssignTroll 6 21 
+AssignTroll 20 6 
+AddTroll 73 89
+JoinGroups 23 10
+AddTroll 17 11
+GetGroup 71
+AssignTroll 91 0 
+GetNumOfTrollsInRange 20 84
+AssignTroll 84 28 
+GetGroup 98
+JoinGroups 18 18
+JoinGroups 25 1
+GetGroup 28
+GetNumOfTrollsInRange 3 97
+GetStrongestTroll 14
+JoinGroups 14 19
+GetNumOfTrollsInRange 39 265
+GetNumOfTrollsInRange 19 139
+GetStrongestTroll 25
+AssignTroll 71 12 
+GetNumOfTrollsInRange 94 117
+JoinGroups 22 27
+GetNumOfTrollsInRange 80 129
+GetNumOfTrollsInRange 26 64
+GetGroup 4
+GetGroup 97
+GetStrongestTroll 8
+GetNumOfTrollsInRange 79 122
+GetGroup 84
+AddTroll 92 30
+JoinGroups 7 14
+GetStrongestTroll 15
+GetNumOfTrollsInRange 60 163
+GetGroup 70
+GetNumOfTrollsInRange 37 227
+GetGroup 42
+AddTroll 43 98
+GetGroup 71
+AssignTroll 29 8 
+AddTroll 16 83
+GetStrongestTroll 4
+GetNumOfTrollsInRange 30 167
+GetStrongestTroll 24
+GetGroup 65
+AddTroll 24 83
+JoinGroups 23 24
+GetGroup 50
+GetStrongestTroll 11
+GetGroup 86
+JoinGroups 7 21
+JoinGroups 27 20
+GetGroup 88
+GetNumOfTrollsInRange 96 162
+GetGroup 15
+GetGroup 73
+GetGroup 18
+GetNumOfTrollsInRange 41 153
+GetGroup 85
+AssignTroll 73 13 
+AddTroll 32 37
+GetStrongestTroll 7
+GetNumOfTrollsInRange 57 232
+GetStrongestTroll 18
+JoinGroups 13 11
+JoinGroups 4 14
+JoinGroups 10 28
+AddTroll 16 79
+AssignTroll 96 0 
+AssignTroll 65 21 
+GetStrongestTroll 27
+AddTroll 55 73
+TeamUpgrade 22 6
+AssignTroll 38 10 
+GetNumOfTrollsInRange 4 41
+GetStrongestTroll 17
+GetStrongestTroll 10
+GetStrongestTroll 16
+GetNumOfTrollsInRange 77 191
+GetGroup 10
+AddTroll 16 27
+GetNumOfTrollsInRange 47 181
+AssignTroll 40 26 
+AssignTroll 15 0 
+GetNumOfTrollsInRange 42 269
+JoinGroups 2 16
+JoinGroups 4 20
+JoinGroups 29 21
+AddTroll 39 89
+AddTroll 63 0
+AssignTroll 29 14 
+GetNumOfTrollsInRange 67 288
+GetStrongestTroll 20
+JoinGroups 22 17
+GetGroup 41
+AssignTroll 4 6 
+JoinGroups 4 7
+GetStrongestTroll 19
+AddTroll 49 57
+AssignTroll 77 17 
+GetNumOfTrollsInRange 64 158
+GetStrongestTroll 12
+AddTroll 81 37
+GetGroup 95
+AssignTroll 7 27 
+AssignTroll 8 24 
+AssignTroll 54 2 
+AddTroll 57 66
+AddTroll 39 14
+AddTroll 36 94
+AddTroll 66 94
+GetGroup 47
+AddTroll 10 89
+JoinGroups 25 25
+GetStrongestTroll 14
+GetGroup 78
+JoinGroups 9 29
+GetNumOfTrollsInRange 54 103
+AssignTroll 29 28 
+AssignTroll 99 8 
+GetNumOfTrollsInRange 20 223
+AddTroll 26 67
+AssignTroll 31 8 
+AddTroll 54 66
+AddTroll 20 26
+GetNumOfTrollsInRange 65 239
+GetNumOfTrollsInRange 29 249
+GetStrongestTroll 15
+GetStrongestTroll 28
+GetNumOfTrollsInRange 2 196
+AddTroll 61 12
+GetStrongestTroll 18
+GetGroup 23
+GetGroup 11
+AddTroll 69 94
+GetNumOfTrollsInRange 16 286
+GetStrongestTroll 8
+AddTroll 73 6
+GetStrongestTroll 25
+GetGroup 90
+GetNumOfTrollsInRange 88 218
+GetNumOfTrollsInRange 24 120
+JoinGroups 21 3
+GetStrongestTroll 2
+GetNumOfTrollsInRange 61 232
+JoinGroups 1 23
+GetNumOfTrollsInRange 81 266
+GetNumOfTrollsInRange 56 291
+AddTroll 72 10
+GetGroup 28
+AssignTroll 97 21 
+AssignTroll 51 14 
+AssignTroll 80 0 
+GetGroup 69
+JoinGroups 23 12
+GetNumOfTrollsInRange 59 259
+AddTroll 11 75
+GetNumOfTrollsInRange 49 54
+AssignTroll 91 29 
+GetNumOfTrollsInRange 24 37
+AddTroll 72 43
+GetStrongestTroll 3
+GetStrongestTroll 1
+GetNumOfTrollsInRange 43 148
+JoinGroups 9 28
+GetGroup 76
+JoinGroups 28 0
+GetGroup 16
+AssignTroll 81 0 
+GetNumOfTrollsInRange 82 146
+GetStrongestTroll 4
+GetGroup 22
+GetGroup 48
+AssignTroll 91 8 
+GetGroup 64
+JoinGroups 15 9
+JoinGroups 20 0
+JoinGroups 6 7
+AssignTroll 31 20 
+GetStrongestTroll 23
+GetGroup 41
+GetNumOfTrollsInRange 49 72
+GetNumOfTrollsInRange 8 279
+AssignTroll 23 25 
+AssignTroll 45 19 
+AddTroll 42 17
+GetStrongestTroll 4
+AssignTroll 31 9 
+GetNumOfTrollsInRange 29 242
+GetStrongestTroll 16
+AssignTroll 90 6 
+GetNumOfTrollsInRange 40 243
+AddTroll 18 4
+GetGroup 45
+GetStrongestTroll 8
+AddTroll 92 38
+GetStrongestTroll 18
+JoinGroups 3 6
+AssignTroll 75 14 
+JoinGroups 12 9
+JoinGroups 10 1
+AssignTroll 60 27 
+GetStrongestTroll 28
+AddTroll 88 5
+GetNumOfTrollsInRange 48 120
+GetGroup 16
+GetStrongestTroll 25
+JoinGroups 0 18
+AssignTroll 60 13 
+GetStrongestTroll 22
+JoinGroups 20 8
+GetGroup 90
+AddTroll 96 29
+GetNumOfTrollsInRange 42 76
+GetGroup 73
+GetStrongestTroll 18
+AssignTroll 26 28 
+AssignTroll 26 13 
+AssignTroll 44 17 
+GetGroup 71
+JoinGroups 22 25
+AssignTroll 25 2 
+JoinGroups 0 16
+AddTroll 42 60
+JoinGroups 27 17
+GetGroup 53
+JoinGroups 12 11
+AssignTroll 41 10 
+GetNumOfTrollsInRange 9 10
+GetNumOfTrollsInRange 22 220
+AddTroll 99 66
+AssignTroll 84 7 
+GetStrongestTroll 22
+AssignTroll 55 20 
+GetNumOfTrollsInRange 62 220
+AssignTroll 20 10 
+GetStrongestTroll 8
+JoinGroups 28 10
+GetStrongestTroll 1
+JoinGroups 18 27
+AddTroll 76 24
+GetNumOfTrollsInRange 61 123
+JoinGroups 5 3
+JoinGroups 20 4
+AddTroll 76 29
+GetGroup 85
+GetStrongestTroll 27
+JoinGroups 15 5
+GetNumOfTrollsInRange 84 269
+GetNumOfTrollsInRange 78 250
+GetGroup 39
+GetNumOfTrollsInRange 99 265
+GetStrongestTroll 15
+JoinGroups 4 29
+GetGroup 60
+JoinGroups 18 23
+GetGroup 40
+JoinGroups 12 6
+JoinGroups 17 16
+GetStrongestTroll 28
+AssignTroll 74 17 
+AssignTroll 1 11 
+GetStrongestTroll 19
+AssignTroll 78 25 
+GetStrongestTroll 11
+JoinGroups 14 4
+JoinGroups 12 23
+GetGroup 78
+GetGroup 3
+AssignTroll 50 26 
+GetStrongestTroll 9
+GetStrongestTroll 7
+GetNumOfTrollsInRange 71 164
+JoinGroups 26 19
+AssignTroll 54 9 
+AddTroll 84 94
+AssignTroll 11 16 
+GetGroup 48
+AddTroll 50 0
+GetGroup 56
+GetGroup 78
+JoinGroups 6 10
+JoinGroups 18 23
+GetGroup 93
+AddTroll 76 98
+JoinGroups 8 27
+GetGroup 96
+GetStrongestTroll 17
+GetStrongestTroll 24
+AddTroll 39 96
+GetGroup 50
+GetStrongestTroll 26
+GetGroup 41
+GetStrongestTroll 4
+AssignTroll 82 18 
+AssignTroll 46 1 
+GetStrongestTroll 22
+JoinGroups 7 15
+JoinGroups 22 22
+GetStrongestTroll 28
+GetGroup 15
+GetNumOfTrollsInRange 27 126
+JoinGroups 24 9
+JoinGroups 29 26
+AssignTroll 30 14 
+AssignTroll 4 1 
+JoinGroups 1 5
+JoinGroups 1 14
+AddTroll 37 43
+GetGroup 91
+AddTroll 29 19
+JoinGroups 0 16
+GetGroup 93
+AssignTroll 93 19 
+GetStrongestTroll 3
+AssignTroll 26 5 
+GetNumOfTrollsInRange 19 86
+JoinGroups 22 15
+AddTroll 21 55
+JoinGroups 1 3
+GetStrongestTroll 21
+AddTroll 17 74
+AssignTroll 50 23 
+AddTroll 99 81
+GetGroup 10
+AssignTroll 10 3 
+GetGroup 30
+JoinGroups 3 16
+AddTroll 35 30
+GetNumOfTrollsInRange 80 145
+GetStrongestTroll 17
+GetStrongestTroll 5
+AssignTroll 1 7 
+JoinGroups 13 14
+AddTroll 67 59
+GetGroup 45
+GetNumOfTrollsInRange 5 24
+JoinGroups 1 17
+GetGroup 76
+GetStrongestTroll 1
+AddTroll 41 44
+GetStrongestTroll 7
+GetGroup 10
+GetNumOfTrollsInRange 13 206
+GetStrongestTroll 25
+GetGroup 91
+GetNumOfTrollsInRange 89 111
+AssignTroll 21 27 
+AssignTroll 55 1 
+GetStrongestTroll 0
+JoinGroups 14 20
+GetStrongestTroll 19
+AddTroll 81 48
+GetStrongestTroll 7
+JoinGroups 16 9
+JoinGroups 24 18
+GetGroup 47
+JoinGroups 4 16
+GetNumOfTrollsInRange 27 228
+GetStrongestTroll 1
+GetStrongestTroll 19
+JoinGroups 28 4
+GetGroup 27
+JoinGroups 6 18
+JoinGroups 20 21
+GetGroup 83
+GetStrongestTroll 5
+GetNumOfTrollsInRange 27 189
+AddTroll 70 28
+JoinGroups 12 12
+AssignTroll 70 6 
+AssignTroll 16 17 
+GetNumOfTrollsInRange 92 246
+AssignTroll 29 21 
+JoinGroups 21 25
+GetGroup 87
+GetGroup 32
+GetNumOfTrollsInRange 74 267
+GetStrongestTroll 7
+GetNumOfTrollsInRange 80 254
+JoinGroups 20 26
+GetGroup 92
+GetGroup 75
+JoinGroups 26 19
+AddTroll 89 93
+GetNumOfTrollsInRange 43 204
+GetNumOfTrollsInRange 82 106
+JoinGroups 22 26
+GetGroup 10
+AssignTroll 90 3 
+AddTroll 2 50
+GetStrongestTroll 12
+GetStrongestTroll 17
+AddTroll 7 43
+AddTroll 79 64
+GetNumOfTrollsInRange 43 62
+GetNumOfTrollsInRange 11 198
+AddTroll 82 51
+AssignTroll 14 11 
+GetStrongestTroll 28
+GetGroup 74
+AssignTroll 6 16 
+GetGroup 13
+JoinGroups 12 29
+AssignTroll 57 1 
+GetGroup 73
+AddTroll 49 95
+JoinGroups 24 4
+AssignTroll 68 3 
+AddTroll 16 10
+AssignTroll 25 0 
+AssignTroll 83 15 
+JoinGroups 0 29
+GetGroup 81
+AssignTroll 62 19 
+GetGroup 68
+GetGroup 89
+GetStrongestTroll 23
+AssignTroll 44 1 
+GetGroup 43
+JoinGroups 0 13
+JoinGroups 27 22
+GetGroup 5
+AssignTroll 16 3 
+JoinGroups 3 4
+GetGroup 8
+AssignTroll 87 27 
+GetGroup 42
+GetGroup 78
+GetNumOfTrollsInRange 40 115
+GetNumOfTrollsInRange 94 213
+AddTroll 4 48
+GetGroup 47
+GetGroup 91
+GetNumOfTrollsInRange 72 277
+GetGroup 4
+AssignTroll 60 17 
+GetNumOfTrollsInRange 56 142
+GetStrongestTroll 29
+AssignTroll 28 1 
+GetNumOfTrollsInRange 11 74
+AssignTroll 58 9 
+GetGroup 57
+JoinGroups 23 19
+JoinGroups 7 25
+GetStrongestTroll 21
+GetStrongestTroll 19
+GetGroup 82
+GetGroup 72
+GetNumOfTrollsInRange 10 196
+GetGroup 41
+GetStrongestTroll 14
+JoinGroups 28 10
+JoinGroups 6 15
+AddTroll 20 21
+AddTroll 7 10
+AssignTroll 61 23 
+GetNumOfTrollsInRange 96 185
+GetStrongestTroll 0
+GetGroup 11
+GetStrongestTroll 20
+AddTroll 37 72
+JoinGroups 22 12
+AssignTroll 5 14 
+GetGroup 60
+JoinGroups 4 0
+GetGroup 57
+AssignTroll 27 11 
+GetStrongestTroll 24
+GetGroup 6
+GetStrongestTroll 1
+GetStrongestTroll 0
+AssignTroll 36 6 
+AssignTroll 34 6 
+GetGroup 63
+GetNumOfTrollsInRange 69 135
+GetGroup 54
+GetGroup 35
+GetGroup 55
+GetNumOfTrollsInRange 51 200
+AddTroll 4 28
+AssignTroll 47 2 
+JoinGroups 23 3
+AssignTroll 10 1 
+GetStrongestTroll 15
+GetNumOfTrollsInRange 14 55
+AssignTroll 72 1 
+GetGroup 94
+JoinGroups 29 21
+JoinGroups 24 16
+GetNumOfTrollsInRange 79 111
+AddTroll 34 4
+GetNumOfTrollsInRange 18 131
+GetStrongestTroll 22
+GetStrongestTroll 18
+JoinGroups 3 2
+GetStrongestTroll 23
+GetGroup 89
+AddTroll 71 16
+AddTroll 80 61
+JoinGroups 5 8
+GetNumOfTrollsInRange 11 223
+GetNumOfTrollsInRange 76 120
+GetNumOfTrollsInRange 5 233
+JoinGroups 25 15
+GetNumOfTrollsInRange 8 32
+AddTroll 68 38
+GetNumOfTrollsInRange 42 163
+GetGroup 93
+JoinGroups 28 5
+JoinGroups 24 23
+JoinGroups 24 4
+GetNumOfTrollsInRange 3 166
+AssignTroll 24 20 
+AssignTroll 69 0 
+GetStrongestTroll 3
+GetGroup 36
+JoinGroups 5 15
+AddTroll 87 6
+JoinGroups 15 19
+GetStrongestTroll 5
+GetStrongestTroll 1
+GetStrongestTroll 3
+GetStrongestTroll 8
+AddTroll 19 89
+JoinGroups 12 26
+GetGroup 77
+GetStrongestTroll 25
+GetStrongestTroll 1
+GetGroup 59
+GetNumOfTrollsInRange 15 94
+AddTroll 3 14
+AddTroll 27 14
+GetStrongestTroll 16
+JoinGroups 25 11
+GetGroup 5
+GetGroup 25
+AddTroll 87 30
+GetGroup 93
+AssignTroll 67 19 
+AssignTroll 11 2 
+AssignTroll 77 14 
+GetGroup 42
+JoinGroups 12 21
+GetStrongestTroll 5
+GetStrongestTroll 19
+JoinGroups 4 18
+AddTroll 1 72
+JoinGroups 10 7
+AssignTroll 42 12 
+GetGroup 36
+GetGroup 92
+GetStrongestTroll 19
+GetNumOfTrollsInRange 89 185
+GetStrongestTroll 13
+GetStrongestTroll 15
+GetStrongestTroll 16
+AssignTroll 44 28 
+JoinGroups 17 23
+GetStrongestTroll 2
+GetGroup 14
+GetNumOfTrollsInRange 24 231
+JoinGroups 19 16
+GetNumOfTrollsInRange 82 158
+AssignTroll 68 7 
+AddTroll 95 49
+JoinGroups 3 5
+JoinGroups 19 18
+GetGroup 64
+JoinGroups 27 0
+AssignTroll 96 15 
+GetGroup 84
+GetGroup 15
+TeamUpgrade 14 4
+AddTroll 78 16
+GetGroup 55
+TeamUpgrade 7 3
+GetNumOfTrollsInRange 34 213
+JoinGroups 20 23
+AssignTroll 32 1 
+JoinGroups 27 1
+GetGroup 0
+AddTroll 49 39
+GetNumOfTrollsInRange 2 293
+GetStrongestTroll 9
+GetGroup 44
+AssignTroll 56 7 
+GetNumOfTrollsInRange 54 106
+GetGroup 71
+GetStrongestTroll 16
+GetNumOfTrollsInRange 78 222
+JoinGroups 27 7
+GetNumOfTrollsInRange 65 237
+GetGroup 81
+AssignTroll 17 13 
+GetGroup 82
+JoinGroups 26 11
+GetNumOfTrollsInRange 30 156
+GetGroup 46
+GetNumOfTrollsInRange 43 190
+GetNumOfTrollsInRange 37 37
+AssignTroll 11 5 
+GetGroup 45
+GetGroup 27
+AssignTroll 54 3 
+AddTroll 48 17
+GetStrongestTroll 0
+GetStrongestTroll 2
+AssignTroll 79 16 
+AssignTroll 33 5 
+AddTroll 92 19
+AddTroll 2 34
+GetGroup 82
+GetNumOfTrollsInRange 33 171
+GetNumOfTrollsInRange 28 143
+GetGroup 50
+AddTroll 4 73
+AssignTroll 22 25 
+AssignTroll 98 17 
+AssignTroll 18 19 
+AssignTroll 41 2 
+AssignTroll 54 20 
+GetNumOfTrollsInRange 69 165
+GetStrongestTroll 7
+AssignTroll 95 19 
+GetGroup 2
+GetStrongestTroll 6
+GetStrongestTroll 14
+AssignTroll 41 23 
+AddTroll 15 45
+GetGroup 61
+GetNumOfTrollsInRange 25 117
+AssignTroll 95 15 
+GetGroup 61
+GetNumOfTrollsInRange 27 50
+GetNumOfTrollsInRange 38 265
+AssignTroll 62 3 
+AssignTroll 49 27 
+AddTroll 3 64
+GetStrongestTroll 12
+GetGroup 25
+GetGroup 60
+GetNumOfTrollsInRange 6 154
+GetNumOfTrollsInRange 55 289
+GetStrongestTroll 21
+AssignTroll 1 1 
+GetStrongestTroll 21
+GetStrongestTroll 12
+AddTroll 11 76
+GetNumOfTrollsInRange 8 242
+AssignTroll 79 25 
+GetStrongestTroll 8
+AddTroll 80 25
+JoinGroups 8 7
+AssignTroll 46 4 
+GetStrongestTroll 27
+AssignTroll 1 8 
+GetStrongestTroll 25
+AssignTroll 67 21 
+AssignTroll 36 0 
+TeamUpgrade 22 6
+AssignTroll 82 9 
+TeamUpgrade 6 1
+GetStrongestTroll 1
+GetGroup 22
+GetStrongestTroll 17
+JoinGroups 4 25
+JoinGroups 17 29
+AddTroll 37 97
+GetStrongestTroll 11
+GetNumOfTrollsInRange 8 243
+GetNumOfTrollsInRange 6 54
+GetNumOfTrollsInRange 65 251
+GetNumOfTrollsInRange 45 146
+GetGroup 79
+JoinGroups 7 20
+GetGroup 74
+GetGroup 24
+AddTroll 81 26
+GetNumOfTrollsInRange 23 222
+AddTroll 49 18
+JoinGroups 18 19
+AddTroll 23 3
+GetStrongestTroll 6
+JoinGroups 26 18
+GetGroup 76
+GetNumOfTrollsInRange 49 274
+AssignTroll 30 11 
+JoinGroups 8 13
+AssignTroll 98 0 
+GetStrongestTroll 23
+JoinGroups 3 17
+AddTroll 43 30
+JoinGroups 13 0
+GetStrongestTroll 12
+AddTroll 21 54
+GetGroup 95
+GetNumOfTrollsInRange 36 81
+GetGroup 79
+AddTroll 6 22
+AssignTroll 4 11 
+GetNumOfTrollsInRange 17 271
+AssignTroll 71 14 
+GetGroup 73
+GetGroup 59
+JoinGroups 22 11
+JoinGroups 22 13
+AssignTroll 16 20 
+JoinGroups 29 9
+JoinGroups 29 6
+GetNumOfTrollsInRange 60 102
+GetStrongestTroll 12
+GetStrongestTroll 27
+JoinGroups 3 3
+JoinGroups 12 2
+AddTroll 88 68
+GetGroup 70
+GetGroup 36
+GetGroup 94
+GetStrongestTroll 26
+AssignTroll 5 6 
+AssignTroll 56 26 
+GetGroup 21
+AddTroll 47 29
+AssignTroll 77 15 
+AssignTroll 87 28 
+AssignTroll 3 15 
+GetGroup 14
+AssignTroll 51 27 
+JoinGroups 18 3
+GetStrongestTroll 29
+JoinGroups 9 20
+JoinGroups 14 0
+AddTroll 96 94
+AssignTroll 45 28 
+AddTroll 94 16
+JoinGroups 14 6
+AddTroll 67 14
+GetStrongestTroll 29
+AssignTroll 36 28 
+GetGroup 5
+JoinGroups 28 4
+JoinGroups 0 15
+JoinGroups 17 13
+GetNumOfTrollsInRange 24 291
+AddTroll 31 4
+GetStrongestTroll 28
+AssignTroll 27 20 
+GetNumOfTrollsInRange 97 190
+AddTroll 41 24
+GetGroup 30
+AssignTroll 78 27 
+AssignTroll 0 2 
+AssignTroll 53 13 
+JoinGroups 29 17
+GetStrongestTroll 2
+GetStrongestTroll 20
+JoinGroups 17 1
+GetNumOfTrollsInRange 84 260
+JoinGroups 12 28
+GetStrongestTroll 0
+AddTroll 74 12
+GetGroup 72
+AddTroll 6 94
+GetNumOfTrollsInRange 15 62
+AssignTroll 74 27 
+GetGroup 81
+AddTroll 16 32
+AddTroll 92 47
+GetStrongestTroll 6
+GetStrongestTroll 0
+GetStrongestTroll 1
+JoinGroups 9 6
+GetNumOfTrollsInRange 4 155
+GetGroup 74
+AddTroll 92 66
+GetGroup 35
+AssignTroll 58 24 
+AssignTroll 23 10 
+AssignTroll 56 19 
+AddTroll 3 1
+GetNumOfTrollsInRange 83 209
+GetNumOfTrollsInRange 73 123
+AssignTroll 5 28 
+GetGroup 79
+TeamUpgrade 26 5
+GetNumOfTrollsInRange 16 208
+GetNumOfTrollsInRange 5 150
+JoinGroups 14 24
+JoinGroups 20 23
+JoinGroups 0 15
+GetNumOfTrollsInRange 84 198
+GetStrongestTroll 6
+JoinGroups 8 5
+AddTroll 36 81
+GetGroup 35
+GetNumOfTrollsInRange 20 50
+GetGroup 49
+AddTroll 8 45
+GetNumOfTrollsInRange 44 70
+AssignTroll 52 19 
+GetNumOfTrollsInRange 7 101
+GetNumOfTrollsInRange 91 102
+AssignTroll 18 11 
+GetNumOfTrollsInRange 14 162
+JoinGroups 12 17
+GetStrongestTroll 22
+GetStrongestTroll 11
+GetStrongestTroll 13
+AddTroll 6 95
+GetNumOfTrollsInRange 83 132
+GetStrongestTroll 12
+AssignTroll 68 17 
+AddTroll 0 43
+GetGroup 24
+GetStrongestTroll 24
+GetStrongestTroll 18
+GetNumOfTrollsInRange 12 216
+GetGroup 3
+AddTroll 37 16
+GetGroup 28
+GetNumOfTrollsInRange 82 203
+JoinGroups 23 6
+JoinGroups 18 6
+AddTroll 31 94
+GetNumOfTrollsInRange 91 298
+GetStrongestTroll 24
+GetGroup 31
+AssignTroll 15 19 
+GetStrongestTroll 23
+AddTroll 83 1
+GetNumOfTrollsInRange 62 187
+AssignTroll 52 20 
+AddTroll 99 10
+AssignTroll 91 12 
+GetGroup 7
+GetNumOfTrollsInRange 85 64
+JoinGroups 26 28
+GetGroup 96
+AddTroll 60 60
+AssignTroll 32 2 
+GetStrongestTroll 9
+JoinGroups 29 20
+JoinGroups 25 19
+GetStrongestTroll 27
+AssignTroll 49 22 
+AddTroll 85 7
+AddTroll 97 2
+GetNumOfTrollsInRange 18 193
+GetStrongestTroll 16
+GetNumOfTrollsInRange 39 180
+JoinGroups 9 1
+AddTroll 14 31
+AssignTroll 72 5 
+AssignTroll 91 20 
+JoinGroups 16 13
+AddTroll 53 39
+GetNumOfTrollsInRange 93 262
+GetStrongestTroll 12
+JoinGroups 15 23
+JoinGroups 21 6
+GetGroup 23
+AssignTroll 36 29 
+GetNumOfTrollsInRange 76 194
+GetGroup 72
+AddTroll 48 54
+AssignTroll 62 25 
+JoinGroups 28 22
+GetGroup 55
+AssignTroll 82 27 
+AssignTroll 26 8 
+AddTroll 6 34
+JoinGroups 18 23
+AssignTroll 14 17 
+GetNumOfTrollsInRange 15 133
+GetGroup 13
+GetStrongestTroll 17
+AssignTroll 65 8 
+GetNumOfTrollsInRange 58 79
+GetStrongestTroll 6
+AssignTroll 49 17 
+JoinGroups 12 26
+JoinGroups 22 23
+GetNumOfTrollsInRange 56 160
+GetGroup 32
+GetGroup 7
+JoinGroups 7 2
+AddTroll 98 2
+GetGroup 50
+AddTroll 1 56
+JoinGroups 21 13
+AddTroll 97 29
+JoinGroups 28 20
+JoinGroups 3 3
+GetNumOfTrollsInRange 54 172
+AddTroll 78 95
+GetGroup 71
+GetGroup 81
+JoinGroups 23 15
+GetGroup 86
+AssignTroll 21 26 
+GetNumOfTrollsInRange 52 153
+GetNumOfTrollsInRange 87 243
+GetStrongestTroll 7
+GetStrongestTroll 10
+GetGroup 69
+AssignTroll 46 12 
+AddTroll 70 12
+GetStrongestTroll 17
+GetStrongestTroll 8
+GetStrongestTroll 12
+AddTroll 24 15
+GetGroup 59
+AddTroll 16 72
+GetStrongestTroll 6
+AssignTroll 5 3 
+GetNumOfTrollsInRange 14 260
+AssignTroll 43 14 
+AddTroll 58 89
+AddTroll 64 93
+AddTroll 54 82
+AssignTroll 20 20 
+GetStrongestTroll 18
+GetGroup 56
+AssignTroll 72 3 
+GetNumOfTrollsInRange 46 113
+GetGroup 50
+GetNumOfTrollsInRange 8 231
+GetGroup 89
+JoinGroups 17 14
+AssignTroll 64 0 
+GetNumOfTrollsInRange 90 275
+AddTroll 93 22
+GetGroup 99
+GetGroup 14
+AddTroll 16 56
+GetStrongestTroll 19
+AddTroll 75 61
+AddTroll 22 20
+AssignTroll 86 24 
+JoinGroups 19 23
+GetStrongestTroll 7
+GetGroup 44
+JoinGroups 14 9
+GetGroup 58
+JoinGroups 29 18
+GetNumOfTrollsInRange 39 56
+AssignTroll 88 8 
+GetStrongestTroll 9
+AssignTroll 47 2 
+AssignTroll 60 20 
+JoinGroups 15 18
+AssignTroll 58 9 
+GetNumOfTrollsInRange 13 102
+AddTroll 36 1
+AssignTroll 58 20 
+JoinGroups 29 22
+AssignTroll 31 15 
+GetGroup 24
+GetGroup 87
+GetNumOfTrollsInRange 16 299
+GetNumOfTrollsInRange 37 265
+JoinGroups 29 2
+AssignTroll 79 7 
+AssignTroll 23 21 
+JoinGroups 16 2
+GetStrongestTroll 27
+GetNumOfTrollsInRange 9 241
+AssignTroll 80 11 
+AddTroll 38 56
+GetGroup 98
+GetGroup 15
+GetNumOfTrollsInRange 36 256
+AddTroll 81 0
+AddTroll 29 97
+AssignTroll 59 4 
+GetNumOfTrollsInRange 93 136
+AddTroll 47 66
+TeamUpgrade 6 7
+AddTroll 26 51
+AssignTroll 41 20 
+GetStrongestTroll 7
+AssignTroll 4 9 
+GetNumOfTrollsInRange 66 228
+GetGroup 64
+GetNumOfTrollsInRange 55 82
+GetGroup 89
+GetNumOfTrollsInRange 38 262
+AssignTroll 44 29 
+AssignTroll 97 17 
+AddTroll 50 85
+AssignTroll 95 26 
+AddTroll 81 23
+GetGroup 83
+GetGroup 32
+GetStrongestTroll 13
+AssignTroll 43 3 
+GetGroup 18
+GetGroup 93
+GetNumOfTrollsInRange 56 114
+JoinGroups 2 8
+AddTroll 5 61
+GetGroup 14
+GetNumOfTrollsInRange 55 246
+AddTroll 66 45
+JoinGroups 8 17
+GetStrongestTroll 26
+AssignTroll 78 12 
+JoinGroups 2 13
+GetStrongestTroll 4
+GetGroup 94
+AddTroll 79 39
+GetGroup 7
+AssignTroll 61 14 
+GetStrongestTroll 27
+GetNumOfTrollsInRange 50 124
+JoinGroups 22 24
+GetGroup 80
+AssignTroll 36 6 
+GetNumOfTrollsInRange 20 139
+GetNumOfTrollsInRange 42 278
+GetNumOfTrollsInRange 49 294
+GetNumOfTrollsInRange 22 139
+JoinGroups 5 29
+AssignTroll 34 1 
+JoinGroups 24 11
+GetNumOfTrollsInRange 65 228
+GetNumOfTrollsInRange 79 227
+GetNumOfTrollsInRange 12 51
+GetStrongestTroll 26
+JoinGroups 1 23
+GetNumOfTrollsInRange 94 155
+AssignTroll 65 10 
+GetGroup 37
+GetStrongestTroll 2
+JoinGroups 3 19
+JoinGroups 19 10
+JoinGroups 9 8
+JoinGroups 4 1
+AssignTroll 64 27 
+AssignTroll 73 12 
+AddTroll 25 57
+AddTroll 99 11
+AddTroll 74 92
+AssignTroll 79 3 
+GetNumOfTrollsInRange 11 207
+GetStrongestTroll 1
+GetGroup 79
+AssignTroll 18 16 
+GetStrongestTroll 15
+GetGroup 33
+JoinGroups 26 15
+JoinGroups 3 29
+GetNumOfTrollsInRange 5 118
+AssignTroll 41 25 
+GetGroup 31
+AssignTroll 68 29 
+GetNumOfTrollsInRange 28 129
+TeamUpgrade 9 5
+AssignTroll 5 4 
+GetGroup 87
+GetNumOfTrollsInRange 38 173
+AddTroll 55 75
+AssignTroll 83 4 
+GetStrongestTroll 1
+GetNumOfTrollsInRange 26 140
+GetNumOfTrollsInRange 5 36
+JoinGroups 3 27
+JoinGroups 6 29
+AssignTroll 62 19 
+GetStrongestTroll 19
+GetGroup 26
+GetNumOfTrollsInRange 39 239
+JoinGroups 2 28
+GetNumOfTrollsInRange 25 153
+GetStrongestTroll 16
+GetNumOfTrollsInRange 26 100
+GetGroup 75
+AddTroll 29 31
+GetGroup 41
+GetStrongestTroll 17
+AssignTroll 62 1 
+GetStrongestTroll 26
+GetNumOfTrollsInRange 24 278
+GetStrongestTroll 22
+GetNumOfTrollsInRange 9 159
+GetGroup 43
+GetNumOfTrollsInRange 64 212
+AssignTroll 79 1 
+AssignTroll 63 29 
+AddTroll 82 32
+GetStrongestTroll 1
+GetStrongestTroll 22
+AddTroll 20 35
+AssignTroll 57 1 
+GetStrongestTroll 9
+GetNumOfTrollsInRange 71 277
+GetGroup 42
+GetGroup 23
+AddTroll 36 94
+JoinGroups 1 21
+GetGroup 28
+JoinGroups 17 22
+AssignTroll 95 22 
+AddTroll 7 37
+GetGroup 94
+AddTroll 4 87
+GetStrongestTroll 17
+GetNumOfTrollsInRange 71 77
+GetStrongestTroll 15
+JoinGroups 21 17
+AddTroll 5 48
+AssignTroll 26 6 
+GetGroup 34
+GetStrongestTroll 12
+JoinGroups 15 8
+GetGroup 68
+AddTroll 80 36
+JoinGroups 8 28
+AddTroll 1 51
+AddTroll 99 81
+GetStrongestTroll 16
+JoinGroups 18 27
+AssignTroll 92 13 
+AssignTroll 9 25 
+GetNumOfTrollsInRange 2 256
+GetNumOfTrollsInRange 71 99
+JoinGroups 17 26
+AddTroll 52 91
+GetStrongestTroll 17
+JoinGroups 7 13
+GetGroup 23
+GetGroup 4
+GetNumOfTrollsInRange 68 241
+AssignTroll 84 28 
+GetGroup 42
+AssignTroll 94 10 
+AssignTroll 65 1 
+AssignTroll 79 2 
+JoinGroups 24 0
+AddTroll 64 48
+GetNumOfTrollsInRange 68 79
+AssignTroll 39 1 
+GetGroup 90
+GetGroup 83
+AddTroll 18 98
+AssignTroll 70 22 
+GetNumOfTrollsInRange 9 16
+JoinGroups 10 3
+JoinGroups 20 2
+AddTroll 25 20
+JoinGroups 29 20
+GetNumOfTrollsInRange 23 228
+JoinGroups 15 9
+AssignTroll 9 3 
+GetStrongestTroll 27
+AssignTroll 37 25 
+AssignTroll 38 16 
+AddTroll 82 97
+GetStrongestTroll 18
+GetStrongestTroll 5
+GetNumOfTrollsInRange 74 236
+GetStrongestTroll 4
+GetGroup 17
+AddTroll 8 63
+JoinGroups 15 14
+GetNumOfTrollsInRange 1 245
+AddTroll 85 60
+GetGroup 17
+GetNumOfTrollsInRange 28 273
+GetNumOfTrollsInRange 0 272
+GetGroup 13
+AddTroll 24 48
+GetStrongestTroll 4
+TeamUpgrade 18 6
+AddTroll 61 65
+GetGroup 56
+GetStrongestTroll 7
+GetGroup 74
+JoinGroups 13 11
+GetStrongestTroll 2
+AddTroll 71 45
+AssignTroll 73 29 
+JoinGroups 10 15
+AddTroll 90 40
+GetStrongestTroll 2
+JoinGroups 8 19
+GetGroup 20
+GetNumOfTrollsInRange 29 131
+GetGroup 90
+JoinGroups 14 12
+AssignTroll 46 15 
+GetGroup 4
+GetNumOfTrollsInRange 39 167
+AddTroll 10 13
+GetGroup 90
+AssignTroll 41 0 
+AddTroll 38 22
+AddTroll 4 85
+AssignTroll 35 7 
+GetNumOfTrollsInRange 32 97
+AssignTroll 31 11 
+AddTroll 57 35
+GetGroup 84
+GetGroup 94
+AssignTroll 62 10 
+GetGroup 56
+JoinGroups 3 25
+GetStrongestTroll 24
+AssignTroll 61 2 
+GetStrongestTroll 26
+GetNumOfTrollsInRange 24 132
+AssignTroll 82 24 
+JoinGroups 18 1
+AssignTroll 0 25 
+GetGroup 51
+GetNumOfTrollsInRange 38 227
+GetGroup 14
+GetNumOfTrollsInRange 13 65
+GetGroup 66
+JoinGroups 18 0
+GetGroup 29
+GetStrongestTroll 27
+AssignTroll 71 13 
+GetGroup 76
+AddTroll 65 45
+GetNumOfTrollsInRange 4 109
+AddTroll 39 21
+JoinGroups 27 9
+AddTroll 27 38
+AddTroll 68 47
+GetNumOfTrollsInRange 49 194
+JoinGroups 17 3
+AssignTroll 52 17 
+GetStrongestTroll 26
+AddTroll 52 29
+GetNumOfTrollsInRange 37 202
+AssignTroll 5 1 
+AddTroll 56 25
+GetGroup 32
+AddTroll 18 48
+GetGroup 76
+AssignTroll 35 5 
+GetNumOfTrollsInRange 39 166
+GetStrongestTroll 25
+GetStrongestTroll 1
+AssignTroll 66 3 
+GetNumOfTrollsInRange 77 193
+JoinGroups 4 20
+AssignTroll 16 3 
+GetStrongestTroll 18
+GetGroup 93
+AssignTroll 27 2 
+AssignTroll 9 9 
+AssignTroll 51 2 
+GetNumOfTrollsInRange 35 125
+AssignTroll 54 4 
+AssignTroll 54 29 
+AssignTroll 24 16 
+GetGroup 0
+JoinGroups 0 0
+GetStrongestTroll 15
+GetStrongestTroll 25
+GetStrongestTroll 24
+GetNumOfTrollsInRange 55 208
+GetNumOfTrollsInRange 54 68
+AddTroll 81 94
+GetNumOfTrollsInRange 89 101
+JoinGroups 21 7
+GetGroup 90
+GetStrongestTroll 4
+GetGroup 53
+JoinGroups 0 4
+GetGroup 8
+GetStrongestTroll 25
+GetNumOfTrollsInRange 68 194
+GetStrongestTroll 27
+GetStrongestTroll 13
+GetNumOfTrollsInRange 81 196
+AssignTroll 74 19 
+GetNumOfTrollsInRange 33 216
+GetNumOfTrollsInRange 26 264
+GetGroup 45
+JoinGroups 6 26
+AssignTroll 79 11 
+JoinGroups 23 20
+AddTroll 54 14
+JoinGroups 24 22
+AssignTroll 20 1 
+GetGroup 76
+JoinGroups 29 1
+AssignTroll 92 9 
+AssignTroll 40 18 
+JoinGroups 17 21
+GetNumOfTrollsInRange 51 287
+GetNumOfTrollsInRange 48 151
+AssignTroll 81 23 
+GetGroup 56
+AssignTroll 2 23 
+AssignTroll 70 1 
+AddTroll 11 89
+JoinGroups 21 27
+JoinGroups 13 7
+GetStrongestTroll 24
+AssignTroll 99 24 
+AddTroll 43 91
+AddTroll 83 71
+JoinGroups 16 22
+GetNumOfTrollsInRange 30 117
+AssignTroll 36 0 
+JoinGroups 15 28
+GetStrongestTroll 4
+AddTroll 96 81
+GetNumOfTrollsInRange 35 194
+AssignTroll 50 4 
+AssignTroll 80 5 
+AssignTroll 19 15 
+AssignTroll 56 19 
+JoinGroups 3 22
+GetStrongestTroll 23
+JoinGroups 18 8
+GetGroup 22
+GetStrongestTroll 14
+AddTroll 40 89
+GetGroup 27
+AddTroll 5 27
+GetGroup 92
+AssignTroll 77 28 
+JoinGroups 9 17
+AssignTroll 67 8 
+GetNumOfTrollsInRange 43 185
+AssignTroll 72 17 
+GetGroup 20
+AddTroll 51 84
+JoinGroups 24 29
+GetGroup 9
+GetGroup 56
+GetStrongestTroll 28
+JoinGroups 3 13
+GetNumOfTrollsInRange 38 149
+JoinGroups 8 7
+GetGroup 68
+GetGroup 19
+GetGroup 11
+JoinGroups 14 20
+GetStrongestTroll 8
+GetNumOfTrollsInRange 51 105
+GetNumOfTrollsInRange 59 84
+JoinGroups 21 24
+GetStrongestTroll 23
+GetGroup 37
+GetGroup 24
+AddTroll 96 55
+GetNumOfTrollsInRange 41 42
+JoinGroups 11 6
+GetNumOfTrollsInRange 68 212
+GetStrongestTroll 4
+GetGroup 68
+AssignTroll 19 1 
+GetNumOfTrollsInRange 10 131
+GetStrongestTroll 7
+GetGroup 65
+AddTroll 88 69
+AssignTroll 74 14 
+GetGroup 61
+GetNumOfTrollsInRange 80 225
+AddTroll 3 64
+JoinGroups 19 1
+GetGroup 95
+JoinGroups 21 12
+JoinGroups 29 15
+AssignTroll 53 14 
+GetStrongestTroll 10
+JoinGroups 2 28
+GetStrongestTroll 11
+GetNumOfTrollsInRange 63 160
+GetNumOfTrollsInRange 5 104
+GetNumOfTrollsInRange 34 131
+AddTroll 55 72
+AddTroll 64 55
+AddTroll 42 72
+GetStrongestTroll 28
+AddTroll 91 61
+AddTroll 13 8
+GetNumOfTrollsInRange 87 259
+JoinGroups 5 22
+JoinGroups 23 15
+GetNumOfTrollsInRange 26 148
+AddTroll 78 35
+JoinGroups 17 13
+GetNumOfTrollsInRange 35 230
+AssignTroll 64 29 
+GetNumOfTrollsInRange 1 214
+JoinGroups 14 26
+GetStrongestTroll 13
+AssignTroll 38 7 
+GetNumOfTrollsInRange 38 107
+AddTroll 1 67
+GetStrongestTroll 4
+AssignTroll 4 26 
+JoinGroups 0 24
+AssignTroll 1 21 
+JoinGroups 13 19
+GetStrongestTroll 22
+GetNumOfTrollsInRange 27 279
+GetGroup 36
+GetStrongestTroll 12
+AssignTroll 86 28 
+AssignTroll 52 5 
+GetGroup 62
+AddTroll 9 40
+JoinGroups 5 7
+GetStrongestTroll 18
+GetGroup 63
+JoinGroups 17 1
+AddTroll 45 62
+GetGroup 16
+AddTroll 25 44
+GetGroup 3
+AddTroll 58 58
+GetNumOfTrollsInRange 53 283
+GetStrongestTroll 8
+GetStrongestTroll 27
+AddTroll 66 53
+GetStrongestTroll 0
+GetStrongestTroll 17
+AddTroll 51 15
+GetStrongestTroll 27
+AddTroll 18 30
+AddTroll 78 37
+GetGroup 33
+AssignTroll 69 29 
+JoinGroups 9 7
+JoinGroups 3 17
+JoinGroups 13 27
+GetNumOfTrollsInRange 2 159
+AssignTroll 62 19 
+GetStrongestTroll 12
+AddTroll 35 73
+JoinGroups 3 21
+GetGroup 35
+GetGroup 33
+GetGroup 84
+JoinGroups 29 23
+AddTroll 70 13
+GetStrongestTroll 25
+AddTroll 0 93
+JoinGroups 1 12
+AddTroll 48 58
+AssignTroll 1 9 
+GetNumOfTrollsInRange 54 288
+GetNumOfTrollsInRange 18 210
+AddTroll 77 90
+GetGroup 84
+GetNumOfTrollsInRange 65 107
+GetStrongestTroll 23
+JoinGroups 17 20
+GetGroup 63
+AddTroll 1 35
+GetNumOfTrollsInRange 4 83
+AddTroll 8 8
+JoinGroups 21 16
+AssignTroll 2 12 
+GetNumOfTrollsInRange 4 189
+JoinGroups 8 22
+AddTroll 9 82
+JoinGroups 23 0
+GetGroup 87
+GetGroup 92
+AddTroll 58 97
+JoinGroups 28 11
+AssignTroll 88 16 
+JoinGroups 1 21
+AddTroll 35 5
+GetNumOfTrollsInRange 29 46
+AssignTroll 53 21 
+AddTroll 91 23
+GetGroup 52
+GetGroup 19
+AssignTroll 29 1 
+GetGroup 6
+GetStrongestTroll 7
+GetGroup 21
+GetStrongestTroll 17
+GetStrongestTroll 11
+GetStrongestTroll 12
+AssignTroll 92 25 
+AddTroll 73 94
+GetGroup 66
+AddTroll 82 97
+GetGroup 41
+GetStrongestTroll 4
+GetGroup 31
+AssignTroll 46 13 
+GetNumOfTrollsInRange 55 205
+AssignTroll 47 24 
+JoinGroups 25 26
+GetNumOfTrollsInRange 83 194
+GetStrongestTroll 7
+AddTroll 47 99
+GetGroup 99
+AddTroll 23 4
+GetStrongestTroll 11
+GetGroup 3
+GetNumOfTrollsInRange 48 156
+AssignTroll 66 28 
+GetNumOfTrollsInRange 65 273
+GetGroup 36
+AddTroll 46 49
+GetStrongestTroll 26
+GetNumOfTrollsInRange 55 243
+JoinGroups 20 5
+AddTroll 30 84
+JoinGroups 26 14
+AssignTroll 26 10 
+GetGroup 36
+GetStrongestTroll 5
+AssignTroll 64 24 
+AssignTroll 37 23 
+JoinGroups 9 17
+GetStrongestTroll 0
+GetStrongestTroll 10
+GetNumOfTrollsInRange 72 290
+AssignTroll 30 20 
+AssignTroll 65 18 
+GetStrongestTroll 20
+JoinGroups 17 9
+AddTroll 45 97
+AssignTroll 57 15 
+AssignTroll 18 15 
+AssignTroll 25 20 
+GetStrongestTroll 5
+AddTroll 16 45
+GetNumOfTrollsInRange 97 128
+AddTroll 43 73
+GetStrongestTroll 2
+GetStrongestTroll 21
+GetGroup 19
+GetNumOfTrollsInRange 97 203
+JoinGroups 15 28
+AddTroll 63 65
+GetStrongestTroll 8
+AddTroll 95 63
+AssignTroll 68 8 
+AssignTroll 23 2 
+AssignTroll 31 16 
+GetStrongestTroll 24
+JoinGroups 11 21
+AssignTroll 2 4 
+GetStrongestTroll 24
+AssignTroll 12 27 
+AddTroll 60 85
+GetGroup 77
+AssignTroll 72 16 
+JoinGroups 4 29
+GetStrongestTroll 11
+GetStrongestTroll 3
+GetNumOfTrollsInRange 29 228
+GetNumOfTrollsInRange 69 204
+GetStrongestTroll 20
+AddTroll 68 57
+GetStrongestTroll 18
+GetGroup 22
+GetNumOfTrollsInRange 53 56
+AddTroll 96 9
+AssignTroll 33 2 
+AssignTroll 1 21 
+AddTroll 22 61
+GetStrongestTroll 3
+GetGroup 73
+AssignTroll 16 8 
+AssignTroll 98 7 
+AddTroll 38 78
+AssignTroll 41 26 
+GetGroup 45
+GetNumOfTrollsInRange 6 289
+AddTroll 15 8
+AddTroll 43 73
+AddTroll 4 67
+GetGroup 71
+GetStrongestTroll 22
+AddTroll 44 62
+JoinGroups 12 6
+GetNumOfTrollsInRange 17 234
+AssignTroll 54 20 
+AddTroll 89 26
+AssignTroll 4 16 
+AssignTroll 37 25 
+GetGroup 5
+GetGroup 23
+AssignTroll 3 2 
+GetStrongestTroll 3
+JoinGroups 17 29
+GetGroup 28
+AddTroll 24 76
+JoinGroups 8 0
+AddTroll 47 34
+AssignTroll 60 26 
+JoinGroups 0 2
+GetNumOfTrollsInRange 17 120
+GetNumOfTrollsInRange 51 269
+JoinGroups 9 0
+AddTroll 51 81
+GetStrongestTroll 18
+JoinGroups 24 28
+AddTroll 28 64
+JoinGroups 1 14
+AssignTroll 43 9 
+GetStrongestTroll 1
+GetNumOfTrollsInRange 43 46
+GetNumOfTrollsInRange 71 157
+GetStrongestTroll 11
+JoinGroups 0 20
+JoinGroups 26 4
+GetStrongestTroll 19
+JoinGroups 5 12
+GetGroup 0
+JoinGroups 22 18
+GetGroup 39
+GetGroup 67
+AssignTroll 3 9 
+AssignTroll 53 3 
+AssignTroll 71 12 
+AssignTroll 34 21 
+GetStrongestTroll 3
+AddTroll 1 21
+GetGroup 41
+GetGroup 12
+GetNumOfTrollsInRange 21 191
+JoinGroups 19 13
+GetNumOfTrollsInRange 60 142
+AssignTroll 54 24 
+GetStrongestTroll 25
+GetGroup 25
+GetStrongestTroll 6
+GetGroup 58
+JoinGroups 2 11
+AddTroll 48 54
+JoinGroups 2 20
+AddTroll 29 94
+AddTroll 53 16
+JoinGroups 17 23
+GetStrongestTroll 27
+GetGroup 41
+GetGroup 18
+GetGroup 63
+AssignTroll 65 23 
+AddTroll 65 50
+GetStrongestTroll 13
+GetStrongestTroll 6
+GetStrongestTroll 12
+GetNumOfTrollsInRange 91 155
+GetGroup 12
+JoinGroups 18 0
+AddTroll 74 36
+AssignTroll 1 14 
+GetNumOfTrollsInRange 55 157
+GetNumOfTrollsInRange 41 221
+JoinGroups 5 28
+GetNumOfTrollsInRange 75 223
+AddTroll 53 30
+AddTroll 83 70
+JoinGroups 13 10
+GetNumOfTrollsInRange 11 88
+GetNumOfTrollsInRange 33 82
+GetStrongestTroll 25
+GetStrongestTroll 13
+AssignTroll 53 21 
+GetNumOfTrollsInRange 52 191
+AssignTroll 55 5 
+GetStrongestTroll 21
+GetStrongestTroll 16
+GetGroup 9
+JoinGroups 2 24
+GetNumOfTrollsInRange 65 269
+AddTroll 54 17
+JoinGroups 11 27
+JoinGroups 8 9
+GetNumOfTrollsInRange 73 139
+AddTroll 32 65
+GetStrongestTroll 15
+JoinGroups 21 23
+AddTroll 85 20
+AddTroll 12 91
+GetGroup 28
+GetStrongestTroll 14
+GetGroup 11
+AddTroll 50 21
+AddTroll 72 81
+AddTroll 92 37
+AssignTroll 56 6 
+AddTroll 79 95
+GetStrongestTroll 1
+JoinGroups 23 22
+GetGroup 51
+GetNumOfTrollsInRange 59 253
+JoinGroups 16 0
+GetStrongestTroll 8
+GetGroup 99
+AssignTroll 77 7 
+GetStrongestTroll 3
+AddTroll 82 32
+GetStrongestTroll 7
+AddTroll 3 92
+GetStrongestTroll 0
+GetGroup 18
+GetStrongestTroll 13
+GetNumOfTrollsInRange 23 89
+JoinGroups 10 27
+AddTroll 98 69
+AssignTroll 6 29 
+GetNumOfTrollsInRange 94 218
+GetNumOfTrollsInRange 2 256
+GetStrongestTroll 19
+AssignTroll 62 3 
+GetGroup 93
+AssignTroll 30 2 
+GetGroup 19
+AddTroll 29 26
+AssignTroll 52 15 
+GetGroup 87
+AssignTroll 62 28 
+AddTroll 0 58
+AssignTroll 67 13 
+AddTroll 72 57
+GetGroup 55
+GetNumOfTrollsInRange 40 109
+GetStrongestTroll 5
+GetNumOfTrollsInRange 94 138
+GetNumOfTrollsInRange 8 40
+JoinGroups 7 2
+GetGroup 60
+GetStrongestTroll 29
+TeamUpgrade 0 6
+GetGroup 87
+AssignTroll 10 22 
+AssignTroll 52 14 
+AssignTroll 43 1 
+GetStrongestTroll 2
+GetGroup 60
+GetNumOfTrollsInRange 4 88
+GetNumOfTrollsInRange 8 235
+GetGroup 19
+GetStrongestTroll 15
+AssignTroll 23 25 
+JoinGroups 7 23
+GetNumOfTrollsInRange 31 203
+GetNumOfTrollsInRange 62 266
+AssignTroll 4 29 
+AssignTroll 62 22 
+GetStrongestTroll 19
+AssignTroll 15 14 
+AddTroll 60 5
+GetNumOfTrollsInRange 7 170
+AssignTroll 40 7 
+GetStrongestTroll 21
+GetNumOfTrollsInRange 38 111
+GetNumOfTrollsInRange 91 260
+GetNumOfTrollsInRange 79 288
+JoinGroups 5 27
+GetStrongestTroll 2
+GetStrongestTroll 5
+AssignTroll 9 11 
+AddTroll 84 1
+AddTroll 97 31
+AddTroll 15 29
+GetNumOfTrollsInRange 26 171
+AddTroll 53 65
+GetGroup 17
+JoinGroups 6 18
+AddTroll 13 82
+GetGroup 67
+AddTroll 66 10
+GetGroup 35
+AddTroll 68 49
+JoinGroups 25 15
+GetGroup 83
+AssignTroll 61 15 
+GetStrongestTroll 18
+GetStrongestTroll 10
+GetGroup 34
+GetNumOfTrollsInRange 88 150
+GetGroup 72
+GetNumOfTrollsInRange 34 265
+GetNumOfTrollsInRange 94 166
+JoinGroups 27 7
+AddTroll 14 47
+AssignTroll 38 26 
+GetNumOfTrollsInRange 61 91
+GetGroup 35
+GetStrongestTroll 9
+GetStrongestTroll 16
+GetStrongestTroll 25
+JoinGroups 0 29
+GetGroup 35
+AddTroll 77 77
+GetStrongestTroll 14
+AssignTroll 71 9 
+AssignTroll 48 20 
+GetStrongestTroll 19
+AssignTroll 32 14 
+AddTroll 72 38
+GetNumOfTrollsInRange 22 198
+JoinGroups 26 18
+AssignTroll 82 3 
+AddTroll 52 69
+JoinGroups 15 20
+AddTroll 37 79
+GetGroup 63
+GetGroup 24
+AssignTroll 23 20 
+GetNumOfTrollsInRange 67 160
+GetGroup 99
+AddTroll 47 59
+AddTroll 31 89
+GetNumOfTrollsInRange 6 164
+AssignTroll 32 20 
+GetGroup 30
+JoinGroups 8 23
+GetGroup 45
+AddTroll 51 55
+GetNumOfTrollsInRange 7 111
+GetGroup 92
+GetGroup 99
+AssignTroll 40 19 
+AssignTroll 38 20 
+JoinGroups 0 6
+GetNumOfTrollsInRange 57 184
+AssignTroll 39 20 
+GetGroup 63
+AddTroll 5 16
+JoinGroups 0 1
+JoinGroups 15 4
+JoinGroups 22 13
+JoinGroups 11 24
+AddTroll 77 77
+GetNumOfTrollsInRange 78 208
+GetStrongestTroll 13
+AddTroll 66 49
+GetStrongestTroll 15
+AssignTroll 14 4 
+AddTroll 34 27
+JoinGroups 16 9
+GetNumOfTrollsInRange 18 155
+JoinGroups 17 8
+AddTroll 84 39
+GetStrongestTroll 4
+GetStrongestTroll 28
+GetStrongestTroll 14
+JoinGroups 15 11
+AssignTroll 84 9 
+AssignTroll 69 14 
+GetStrongestTroll 29
+JoinGroups 6 0
+GetStrongestTroll 18
+JoinGroups 24 0
+JoinGroups 12 13
+GetStrongestTroll 12
+GetGroup 47
+GetGroup 46
+AssignTroll 79 28 
+GetGroup 80
+GetNumOfTrollsInRange 68 104
+GetGroup 50
+GetStrongestTroll 23
+GetNumOfTrollsInRange 73 109
+GetGroup 84
+AssignTroll 32 28 
+JoinGroups 22 23
+GetStrongestTroll 11
+TeamUpgrade 2 3
+AssignTroll 86 0 
+AssignTroll 69 28 
+AddTroll 17 12
+AssignTroll 33 0 
+GetStrongestTroll 8
+AddTroll 85 88
+GetNumOfTrollsInRange 41 223
+GetGroup 7
+AddTroll 9 64
+AddTroll 2 45
+GetStrongestTroll 11
+GetNumOfTrollsInRange 44 275
+GetNumOfTrollsInRange 12 152
+GetGroup 12
+GetGroup 76
+GetNumOfTrollsInRange 30 247
+GetGroup 53
+AssignTroll 72 28 
+JoinGroups 5 27
+GetNumOfTrollsInRange 54 91
+AssignTroll 80 3 
+AssignTroll 90 12 
+GetGroup 40
+AssignTroll 85 25 
+AssignTroll 5 29 
+GetStrongestTroll 27
+GetGroup 85
+JoinGroups 2 8
+JoinGroups 14 5
+GetStrongestTroll 10
+GetGroup 73
+JoinGroups 29 0
+GetStrongestTroll 2
+GetStrongestTroll 21
+JoinGroups 21 17
+GetGroup 7
+GetStrongestTroll 29
+AddTroll 96 25
+AddTroll 0 62
+GetStrongestTroll 11
+AddTroll 97 33
+GetStrongestTroll 25
+GetStrongestTroll 9
+AddTroll 42 69
+AssignTroll 56 21 
+GetStrongestTroll 20
+AddTroll 96 60
+GetStrongestTroll 26
+AddTroll 61 77
+GetGroup 60
+AddTroll 49 91
+AssignTroll 73 8 
+AddTroll 14 4
+GetStrongestTroll 26
+GetNumOfTrollsInRange 10 53
+JoinGroups 8 27
+GetStrongestTroll 9
+AssignTroll 69 25 
+AddTroll 66 58
+JoinGroups 4 9
+GetGroup 26
+AssignTroll 60 24 
+GetNumOfTrollsInRange 15 77
+JoinGroups 22 13
+AddTroll 56 36
+AssignTroll 54 17 
+GetNumOfTrollsInRange 39 82
+GetNumOfTrollsInRange 10 98
+GetNumOfTrollsInRange 24 265
+AddTroll 37 17
+AddTroll 4 6
+GetNumOfTrollsInRange 78 214
+GetStrongestTroll 26
+GetNumOfTrollsInRange 81 95
+GetStrongestTroll 12
+GetGroup 32
+GetStrongestTroll 6
+GetGroup 15
+AssignTroll 84 7 
+GetNumOfTrollsInRange 7 208
+GetGroup 52
+GetStrongestTroll 0
+GetGroup 3
+GetGroup 31
+GetNumOfTrollsInRange 17 272
+GetStrongestTroll 2
+GetGroup 29
+GetStrongestTroll 18
+AssignTroll 9 10 
+GetGroup 95
+GetStrongestTroll 3
+AddTroll 15 41
+GetGroup 89
+GetStrongestTroll 17
+GetStrongestTroll 3
+GetStrongestTroll 15
+GetGroup 3
+GetStrongestTroll 5
+JoinGroups 3 12
+AssignTroll 52 24 
+GetNumOfTrollsInRange 22 160
+AddTroll 49 73
+AddTroll 32 93
+GetGroup 13
+GetNumOfTrollsInRange 33 70
+AddTroll 19 59
+JoinGroups 21 0
+GetStrongestTroll 28
+GetGroup 67
+GetNumOfTrollsInRange 95 205
+GetNumOfTrollsInRange 63 152
+GetStrongestTroll 8
+AssignTroll 50 19 
+GetNumOfTrollsInRange 8 235
+GetStrongestTroll 8
+GetGroup 15
+AssignTroll 47 27 
+JoinGroups 15 27
+GetGroup 13
+JoinGroups 4 11
+GetNumOfTrollsInRange 47 216
+AddTroll 36 8
+GetStrongestTroll 3
+JoinGroups 11 9
+AssignTroll 39 21 
+GetGroup 5
+GetNumOfTrollsInRange 50 235
+JoinGroups 25 7
+GetGroup 54
+JoinGroups 19 19
+GetNumOfTrollsInRange 35 60
+AssignTroll 11 24 
+GetGroup 46
+AssignTroll 25 22 
+GetStrongestTroll 7
+GetGroup 86
+AssignTroll 74 24 
+AddTroll 41 87
+JoinGroups 8 18
+GetStrongestTroll 6
+GetNumOfTrollsInRange 11 295
+GetNumOfTrollsInRange 18 178
+GetStrongestTroll 27
+AssignTroll 32 5 
+AddTroll 85 8
+GetGroup 27
+AssignTroll 22 6 
+GetNumOfTrollsInRange 39 192
+AssignTroll 7 0 
+GetStrongestTroll 21
+AssignTroll 9 15 
+JoinGroups 21 29
+GetStrongestTroll 21
+GetNumOfTrollsInRange 11 74
+GetGroup 55
+AssignTroll 88 25 
+AssignTroll 81 3 
+GetGroup 92
+GetStrongestTroll 15
+AddTroll 61 64
+GetGroup 74
+AssignTroll 34 26 
+GetGroup 4
+GetGroup 22
+JoinGroups 23 24
+AssignTroll 70 25 
+GetStrongestTroll 23
+AssignTroll 48 18 
+JoinGroups 7 27
+AddTroll 29 37
+AssignTroll 63 15 
+GetNumOfTrollsInRange 60 74
+JoinGroups 10 23
+JoinGroups 24 8
+AssignTroll 42 23 
+AssignTroll 12 4 
+GetGroup 59
+AssignTroll 36 3 
+GetStrongestTroll 26
+JoinGroups 17 12
+GetNumOfTrollsInRange 10 237
+AssignTroll 97 0 
+GetStrongestTroll 28
+GetNumOfTrollsInRange 39 73
+GetNumOfTrollsInRange 51 83
+GetGroup 86
+GetGroup 29
+GetStrongestTroll 7
+GetGroup 52
+JoinGroups 11 28
+AssignTroll 24 16 
+GetNumOfTrollsInRange 40 110
+AddTroll 67 6
+GetNumOfTrollsInRange 70 210
+AddTroll 67 24
+JoinGroups 28 29
+GetStrongestTroll 13
+AssignTroll 27 16 
+AssignTroll 83 11 
+AssignTroll 29 25 
+GetStrongestTroll 23
+GetGroup 20
+GetNumOfTrollsInRange 49 209
+GetGroup 59
+GetNumOfTrollsInRange 41 192
+AssignTroll 50 7 
+AddTroll 7 22
+GetGroup 53
+AssignTroll 60 16 
+GetGroup 30
+AssignTroll 55 18 
+GetGroup 76
+GetGroup 79
+AssignTroll 68 15 
+AssignTroll 42 29 
+GetNumOfTrollsInRange 44 111
+GetGroup 6
+GetNumOfTrollsInRange 38 167
+AddTroll 61 26
+GetNumOfTrollsInRange 58 108
+GetNumOfTrollsInRange 12 234
+GetStrongestTroll 29
+GetGroup 71
+JoinGroups 25 18
+AssignTroll 28 9 
+GetNumOfTrollsInRange 86 26
+JoinGroups 26 3
+GetGroup 83
+JoinGroups 21 5
+GetStrongestTroll 18
+GetNumOfTrollsInRange 96 131
+GetNumOfTrollsInRange 6 21
+GetStrongestTroll 11
+GetGroup 11
+AssignTroll 3 28 
+GetNumOfTrollsInRange 80 140
+GetStrongestTroll 17
+JoinGroups 19 22
+AddTroll 49 0
+JoinGroups 13 29
+GetStrongestTroll 28
+JoinGroups 25 29
+GetStrongestTroll 19
+AddTroll 21 54
+JoinGroups 11 28
+JoinGroups 29 1
+AssignTroll 96 9 
+JoinGroups 4 11
+GetNumOfTrollsInRange 50 259
+AddTroll 97 97
+GetStrongestTroll 13
+AssignTroll 30 5 
+AddTroll 15 24
+JoinGroups 15 3
+GetStrongestTroll 8
+AddTroll 24 20
+JoinGroups 26 10
+GetGroup 29
+GetNumOfTrollsInRange 90 271
+JoinGroups 28 4
+AssignTroll 11 29 
+GetGroup 96
+AssignTroll 88 8 
+JoinGroups 24 26
+AddTroll 36 47
+JoinGroups 8 8
+GetNumOfTrollsInRange 58 141
+JoinGroups 8 10
+GetGroup 12
+GetNumOfTrollsInRange 95 289
+GetStrongestTroll 0
+GetGroup 8
+AssignTroll 46 13 
+JoinGroups 15 24
+AddTroll 6 63
+JoinGroups 22 2
+GetGroup 50
+JoinGroups 6 3
+AssignTroll 54 11 
+GetStrongestTroll 16
+GetGroup 56
+AddTroll 77 20
+GetStrongestTroll 18
+JoinGroups 19 20
+GetNumOfTrollsInRange 52 87
+GetNumOfTrollsInRange 23 94
+JoinGroups 15 6
+JoinGroups 1 21
+JoinGroups 0 29
+GetNumOfTrollsInRange 77 103
+AssignTroll 39 24 
+JoinGroups 18 0
+GetGroup 64
+JoinGroups 4 11
+AssignTroll 44 15 
+GetGroup 54
+GetNumOfTrollsInRange 78 200
+GetGroup 60
+AddTroll 45 66
+GetNumOfTrollsInRange 13 125
+AssignTroll 29 27 
+GetGroup 33
+AddTroll 44 76
+GetGroup 26
+GetGroup 28
+GetNumOfTrollsInRange 14 199
+AddTroll 44 22
+GetStrongestTroll 16
+AssignTroll 63 2 
+GetStrongestTroll 19
+GetNumOfTrollsInRange 11 18
+GetNumOfTrollsInRange 6 135
+GetStrongestTroll 5
+AssignTroll 8 13 
+JoinGroups 9 14
+GetGroup 35
+AddTroll 41 20
+AddTroll 29 90
+GetNumOfTrollsInRange 75 150
+GetStrongestTroll 3
+GetStrongestTroll 13
+GetGroup 89
+AssignTroll 5 7 
+GetStrongestTroll 5
+GetGroup 73
+GetGroup 22
+AssignTroll 9 23 
+AssignTroll 11 8 
+GetNumOfTrollsInRange 26 78
+AssignTroll 18 20 
+JoinGroups 27 17
+GetGroup 72
+JoinGroups 0 8
+AssignTroll 27 24 
+GetStrongestTroll 12
+GetNumOfTrollsInRange 88 163
+GetNumOfTrollsInRange 33 294
+AssignTroll 19 8 
+GetGroup 7
+GetStrongestTroll 0
+GetGroup 61
+GetNumOfTrollsInRange 6 275
+JoinGroups 15 26
+GetGroup 33
+GetNumOfTrollsInRange 91 235
+GetNumOfTrollsInRange 90 98
+AssignTroll 88 22 
+GetGroup 81
+JoinGroups 29 10
+JoinGroups 3 16
+GetGroup 31
+GetNumOfTrollsInRange 6 260
+AssignTroll 25 4 
+JoinGroups 18 2
+AssignTroll 88 6 
+AddTroll 6 93
+GetStrongestTroll 11
+AddTroll 62 76
+GetStrongestTroll 14
+AssignTroll 64 24 
+AssignTroll 31 25 
+GetGroup 86
+GetStrongestTroll 16
+GetStrongestTroll 21
+AddTroll 22 99
+GetNumOfTrollsInRange 45 263
+AssignTroll 57 3 
+GetNumOfTrollsInRange 18 298
+AddTroll 75 84
+JoinGroups 13 10
+GetStrongestTroll 8
+GetGroup 61
+AddTroll 63 6
+AddTroll 6 59
+AddTroll 3 96
+GetNumOfTrollsInRange 54 161
+AddTroll 26 36
+GetStrongestTroll 6
+GetNumOfTrollsInRange 31 209
+AssignTroll 76 10 
+GetNumOfTrollsInRange 95 294
+GetStrongestTroll 29
+GetGroup 1
+GetNumOfTrollsInRange 15 39
+GetNumOfTrollsInRange 61 194
+JoinGroups 19 11
+JoinGroups 3 18
+AssignTroll 18 9 
+GetStrongestTroll 23
+GetNumOfTrollsInRange 92 217
+GetStrongestTroll 12
+GetNumOfTrollsInRange 71 215
+GetStrongestTroll 11
+AssignTroll 97 14 
+AssignTroll 49 14 
+GetGroup 5
+JoinGroups 0 6
+JoinGroups 9 3
+AddTroll 68 89
+AddTroll 65 69
+GetNumOfTrollsInRange 35 154
+JoinGroups 13 1
+JoinGroups 10 24
+AddTroll 61 68
+GetStrongestTroll 28
+GetNumOfTrollsInRange 77 77
+GetNumOfTrollsInRange 65 194
+GetStrongestTroll 21
+GetNumOfTrollsInRange 92 136
+GetStrongestTroll 28
+GetStrongestTroll 1
+GetNumOfTrollsInRange 76 116
+GetStrongestTroll 1
+AssignTroll 7 20 
+GetStrongestTroll 21
+GetNumOfTrollsInRange 21 24
+JoinGroups 14 18
+AssignTroll 41 25 
+GetGroup 89
+GetNumOfTrollsInRange 18 147
+AddTroll 57 5
+JoinGroups 10 16
+GetStrongestTroll 27
+GetGroup 87
+GetGroup 66
+JoinGroups 14 12
+GetGroup 74
+GetGroup 0
+AssignTroll 85 11 
+AddTroll 79 96
+GetGroup 22
+GetNumOfTrollsInRange 52 274
+AddTroll 86 76
+GetGroup 13
+AddTroll 35 59
+AssignTroll 82 16 
+AssignTroll 79 8 
+JoinGroups 16 15
+AddTroll 18 34
+GetGroup 96
+GetGroup 44
+JoinGroups 1 13
+GetNumOfTrollsInRange 55 271
+GetNumOfTrollsInRange 70 193
+AssignTroll 98 22 
+AddTroll 1 37
+AssignTroll 71 28 
+GetGroup 38
+AddTroll 99 38
+JoinGroups 6 5
+GetGroup 1
+GetGroup 8
+AddTroll 52 33
+AddTroll 19 63
+GetNumOfTrollsInRange 42 212
+JoinGroups 25 13
+GetNumOfTrollsInRange 70 102
+JoinGroups 20 3
+GetGroup 92
+AssignTroll 17 20 
+GetStrongestTroll 13
+GetNumOfTrollsInRange 96 182
+GetNumOfTrollsInRange 29 297
+AddTroll 72 78
+AddTroll 73 28
+GetNumOfTrollsInRange 33 69
+GetGroup 83
+AddTroll 99 8
+AssignTroll 93 17 
+GetNumOfTrollsInRange 65 231
+JoinGroups 8 9
+GetStrongestTroll 17
+GetNumOfTrollsInRange 15 88
+JoinGroups 9 11
+AssignTroll 78 28 
+AddTroll 94 89
+AddTroll 11 81
+AssignTroll 62 29 
+GetGroup 50
+AddTroll 60 31
+GetGroup 13
+GetStrongestTroll 13
+GetGroup 42
+GetNumOfTrollsInRange 87 135
+GetNumOfTrollsInRange 11 136
+GetGroup 32
+AssignTroll 91 15 
+JoinGroups 17 5
+AssignTroll 70 22 
+GetGroup 56
+GetGroup 21
+AddTroll 98 53
+GetStrongestTroll 3
+GetNumOfTrollsInRange 4 18
+JoinGroups 22 2
+GetStrongestTroll 18
+AssignTroll 91 5 
+GetGroup 55
+JoinGroups 10 20
+JoinGroups 23 26
+GetStrongestTroll 8
+GetStrongestTroll 22
+GetStrongestTroll 11
+AddTroll 72 78
+GetNumOfTrollsInRange 5 37
+JoinGroups 26 5
+GetStrongestTroll 5
+GetGroup 16
+AddTroll 73 79
+AssignTroll 85 7 
+GetNumOfTrollsInRange 8 132
+GetGroup 2
+AddTroll 23 93
+GetGroup 59
+AssignTroll 41 25 
+GetNumOfTrollsInRange 21 59
+JoinGroups 21 18
+GetNumOfTrollsInRange 88 130
+JoinGroups 11 13
+GetStrongestTroll 17
+JoinGroups 18 17
+JoinGroups 5 23
+GetNumOfTrollsInRange 61 111
+GetNumOfTrollsInRange 44 285
+GetStrongestTroll 26
+AddTroll 8 99
+JoinGroups 17 16
+JoinGroups 1 29
+GetStrongestTroll 14
+AddTroll 31 59
+AssignTroll 54 4 
+GetStrongestTroll 16
+GetNumOfTrollsInRange 1 177
+GetGroup 10
+GetStrongestTroll 6
+GetNumOfTrollsInRange 48 48
+GetGroup 88
+AddTroll 13 39
+TeamUpgrade 26 7
+AddTroll 3 73
+GetNumOfTrollsInRange 26 122
+GetNumOfTrollsInRange 23 106
+AssignTroll 1 15 
+AssignTroll 46 28 
+AssignTroll 97 5 
+AddTroll 79 49
+GetStrongestTroll 1
+JoinGroups 7 9
+GetNumOfTrollsInRange 72 75
+GetStrongestTroll 24
+GetGroup 52
+AddTroll 91 18
+GetNumOfTrollsInRange 72 299
+AddTroll 54 69
+JoinGroups 11 2
+GetStrongestTroll 7
+GetNumOfTrollsInRange 24 279
+AssignTroll 2 23 
+GetStrongestTroll 22
+AssignTroll 51 28 
+GetStrongestTroll 18
+JoinGroups 18 17
+GetNumOfTrollsInRange 33 285
+GetStrongestTroll 24
+GetGroup 34
+JoinGroups 1 8
+GetStrongestTroll 27
+JoinGroups 20 7
+GetGroup 76
+GetNumOfTrollsInRange 43 216
+GetNumOfTrollsInRange 36 221
+GetNumOfTrollsInRange 46 197
+GetGroup 45
+AddTroll 63 53
+GetNumOfTrollsInRange 54 102
+JoinGroups 19 1
+JoinGroups 23 3
+GetNumOfTrollsInRange 90 284
+GetStrongestTroll 9
+GetStrongestTroll 15
+GetNumOfTrollsInRange 52 278
+AssignTroll 68 9 
+GetStrongestTroll 25
+AssignTroll 74 8 
+AddTroll 82 67
+AssignTroll 62 26 
+AddTroll 94 47
+AddTroll 28 30
+AddTroll 92 58
+AssignTroll 60 21 
+GetGroup 3
+AssignTroll 38 2 
+JoinGroups 24 13
+JoinGroups 13 13
+JoinGroups 11 28
+GetStrongestTroll 26
+AddTroll 86 52
+GetNumOfTrollsInRange 29 125
+GetStrongestTroll 28
+GetGroup 85
+AddTroll 77 56
+GetNumOfTrollsInRange 57 236
+GetStrongestTroll 14
+GetNumOfTrollsInRange 33 232
+GetNumOfTrollsInRange 40 280
+GetGroup 76
+JoinGroups 11 5
+AssignTroll 64 26 
+GetNumOfTrollsInRange 60 160
+GetStrongestTroll 25
+GetNumOfTrollsInRange 42 158
+GetStrongestTroll 0
+AssignTroll 54 7 
+JoinGroups 27 1
+GetStrongestTroll 3
+AddTroll 97 50
+AddTroll 0 92
+GetStrongestTroll 12
+AddTroll 98 82
+GetStrongestTroll 9
+AddTroll 97 91
+AddTroll 51 55
+GetNumOfTrollsInRange 33 61
+JoinGroups 22 3
+AddTroll 54 99
+GetNumOfTrollsInRange 90 159
+GetNumOfTrollsInRange 31 133
+GetStrongestTroll 13
+AssignTroll 43 11 
+AssignTroll 63 14 
+AddTroll 53 81
+AddTroll 65 43
+AssignTroll 61 22 
+JoinGroups 25 6
+JoinGroups 10 21
+GetNumOfTrollsInRange 43 154
+GetNumOfTrollsInRange 23 26
+AddTroll 78 5
+GetGroup 70
+AddTroll 70 85
+AssignTroll 83 18 
+GetStrongestTroll 19
+AssignTroll 88 9 
+GetNumOfTrollsInRange 14 7
+JoinGroups 21 4
+JoinGroups 14 11
+AddTroll 53 81
+GetNumOfTrollsInRange 73 135
+GetStrongestTroll 28
+AddTroll 92 2
+GetNumOfTrollsInRange 34 219
+AddTroll 36 86
+GetStrongestTroll 21
+JoinGroups 5 11
+GetNumOfTrollsInRange 30 214
+AddTroll 37 20
+AddTroll 56 11
+AddTroll 86 94
+GetStrongestTroll 13
+AddTroll 33 76
+GetNumOfTrollsInRange 63 211
+AddTroll 6 57
+GetNumOfTrollsInRange 50 178
+JoinGroups 24 11
+AddTroll 76 58
+GetNumOfTrollsInRange 72 140
+AssignTroll 57 20 
+JoinGroups 8 10
+AddTroll 55 64
+GetNumOfTrollsInRange 98 134
+GetGroup 82
+GetGroup 79
+AddTroll 50 45
+GetNumOfTrollsInRange 75 81
+AddTroll 50 83
+JoinGroups 21 4
+AddTroll 81 37
+GetStrongestTroll 15
+AssignTroll 64 29 
+JoinGroups 0 13
+GetGroup 89
+JoinGroups 0 10
+GetStrongestTroll 16
+AssignTroll 76 1 
+GetStrongestTroll 29
+JoinGroups 1 26
+GetNumOfTrollsInRange 76 153
+GetStrongestTroll 25
+AddTroll 75 61
+GetGroup 1
+AssignTroll 18 29 
+AssignTroll 4 11 
+AddTroll 72 16
+GetGroup 62
+GetStrongestTroll 20
+GetNumOfTrollsInRange 88 140
+GetGroup 67
+GetGroup 39
+AssignTroll 85 9 
+JoinGroups 21 21
+AddTroll 39 36
+AssignTroll 81 15 
+AddTroll 27 26
+JoinGroups 0 28
+AssignTroll 71 7 
+AssignTroll 80 5 
+GetGroup 96
+GetGroup 50
+AddTroll 98 35
+AssignTroll 80 28 
+GetNumOfTrollsInRange 27 229
+GetGroup 96
+GetGroup 23
+GetStrongestTroll 20
+GetGroup 39
+GetStrongestTroll 6
+GetNumOfTrollsInRange 15 150
+GetStrongestTroll 15
+GetGroup 77
+AssignTroll 46 29 
+GetNumOfTrollsInRange 1 71
+AssignTroll 52 4 
+JoinGroups 2 2
+GetGroup 24
+GetNumOfTrollsInRange 98 116
+GetStrongestTroll 26
+AddTroll 36 57
+GetNumOfTrollsInRange 17 179
+JoinGroups 3 9
+GetStrongestTroll 2
+GetNumOfTrollsInRange 29 65
+GetStrongestTroll 3
+AddTroll 80 27
+GetGroup 65
+GetGroup 4
+AddTroll 35 74
+AddTroll 74 12
+GetNumOfTrollsInRange 54 112
+GetGroup 80
+GetGroup 67
+JoinGroups 27 19
+AddTroll 75 55
+GetNumOfTrollsInRange 45 188
+GetGroup 74
+AddTroll 38 21
+JoinGroups 4 23
+AddTroll 45 83
+GetGroup 58
+AddTroll 89 36
+GetStrongestTroll 4
+AddTroll 89 95
+GetNumOfTrollsInRange 74 152
+AssignTroll 81 18 
+GetNumOfTrollsInRange 84 284
+JoinGroups 22 8
+GetNumOfTrollsInRange 72 145
+AssignTroll 69 4 
+GetNumOfTrollsInRange 15 290
+GetNumOfTrollsInRange 41 281
+GetStrongestTroll 5
+AssignTroll 47 12 
+GetStrongestTroll 12
+GetNumOfTrollsInRange 16 165
+GetGroup 33
+AddTroll 96 93
+JoinGroups 19 15
+AssignTroll 11 2 
+AddTroll 56 42
+GetStrongestTroll 8
+GetNumOfTrollsInRange 23 49
+GetGroup 90
+GetGroup 83
+AssignTroll 43 4 
+GetGroup 75
+JoinGroups 22 29
+AssignTroll 32 23 
+AssignTroll 25 4 
+AssignTroll 90 26 
+GetGroup 23
+GetNumOfTrollsInRange 91 240
+AssignTroll 75 3 
+AssignTroll 94 6 
+JoinGroups 24 20
+GetStrongestTroll 5
+JoinGroups 15 23
+GetNumOfTrollsInRange 27 114
+JoinGroups 17 19
+GetGroup 63
+AssignTroll 17 3 
+GetGroup 64
+AssignTroll 58 7 
+GetNumOfTrollsInRange 75 186
+AssignTroll 37 18 
+GetStrongestTroll 1
+GetNumOfTrollsInRange 75 181
+AssignTroll 94 24 
+AddTroll 13 31
+JoinGroups 25 19
+GetStrongestTroll 25
+JoinGroups 18 25
+JoinGroups 3 12
+AddTroll 45 52
+AddTroll 20 99
+AddTroll 38 35
+JoinGroups 8 21
+AssignTroll 38 18 
+JoinGroups 17 20
+AddTroll 8 94
+GetGroup 63
+GetGroup 22
+JoinGroups 21 18
+AssignTroll 60 2 
+GetStrongestTroll 26
+GetStrongestTroll 11
+AssignTroll 87 22 
+GetStrongestTroll 13
+JoinGroups 17 13
+AddTroll 36 67
+JoinGroups 16 19
+GetNumOfTrollsInRange 73 116
+GetStrongestTroll 26
+JoinGroups 8 0
+AddTroll 92 22
+JoinGroups 19 5
+GetStrongestTroll 26
+GetGroup 98
+GetNumOfTrollsInRange 87 165
+GetNumOfTrollsInRange 64 286
+GetGroup 22
+AddTroll 5 44
+AddTroll 30 99
+AssignTroll 6 24 
+AssignTroll 68 3 
+GetNumOfTrollsInRange 28 276
+GetStrongestTroll 1
+GetNumOfTrollsInRange 96 186
+GetGroup 59
+GetGroup 28
+AddTroll 80 90
+AddTroll 97 51
+JoinGroups 29 15
+GetStrongestTroll 29
+GetGroup 97
+GetGroup 46
+GetStrongestTroll 27
+GetStrongestTroll 4
+GetStrongestTroll 11
+GetGroup 47
+JoinGroups 27 18
+GetGroup 0
+GetStrongestTroll 15
+GetGroup 99
+GetGroup 31
+GetStrongestTroll 26
+GetStrongestTroll 23
+AssignTroll 54 2 
+GetNumOfTrollsInRange 76 240
+JoinGroups 23 20
+GetStrongestTroll 17
+GetNumOfTrollsInRange 2 119
+AssignTroll 84 3 
+AssignTroll 8 12 
+AddTroll 49 27
+AddTroll 25 40
+GetNumOfTrollsInRange 77 122
+AssignTroll 31 21 
+AssignTroll 60 12 
+GetStrongestTroll 14
+AddTroll 86 66
+GetNumOfTrollsInRange 11 21
+GetNumOfTrollsInRange 52 246
+AssignTroll 86 13 
+GetStrongestTroll 25
+GetGroup 65
+AssignTroll 35 6 
+GetNumOfTrollsInRange 43 89
+GetNumOfTrollsInRange 14 186
+AssignTroll 76 16 
+GetStrongestTroll 28
+GetStrongestTroll 10
+AssignTroll 29 0 
+GetNumOfTrollsInRange 70 274
+AddTroll 71 65
+GetNumOfTrollsInRange 85 239
+AssignTroll 47 10 
+AddTroll 99 53
+JoinGroups 2 13
+GetGroup 1
+AddTroll 56 1
+JoinGroups 17 27
+GetStrongestTroll 17
+GetStrongestTroll 7
+AssignTroll 39 21 
+GetNumOfTrollsInRange 22 184
+GetNumOfTrollsInRange 17 214
+AssignTroll 13 17 
+AssignTroll 30 12 
+JoinGroups 1 24
+GetStrongestTroll 8
+AddTroll 82 56
+GetGroup 24
+GetGroup 16
+GetNumOfTrollsInRange 96 240
+JoinGroups 1 3
+GetGroup 1
+GetGroup 12
+GetNumOfTrollsInRange 94 249
+JoinGroups 17 26
+AssignTroll 96 15 
+GetGroup 0
+GetGroup 35
+GetGroup 7
+GetGroup 63
+AssignTroll 2 5 
+AddTroll 60 30
+AddTroll 70 55
+GetStrongestTroll 0
+AssignTroll 76 2 
+GetNumOfTrollsInRange 99 205
+AssignTroll 54 4 
+GetStrongestTroll 9
+JoinGroups 21 8
+AssignTroll 71 22 
+JoinGroups 19 25
+AssignTroll 89 21 
+JoinGroups 1 18
+AssignTroll 48 14 
+AssignTroll 6 4 
+JoinGroups 21 17
+AssignTroll 99 1 
+AddTroll 65 51
+GetGroup 3
+GetGroup 73
+GetStrongestTroll 16
+GetNumOfTrollsInRange 67 207
+GetGroup 78
+GetNumOfTrollsInRange 92 125
+AddTroll 54 49
+GetStrongestTroll 14
+JoinGroups 4 6
+GetNumOfTrollsInRange 29 230
+AddTroll 61 4
+AssignTroll 10 23 
+GetStrongestTroll 18
+JoinGroups 25 23
+GetStrongestTroll 17
+GetStrongestTroll 21
+JoinGroups 24 15
+JoinGroups 4 8
+AssignTroll 42 0 
+AssignTroll 33 28 
+GetGroup 87
+AssignTroll 51 1 
+JoinGroups 24 8
+GetNumOfTrollsInRange 37 68
+GetNumOfTrollsInRange 83 210
+GetGroup 1
+JoinGroups 3 0
+AddTroll 82 82
+GetNumOfTrollsInRange 93 160
+GetGroup 10
+AddTroll 80 38
+AssignTroll 50 26 
+GetStrongestTroll 7
+JoinGroups 11 0
+AddTroll 33 81
+GetStrongestTroll 29
+GetNumOfTrollsInRange 54 172
+JoinGroups 25 1
+GetNumOfTrollsInRange 51 167
+GetNumOfTrollsInRange 30 269
+AddTroll 96 95
+AssignTroll 22 16 
+GetGroup 36
+GetStrongestTroll 7
+GetNumOfTrollsInRange 83 147
+AddTroll 23 44
+GetStrongestTroll 12
+GetGroup 86
+AssignTroll 50 16 
+JoinGroups 20 20
+JoinGroups 8 2
+GetGroup 56
+AddTroll 81 41
+JoinGroups 10 6
+GetStrongestTroll 9
+GetGroup 78
+GetStrongestTroll 3
+GetGroup 26
+JoinGroups 28 21
+GetGroup 61
+GetNumOfTrollsInRange 3 289
+AssignTroll 14 14 
+AddTroll 84 68
+GetStrongestTroll 6
+JoinGroups 0 8
+AddTroll 24 68
+AddTroll 44 62
+GetStrongestTroll 28
+GetGroup 34
+GetGroup 39
+JoinGroups 24 17
+AddTroll 58 33
+GetNumOfTrollsInRange 27 68
+GetGroup 34
+GetNumOfTrollsInRange 11 34
+AddTroll 71 36
+GetNumOfTrollsInRange 65 75
+AssignTroll 67 25 
+AssignTroll 34 12 
+JoinGroups 17 7
+GetStrongestTroll 15
+GetStrongestTroll 9
+GetNumOfTrollsInRange 17 264
+GetStrongestTroll 10
+GetGroup 98
+GetNumOfTrollsInRange 4 19
+AssignTroll 57 10 
+JoinGroups 5 11
+GetGroup 25
+GetNumOfTrollsInRange 19 227
+JoinGroups 7 26
+AddTroll 57 52
+AddTroll 44 80
+AssignTroll 32 2 
+GetGroup 34
+GetNumOfTrollsInRange 68 215
+GetStrongestTroll 17
+GetStrongestTroll 15
+AddTroll 36 59
+AssignTroll 50 6 
+GetNumOfTrollsInRange 3 174
+GetGroup 36
+GetStrongestTroll 14
+GetGroup 52
+GetGroup 17
+AddTroll 10 35
+GetNumOfTrollsInRange 33 55
+GetStrongestTroll 22
+GetNumOfTrollsInRange 8 146
+GetGroup 42
+GetNumOfTrollsInRange 35 280
+AddTroll 11 42
+JoinGroups 21 23
+GetNumOfTrollsInRange 28 149
+GetNumOfTrollsInRange 34 184
+AddTroll 65 63
+GetGroup 11
+JoinGroups 19 22
+AddTroll 64 63
+GetNumOfTrollsInRange 3 162
+GetGroup 18
+AddTroll 74 98
+GetNumOfTrollsInRange 6 277
+AddTroll 43 80
+JoinGroups 23 0
+JoinGroups 5 16
+AssignTroll 93 20 
+GetNumOfTrollsInRange 6 68
+JoinGroups 2 15
+GetStrongestTroll 3
+GetNumOfTrollsInRange 77 282
+AssignTroll 40 19 
+AddTroll 95 84
+JoinGroups 25 5
+JoinGroups 13 8
+AssignTroll 88 4 
+GetGroup 21
+GetStrongestTroll 18
+GetNumOfTrollsInRange 46 134
+AddTroll 50 57
+AssignTroll 47 18 
+GetStrongestTroll 9
+GetNumOfTrollsInRange 35 88
+AssignTroll 69 2 
+GetGroup 8
+AddTroll 67 54
+GetNumOfTrollsInRange 8 44
+GetNumOfTrollsInRange 22 174
+JoinGroups 7 3
+JoinGroups 12 13
+GetStrongestTroll 7
+AssignTroll 67 9 
+GetGroup 53
+GetNumOfTrollsInRange 67 146
+AssignTroll 79 26 
+GetNumOfTrollsInRange 38 146
+GetStrongestTroll 28
+AssignTroll 74 14 
+GetStrongestTroll 3
+GetGroup 15
+AddTroll 22 43
+GetStrongestTroll 22
+GetStrongestTroll 23
+GetStrongestTroll 21
+AddTroll 24 97
+GetNumOfTrollsInRange 25 36
+AddTroll 22 6
+GetNumOfTrollsInRange 33 68
+GetNumOfTrollsInRange 29 251
+JoinGroups 21 27
+AssignTroll 15 12 
+GetStrongestTroll 27
+AddTroll 23 54
+JoinGroups 19 9
+GetNumOfTrollsInRange 32 285
+GetNumOfTrollsInRange 51 188
+GetGroup 7
+GetGroup 28
+JoinGroups 8 2
+GetGroup 23
+GetGroup 33
+AddTroll 2 64
+GetGroup 31
+GetNumOfTrollsInRange 17 184
+GetNumOfTrollsInRange 33 263
+AssignTroll 41 17 
+GetStrongestTroll 4
+AddTroll 83 9
+GetStrongestTroll 19
+AssignTroll 31 25 
+GetStrongestTroll 17
+AddTroll 48 15
+GetStrongestTroll 29
+AssignTroll 40 19 
+AssignTroll 22 22 
+JoinGroups 4 8
+GetNumOfTrollsInRange 40 100
+GetGroup 99
+AddTroll 29 30
+AssignTroll 37 5 
+GetGroup 81
+AddTroll 62 22
+JoinGroups 9 23
+GetNumOfTrollsInRange 56 204
+JoinGroups 7 10
+JoinGroups 7 8
+AssignTroll 61 22 
+AssignTroll 23 15 
+GetNumOfTrollsInRange 61 148
+AssignTroll 43 25 
+GetNumOfTrollsInRange 25 71
+GetNumOfTrollsInRange 18 288
+JoinGroups 25 4
+JoinGroups 15 11
+GetGroup 25
+GetStrongestTroll 26
+AddTroll 26 11
+GetGroup 91
+JoinGroups 1 16
+GetGroup 2
+GetNumOfTrollsInRange 85 140
+AddTroll 42 34
+AddTroll 56 71
+GetNumOfTrollsInRange 26 159
+GetStrongestTroll 9
+GetNumOfTrollsInRange 63 218
+GetStrongestTroll 26
+JoinGroups 0 11
+AssignTroll 0 6 
+AddTroll 82 67
+JoinGroups 9 28
+JoinGroups 23 14
+GetGroup 28
+GetStrongestTroll 24
+AssignTroll 3 24 
+GetGroup 49
+AssignTroll 19 8 
+AddTroll 35 56
+GetStrongestTroll 11
+GetStrongestTroll 26
+GetStrongestTroll 2
+AddTroll 39 14
+GetStrongestTroll 2
+GetStrongestTroll 0
+AddTroll 46 58
+GetStrongestTroll 15
+GetNumOfTrollsInRange 4 9
+GetGroup 67
+JoinGroups 18 12
+GetNumOfTrollsInRange 2 220
+GetNumOfTrollsInRange 76 236
+JoinGroups 10 15
+AssignTroll 99 17 
+JoinGroups 23 25
+GetStrongestTroll 21
+GetStrongestTroll 4
+GetGroup 69
+AddTroll 36 44
+AssignTroll 30 23 
+GetGroup 74
+GetGroup 27
+GetStrongestTroll 22
+GetGroup 70
+AddTroll 76 78
+GetGroup 26
+AssignTroll 75 26 
+AddTroll 66 24
+AssignTroll 23 13 
+GetGroup 98
+AssignTroll 95 26 
+GetStrongestTroll 14
+AssignTroll 16 28 
+AssignTroll 58 9 
+JoinGroups 23 4
+AssignTroll 20 18 
+AssignTroll 77 23 
+GetNumOfTrollsInRange 0 160
+TeamUpgrade 10 6
+JoinGroups 1 1
+GetGroup 15
+GetNumOfTrollsInRange 20 240
+AddTroll 34 32
+GetNumOfTrollsInRange 49 255
+GetStrongestTroll 9
+AddTroll 61 29
+JoinGroups 23 10
+GetGroup 66
+AddTroll 11 46
+GetStrongestTroll 6
+AddTroll 71 46
+GetGroup 87
+GetGroup 87
+GetGroup 19
+JoinGroups 20 18
+GetGroup 46
+AssignTroll 40 27 
+AssignTroll 56 27 
+GetGroup 37
+AssignTroll 63 12 
+GetGroup 87
+GetNumOfTrollsInRange 3 62
+AddTroll 25 58
+AssignTroll 3 17 
+JoinGroups 3 15
+AddTroll 63 54
+GetNumOfTrollsInRange 86 115
+GetStrongestTroll 14
+AssignTroll 46 28 
+JoinGroups 23 26
+AssignTroll 33 8 
+AssignTroll 34 1 
+GetStrongestTroll 16
+AddTroll 11 30
+AddTroll 73 10
+AssignTroll 76 0 
+JoinGroups 1 21
+AssignTroll 35 21 
+AssignTroll 4 10 
+GetGroup 0
+AssignTroll 21 25 
+AssignTroll 9 8 
+GetGroup 37
+JoinGroups 1 13
+AddTroll 43 99
+JoinGroups 4 1
+GetStrongestTroll 4
+GetStrongestTroll 13
+GetGroup 63
+GetNumOfTrollsInRange 13 169
+GetGroup 15
+GetStrongestTroll 22
+AssignTroll 39 17 
+GetStrongestTroll 15
+AssignTroll 7 17 
+AddTroll 62 25
+AssignTroll 72 20 
+GetGroup 93
+TeamUpgrade 6 1
+AddTroll 65 63
+GetStrongestTroll 20
+GetGroup 77
+GetNumOfTrollsInRange 47 115
+GetNumOfTrollsInRange 74 152
+GetStrongestTroll 1
+AssignTroll 79 4 
+AssignTroll 91 6 
+GetNumOfTrollsInRange 88 114
+AssignTroll 99 8 
+AddTroll 52 45
+JoinGroups 26 22
+GetGroup 72
+GetNumOfTrollsInRange 65 266
+GetNumOfTrollsInRange 72 280
+AssignTroll 37 23 
+AssignTroll 78 12 
+AssignTroll 94 20 
+GetStrongestTroll 25
+GetGroup 62
+JoinGroups 26 1
+AddTroll 54 22
+AddTroll 12 41
+JoinGroups 21 17
+AddTroll 51 40
+JoinGroups 14 28
+GetStrongestTroll 14
+AddTroll 23 32
+JoinGroups 16 7
+AssignTroll 80 21 
+AddTroll 44 75
+GetStrongestTroll 9
+GetGroup 53
+JoinGroups 17 3
+GetNumOfTrollsInRange 45 78
+GetGroup 22
+AssignTroll 41 12 
+AddTroll 9 37
+GetGroup 54
+GetStrongestTroll 13
+AddTroll 5 61
+GetNumOfTrollsInRange 21 155
+JoinGroups 17 29
+JoinGroups 8 1
+GetNumOfTrollsInRange 55 4
+GetStrongestTroll 25
+GetNumOfTrollsInRange 41 274
+AssignTroll 7 28 
+AssignTroll 39 7 
+AssignTroll 36 11 
+GetGroup 66
+GetNumOfTrollsInRange 51 171
+AddTroll 29 52
+GetStrongestTroll 21
+GetGroup 55
+AddTroll 31 33
+GetGroup 36
+AssignTroll 65 1 
+AddTroll 88 93
+GetNumOfTrollsInRange 56 111
+JoinGroups 14 20
+GetNumOfTrollsInRange 66 175
+GetGroup 14
+AssignTroll 84 22 
+JoinGroups 7 21
+JoinGroups 7 27
+GetGroup 10
+GetGroup 79
+AssignTroll 77 15 
+JoinGroups 25 28
+AssignTroll 93 14 
+AddTroll 78 88
+AssignTroll 8 15 
+AssignTroll 2 18 
+JoinGroups 16 27
+GetStrongestTroll 18
+AddTroll 53 8
+AddTroll 4 50
+AddTroll 0 59
+AssignTroll 46 17 
+AddTroll 55 61
+AddTroll 17 82
+GetGroup 16
+GetNumOfTrollsInRange 89 165
+GetGroup 23
+AddTroll 11 34
+GetNumOfTrollsInRange 47 277
+GetNumOfTrollsInRange 73 253
+GetNumOfTrollsInRange 11 81
+GetStrongestTroll 4
+AssignTroll 46 23 
+GetNumOfTrollsInRange 53 221
+AssignTroll 8 29 
+AssignTroll 40 6 
+AssignTroll 22 12 
+AddTroll 39 32
+AssignTroll 39 15 
+GetGroup 14
+GetGroup 72
+JoinGroups 26 23
+GetGroup 70
+GetGroup 91
+JoinGroups 24 20
+AddTroll 9 8
+AddTroll 66 95
+GetNumOfTrollsInRange 69 14
+AddTroll 35 46
+GetStrongestTroll 28
+JoinGroups 13 1
+JoinGroups 5 26
+JoinGroups 25 16
+AddTroll 87 41
+JoinGroups 2 22
+GetGroup 45
+JoinGroups 11 27
+GetStrongestTroll 5
+GetStrongestTroll 7
+GetStrongestTroll 22
+GetGroup 16
+AssignTroll 97 14 
+JoinGroups 3 5
+AddTroll 68 79
+AddTroll 19 94
+AddTroll 52 36
+AddTroll 39 73
+GetNumOfTrollsInRange 20 96
+JoinGroups 25 0
+GetGroup 19
+AddTroll 50 65
+AddTroll 64 87
+AssignTroll 68 10 
+JoinGroups 26 14
+JoinGroups 7 9
+AddTroll 60 79
+GetGroup 48
+AssignTroll 93 19 
+AssignTroll 60 19 
+AssignTroll 89 18 
+AssignTroll 19 23 
+GetNumOfTrollsInRange 82 110
+GetNumOfTrollsInRange 50 245
+GetStrongestTroll 26
+AddTroll 24 24
+GetNumOfTrollsInRange 69 236
+GetStrongestTroll 21
+GetGroup 41
+GetStrongestTroll 29
+JoinGroups 21 20
+GetStrongestTroll 7
+AddTroll 70 90
+JoinGroups 14 7
+GetStrongestTroll 28
+AssignTroll 70 0 
+JoinGroups 25 27
+AssignTroll 28 27 
+GetStrongestTroll 2
+JoinGroups 23 5
+AddTroll 12 4
+AssignTroll 61 10 
+AssignTroll 11 24 
+AddTroll 74 90
+GetStrongestTroll 14
+GetStrongestTroll 8
+GetNumOfTrollsInRange 62 110
+GetNumOfTrollsInRange 19 65
+JoinGroups 24 6
+GetStrongestTroll 7
+GetStrongestTroll 22
+JoinGroups 23 11
+JoinGroups 29 25
+AssignTroll 64 7 
+JoinGroups 0 15
+GetGroup 37
+TeamUpgrade 4 7
+JoinGroups 3 6
+GetStrongestTroll 15
+GetNumOfTrollsInRange 18 162
+GetNumOfTrollsInRange 28 294
+GetNumOfTrollsInRange 94 223
+AssignTroll 43 11 
+GetNumOfTrollsInRange 84 283
+GetStrongestTroll 6
+GetNumOfTrollsInRange 32 288
+AddTroll 21 8
+TeamUpgrade 26 8
+GetStrongestTroll 23
+AssignTroll 87 7 
+GetNumOfTrollsInRange 97 258
+GetNumOfTrollsInRange 58 280
+JoinGroups 22 6
+GetNumOfTrollsInRange 50 107
+JoinGroups 11 6
+JoinGroups 19 10
+GetStrongestTroll 11
+GetStrongestTroll 16
+GetStrongestTroll 9
+GetStrongestTroll 25
+AssignTroll 55 21 
+AssignTroll 63 1 
+GetStrongestTroll 25
+AddTroll 58 59
+JoinGroups 27 10
+AssignTroll 20 19 
+AddTroll 70 89
+GetStrongestTroll 23
+GetGroup 81
+GetGroup 17
+JoinGroups 15 17
+AssignTroll 28 5 
+GetStrongestTroll 7
+JoinGroups 1 14
+GetStrongestTroll 10
+GetStrongestTroll 5
+AssignTroll 14 29 
+JoinGroups 0 1
+GetStrongestTroll 22
+AssignTroll 38 16 
+AssignTroll 96 12 
+AssignTroll 68 15 
+JoinGroups 29 5
+GetNumOfTrollsInRange 15 36
+GetNumOfTrollsInRange 62 200
+JoinGroups 22 16
+GetStrongestTroll 21
+GetStrongestTroll 5
+AssignTroll 26 13 
+AddTroll 55 90
+GetGroup 32
+AssignTroll 7 29 
+GetStrongestTroll 20
+GetGroup 16
+AddTroll 48 7
+AddTroll 37 65
+GetNumOfTrollsInRange 40 112
+JoinGroups 24 0
+GetGroup 64
+GetStrongestTroll 12
+GetStrongestTroll 13
+GetGroup 57
+GetStrongestTroll 20
+AssignTroll 75 28 
+AssignTroll 44 14 
+AssignTroll 4 26 
+GetGroup 30
+GetNumOfTrollsInRange 85 181
+AssignTroll 28 10 
+GetNumOfTrollsInRange 10 33
+JoinGroups 13 23
+JoinGroups 19 16
+AssignTroll 96 6 
+JoinGroups 16 8
+GetNumOfTrollsInRange 88 284
+AddTroll 38 33
+GetGroup 57
+JoinGroups 3 2
+AddTroll 58 28
+GetStrongestTroll 15
+AddTroll 82 60
+JoinGroups 0 26
+GetGroup 64
+GetGroup 13
+AddTroll 1 82
+GetGroup 80
+AssignTroll 34 26 
+AssignTroll 19 28 
+GetGroup 0
+GetGroup 61
+JoinGroups 9 2
+AddTroll 80 60
+GetNumOfTrollsInRange 18 223
+AddTroll 80 53
+JoinGroups 9 5
+GetStrongestTroll 5
+AddTroll 92 96
+GetGroup 45
+GetStrongestTroll 17
+AddTroll 37 30
+AssignTroll 66 7 
+JoinGroups 9 1
+GetNumOfTrollsInRange 15 210
+GetNumOfTrollsInRange 54 200
+AddTroll 80 82
+GetNumOfTrollsInRange 94 76
+GetGroup 46
+GetGroup 46
+JoinGroups 2 22
+GetGroup 68
+JoinGroups 25 10
+GetGroup 48
+GetNumOfTrollsInRange 68 262
+GetStrongestTroll 12
+GetNumOfTrollsInRange 25 280
+GetGroup 91
+GetNumOfTrollsInRange 52 236
+AddTroll 68 7
+GetGroup 6
+GetGroup 23
+GetGroup 32
+AssignTroll 50 5 
+AddTroll 15 81
+AddTroll 14 4
+AssignTroll 62 26 
+AddTroll 45 50
+AddTroll 65 13
+GetNumOfTrollsInRange 46 100
+AddTroll 26 0
+GetNumOfTrollsInRange 26 252
+AssignTroll 17 20 
+GetGroup 30
+JoinGroups 8 24
+AddTroll 83 95
+AddTroll 61 7
+GetGroup 12
+JoinGroups 3 25
+AddTroll 74 34
+GetNumOfTrollsInRange 38 214
+GetNumOfTrollsInRange 40 75
+GetStrongestTroll 6
+GetGroup 44
+AssignTroll 21 13 
+AddTroll 50 83
+AssignTroll 34 26 
+AddTroll 21 0
+AssignTroll 27 8 
+AssignTroll 92 20 
+AssignTroll 30 4 
+AddTroll 31 13
+AssignTroll 95 14 
+GetStrongestTroll 1
+AddTroll 92 72
+GetStrongestTroll 7
+JoinGroups 24 28
+GetStrongestTroll 29
+JoinGroups 9 29
+GetGroup 23
+AssignTroll 52 10 
+GetGroup 88
+GetGroup 66
+JoinGroups 15 9
+AssignTroll 65 22 
+JoinGroups 3 23
+GetStrongestTroll 25
+JoinGroups 16 15
+AddTroll 55 64
+AddTroll 69 88
+GetStrongestTroll 21
+JoinGroups 6 13
+AssignTroll 1 28 
+GetStrongestTroll 17
+GetNumOfTrollsInRange 68 51
+GetNumOfTrollsInRange 6 56
+GetNumOfTrollsInRange 16 143
+AddTroll 22 35
+GetNumOfTrollsInRange 85 150
+GetStrongestTroll 2
+GetGroup 0
+GetGroup 33
+JoinGroups 20 11
+JoinGroups 1 4
+AddTroll 31 30
+AddTroll 45 47
+GetStrongestTroll 20
+JoinGroups 17 22
+AssignTroll 75 15 
+GetStrongestTroll 22
+GetStrongestTroll 11
+GetNumOfTrollsInRange 15 289
+GetStrongestTroll 15
+GetStrongestTroll 1
+GetNumOfTrollsInRange 8 224
+GetNumOfTrollsInRange 98 234
+JoinGroups 7 16
+AssignTroll 53 13 
+GetStrongestTroll 25
+GetNumOfTrollsInRange 17 96
+AssignTroll 65 15 
+GetNumOfTrollsInRange 19 38
+AddTroll 22 30
+JoinGroups 18 8
+AddTroll 56 50
+AddTroll 78 51
+GetGroup 87
+JoinGroups 22 6
+AddTroll 13 25
+GetNumOfTrollsInRange 57 192
+GetNumOfTrollsInRange 90 155
+GetStrongestTroll 13
+JoinGroups 5 14
+GetStrongestTroll 16
+AssignTroll 90 22 
+GetNumOfTrollsInRange 87 213
+JoinGroups 25 29
+AddTroll 2 55
+JoinGroups 29 11
+JoinGroups 3 28
+GetNumOfTrollsInRange 50 284
+GetNumOfTrollsInRange 81 252
+AddTroll 64 73
+GetGroup 82
+JoinGroups 23 17
+JoinGroups 2 12
+JoinGroups 16 12
+GetGroup 68
+GetGroup 60
+JoinGroups 0 10
+AssignTroll 59 16 
+AssignTroll 42 17 
+GetGroup 55
+JoinGroups 19 14
+GetGroup 39
+AssignTroll 63 27 
+GetNumOfTrollsInRange 99 176
+JoinGroups 1 2
+GetGroup 39
+AssignTroll 18 28 
+GetStrongestTroll 7
+JoinGroups 13 10
+AssignTroll 16 8 
+AssignTroll 27 2 
+AssignTroll 24 20 
+AddTroll 53 26
+AssignTroll 97 6 
+GetNumOfTrollsInRange 29 92
+GetGroup 60
+AssignTroll 8 6 
+AssignTroll 13 18 
+JoinGroups 19 11
+GetGroup 41
+GetGroup 37
+GetGroup 37
+GetGroup 9
+GetStrongestTroll 17
+GetGroup 88
+GetGroup 94
+JoinGroups 3 18
+AssignTroll 40 25 
+GetNumOfTrollsInRange 45 244
+GetNumOfTrollsInRange 23 262
+AssignTroll 24 22 
+AddTroll 40 8
+GetStrongestTroll 27
+GetNumOfTrollsInRange 91 92
+GetNumOfTrollsInRange 58 282
+AssignTroll 29 21 
+JoinGroups 6 23
+GetStrongestTroll 11
+GetGroup 39
+GetNumOfTrollsInRange 45 237
+AssignTroll 52 8 
+GetNumOfTrollsInRange 88 201
+JoinGroups 13 1
+AssignTroll 47 3 
+GetStrongestTroll 15
+AssignTroll 82 14 
+JoinGroups 6 3
+JoinGroups 17 10
+JoinGroups 4 5
+GetStrongestTroll 16
+GetNumOfTrollsInRange 10 181
+GetNumOfTrollsInRange 31 294
+JoinGroups 22 0
+GetStrongestTroll 16
+AssignTroll 39 6 
+GetStrongestTroll 15
+GetGroup 48
+GetGroup 82
+AddTroll 31 54
+GetNumOfTrollsInRange 14 237
+AddTroll 89 69
+AddTroll 87 73
+GetGroup 83
+JoinGroups 0 21
+AssignTroll 40 24 
+AssignTroll 78 6 
+JoinGroups 12 20
+GetNumOfTrollsInRange 40 237
+GetNumOfTrollsInRange 16 97
+GetStrongestTroll 7
+GetNumOfTrollsInRange 77 176
+GetStrongestTroll 22
+GetGroup 74
+GetStrongestTroll 28
+GetGroup 74
+JoinGroups 21 2
+AddTroll 90 1
+AssignTroll 12 4 
+GetStrongestTroll 17
+AssignTroll 8 8 
+GetStrongestTroll 3
+AddTroll 76 15
+GetNumOfTrollsInRange 38 113
+GetNumOfTrollsInRange 48 250
+GetNumOfTrollsInRange 0 16
+GetGroup 57
+GetStrongestTroll 23
+AddTroll 30 93
+AssignTroll 82 15 
+GetGroup 87
+GetNumOfTrollsInRange 43 171
+GetGroup 91
+GetStrongestTroll 12
+GetNumOfTrollsInRange 60 210
+GetNumOfTrollsInRange 23 114
+JoinGroups 19 14
+GetNumOfTrollsInRange 13 64
+JoinGroups 23 23
+AssignTroll 55 15 
+GetStrongestTroll 3
+AddTroll 35 56
+GetGroup 55
+JoinGroups 18 0
+GetNumOfTrollsInRange 17 152
+AddTroll 96 66
+AssignTroll 52 19 
+GetNumOfTrollsInRange 6 78
+JoinGroups 17 0
+GetNumOfTrollsInRange 64 104
+GetGroup 60
+AddTroll 23 46
+AddTroll 22 19
+AssignTroll 55 0 
+GetGroup 97
+GetNumOfTrollsInRange 11 274
+AssignTroll 39 18 
+GetGroup 16
+JoinGroups 17 26
+JoinGroups 16 15
+AssignTroll 3 24 
+GetGroup 89
+GetGroup 28
+AddTroll 90 98
+GetGroup 59
+GetNumOfTrollsInRange 56 185
+GetNumOfTrollsInRange 1 253
+GetNumOfTrollsInRange 88 269
+GetStrongestTroll 29
+GetGroup 37
+AddTroll 6 37
+AddTroll 72 96
+JoinGroups 3 15
+GetStrongestTroll 14
+GetGroup 5
+AddTroll 76 9
+GetNumOfTrollsInRange 56 181
+GetNumOfTrollsInRange 22 183
+GetStrongestTroll 4
+GetNumOfTrollsInRange 95 209
+AssignTroll 68 23 
+GetNumOfTrollsInRange 40 110
+GetStrongestTroll 0
+GetStrongestTroll 18
+GetNumOfTrollsInRange 55 80
+GetStrongestTroll 8
+GetNumOfTrollsInRange 64 224
+GetNumOfTrollsInRange 1 58
+AddTroll 60 76
+AddTroll 33 20
+AddTroll 44 55
+AddTroll 29 81
+GetStrongestTroll 8
+JoinGroups 6 28
+AddTroll 66 8
+GetNumOfTrollsInRange 94 146
+GetStrongestTroll 2
+AssignTroll 88 26 
+GetGroup 93
+JoinGroups 17 1
+GetNumOfTrollsInRange 9 61
+JoinGroups 29 25
+JoinGroups 6 17
+AssignTroll 15 15 
+JoinGroups 4 29
+GetStrongestTroll 9
+AssignTroll 94 6 
+GetGroup 50
+AddTroll 94 26
+AssignTroll 77 7 
+AssignTroll 94 10 
+GetGroup 92
+AddTroll 3 89
+AddTroll 35 27
+AddTroll 67 76
+AssignTroll 50 24 
+GetStrongestTroll 23
+GetNumOfTrollsInRange 0 203
+AddTroll 68 49
+JoinGroups 10 8
+GetGroup 45
+GetStrongestTroll 0
+JoinGroups 10 22
+JoinGroups 6 19
+GetNumOfTrollsInRange 64 283
+GetStrongestTroll 15
+GetGroup 20
+JoinGroups 8 22
+GetGroup 63
+JoinGroups 2 9
+AssignTroll 33 21 
+AddTroll 37 99
+AddTroll 36 16
+JoinGroups 25 11
+AssignTroll 78 3 
+GetNumOfTrollsInRange 50 290
+AssignTroll 42 29 
+GetGroup 1
+GetStrongestTroll 7
+GetStrongestTroll 16
+GetNumOfTrollsInRange 20 134
+AddTroll 71 93
+AddTroll 20 85
+GetGroup 15
+AddTroll 84 78
+GetStrongestTroll 0
+AssignTroll 5 12 
+JoinGroups 25 22
+JoinGroups 27 12
+AssignTroll 17 16 
+GetStrongestTroll 25
+AddTroll 36 12
+GetNumOfTrollsInRange 34 289
+GetStrongestTroll 14
+JoinGroups 22 6
+GetStrongestTroll 28
+AddTroll 47 35
+AssignTroll 29 25 
+GetStrongestTroll 0
+GetNumOfTrollsInRange 35 297
+AddTroll 23 53
+GetStrongestTroll 7
+GetNumOfTrollsInRange 39 86
+GetNumOfTrollsInRange 61 83
+JoinGroups 24 21
+AddTroll 43 43
+GetGroup 21
+AssignTroll 13 20 
+AssignTroll 89 17 
+GetStrongestTroll 21
+GetNumOfTrollsInRange 35 218
+GetStrongestTroll 29
+GetNumOfTrollsInRange 88 270
+GetStrongestTroll 29
+AddTroll 86 30
+GetNumOfTrollsInRange 41 220
+AssignTroll 60 7 
+GetStrongestTroll 18
+GetStrongestTroll 26
+GetGroup 12
+AssignTroll 35 3 
+GetNumOfTrollsInRange 47 90
+JoinGroups 16 18
+JoinGroups 25 19
+JoinGroups 18 1
+AssignTroll 44 10 
+GetStrongestTroll 24
+GetGroup 27
+GetStrongestTroll 26
+GetStrongestTroll 7
+JoinGroups 19 7
+AddTroll 73 60
+GetNumOfTrollsInRange 17 284
+GetStrongestTroll 4
+GetNumOfTrollsInRange 30 69
+GetStrongestTroll 28
+AddTroll 11 8
+GetGroup 22
+AssignTroll 56 10 
+AddTroll 60 48
+AddTroll 6 48
+GetNumOfTrollsInRange 72 110
+AddTroll 51 84
+AssignTroll 20 21 
+AddTroll 35 89
+AddTroll 47 97
+GetNumOfTrollsInRange 86 216
+AddTroll 1 9
+JoinGroups 29 7
+GetNumOfTrollsInRange 1 89
+GetNumOfTrollsInRange 72 285
+GetGroup 49
+GetNumOfTrollsInRange 66 172
+JoinGroups 3 6
+JoinGroups 15 5
+JoinGroups 14 8
+JoinGroups 13 29
+GetGroup 97
+JoinGroups 16 27
+GetStrongestTroll 28
+JoinGroups 28 23
+AssignTroll 32 0 
+TeamUpgrade 28 1
+GetGroup 95
+GetNumOfTrollsInRange 53 221
+GetStrongestTroll 23
+GetNumOfTrollsInRange 33 179
+GetNumOfTrollsInRange 88 94
+AddTroll 58 1
+AddTroll 58 57
+AddTroll 2 18
+GetStrongestTroll 15
+AddTroll 79 23
+GetStrongestTroll 29
+AddTroll 5 79
+GetNumOfTrollsInRange 93 129
+GetGroup 44
+GetStrongestTroll 17
+GetNumOfTrollsInRange 51 255
+GetStrongestTroll 13
+GetStrongestTroll 5
+AddTroll 2 66
+AssignTroll 62 24 
+AssignTroll 68 16 
+GetStrongestTroll 27
+GetStrongestTroll 15
+AddTroll 31 48
+AddTroll 44 93
+AddTroll 44 68
+JoinGroups 21 9
+AddTroll 88 55
+AssignTroll 24 27 
+GetNumOfTrollsInRange 81 212
+GetNumOfTrollsInRange 61 216
+JoinGroups 24 26
+JoinGroups 9 22
+GetStrongestTroll 19
+JoinGroups 22 4
+GetNumOfTrollsInRange 74 102
+JoinGroups 1 3
+GetStrongestTroll 17
+AssignTroll 25 27 
+GetGroup 69
+JoinGroups 10 7
+JoinGroups 8 22
+GetNumOfTrollsInRange 64 167
+GetNumOfTrollsInRange 82 143
+GetGroup 22
+GetStrongestTroll 14
+GetNumOfTrollsInRange 29 241
+JoinGroups 14 29
+JoinGroups 18 13
+AddTroll 54 70
+AssignTroll 18 18 
+AddTroll 56 8
+GetGroup 45
+AssignTroll 96 19 
+AssignTroll 40 10 
+GetGroup 0
+GetNumOfTrollsInRange 70 78
+AssignTroll 92 19 
+GetStrongestTroll 14
+GetNumOfTrollsInRange 62 163
+AddTroll 49 24
+GetStrongestTroll 19
+JoinGroups 10 23
+GetStrongestTroll 9
+JoinGroups 13 28
+JoinGroups 0 6
+AddTroll 65 61
+GetStrongestTroll 5
+GetNumOfTrollsInRange 48 179
+GetStrongestTroll 17
+AssignTroll 83 3 
+AssignTroll 77 26 
+GetNumOfTrollsInRange 75 76
+AddTroll 32 87
+GetNumOfTrollsInRange 98 245
+AssignTroll 95 26 
+GetStrongestTroll 17
+GetNumOfTrollsInRange 58 160
+GetNumOfTrollsInRange 50 259
+GetStrongestTroll 29
+AddTroll 33 28
+GetGroup 36
+AssignTroll 56 3 
+AssignTroll 73 19 
+AssignTroll 21 0 
+GetNumOfTrollsInRange 77 170
+GetGroup 88
+GetStrongestTroll 29
+AssignTroll 15 22 
+JoinGroups 15 25
+JoinGroups 9 16
+GetNumOfTrollsInRange 89 32
+GetGroup 24
+GetNumOfTrollsInRange 71 79
+JoinGroups 5 9
+JoinGroups 1 29
+GetGroup 11
+AssignTroll 19 2 
+AddTroll 9 86
+GetStrongestTroll 7
+AddTroll 5 74
+GetNumOfTrollsInRange 6 252
+GetStrongestTroll 26
+JoinGroups 19 15
+AssignTroll 20 24 
+AddTroll 96 19
+AssignTroll 96 13 
+GetStrongestTroll 8
+AssignTroll 87 2 
+GetGroup 61
+GetStrongestTroll 0
+AddTroll 9 90
+GetGroup 5
+JoinGroups 1 7
+GetGroup 51
+AddTroll 84 43
+GetNumOfTrollsInRange 50 292
+AssignTroll 67 23 
+JoinGroups 6 7
+AssignTroll 67 21 
+GetGroup 59
+JoinGroups 1 6
+AddTroll 1 73
+GetGroup 11
+GetNumOfTrollsInRange 36 98
+GetNumOfTrollsInRange 35 88
+GetNumOfTrollsInRange 98 111
+AddTroll 48 10
+JoinGroups 7 28
+GetStrongestTroll 18
+GetGroup 9
+GetGroup 13
+GetStrongestTroll 19
+GetStrongestTroll 0
+JoinGroups 18 8
+GetStrongestTroll 3
+GetStrongestTroll 17
+GetGroup 59
+GetStrongestTroll 11
+AddTroll 20 5
+GetStrongestTroll 28
+AddTroll 70 35
+TeamUpgrade 28 0
+AssignTroll 70 26 
+GetGroup 91
+AssignTroll 41 8 
+AddTroll 67 91
+AddTroll 68 16
+JoinGroups 10 17
+GetGroup 21
+GetGroup 67
+GetNumOfTrollsInRange 91 297
+JoinGroups 1 20
+AddTroll 2 82
+JoinGroups 23 17
+GetStrongestTroll 16
+GetNumOfTrollsInRange 37 113
+AddTroll 77 58
+GetStrongestTroll 6
+GetNumOfTrollsInRange 84 267
+GetNumOfTrollsInRange 96 216
+AssignTroll 56 17 
+GetStrongestTroll 10
+JoinGroups 4 12
+AddTroll 27 44
+GetGroup 91
+GetStrongestTroll 10
+GetStrongestTroll 29
+AssignTroll 37 7 
+AddTroll 87 99
+GetGroup 98
+AddTroll 2 62
+AddTroll 74 6
+AddTroll 29 40
+AssignTroll 14 27 
+JoinGroups 27 8
+GetStrongestTroll 3
+GetGroup 76
+AssignTroll 14 21 
+GetNumOfTrollsInRange 12 166
+GetStrongestTroll 15
+AddTroll 31 22
+GetStrongestTroll 3
+AssignTroll 99 21 
+JoinGroups 13 21
+JoinGroups 8 22
+JoinGroups 19 28
+GetNumOfTrollsInRange 10 283
+GetGroup 40
+GetNumOfTrollsInRange 79 297
+GetNumOfTrollsInRange 88 217
+AssignTroll 44 14 
+AddTroll 76 93
+AddTroll 78 75
+GetStrongestTroll 26
+JoinGroups 11 3
+GetStrongestTroll 17
+GetGroup 26
+JoinGroups 11 24
+AssignTroll 52 6 
+GetNumOfTrollsInRange 27 95
+AssignTroll 69 3 
+GetStrongestTroll 18
+GetNumOfTrollsInRange 22 158
+GetStrongestTroll 4
+AssignTroll 18 14 
+GetStrongestTroll 0
+AssignTroll 0 6 
+GetStrongestTroll 6
+AssignTroll 73 9 
+JoinGroups 8 18
+GetStrongestTroll 1
+AssignTroll 81 0 
+GetStrongestTroll 23
+GetNumOfTrollsInRange 69 133
+AssignTroll 83 12 
+AssignTroll 66 13 
+AssignTroll 79 9 
+GetStrongestTroll 7
+GetStrongestTroll 21
+GetStrongestTroll 1
+AddTroll 10 2
+GetNumOfTrollsInRange 58 231
+GetNumOfTrollsInRange 16 280
+GetGroup 24
+GetGroup 14
+GetGroup 37
+GetNumOfTrollsInRange 51 68
+AssignTroll 23 11 
+GetGroup 24
+GetNumOfTrollsInRange 20 46
+GetStrongestTroll 24
+GetStrongestTroll 9
+GetStrongestTroll 12
+GetGroup 36
+GetStrongestTroll 26
+GetGroup 47
+JoinGroups 3 24
+GetGroup 4
+GetNumOfTrollsInRange 3 165
+GetNumOfTrollsInRange 78 204
+AddTroll 38 66
+GetNumOfTrollsInRange 70 31
+GetNumOfTrollsInRange 8 272
+AssignTroll 31 8 
+GetGroup 30
+JoinGroups 27 18
+GetNumOfTrollsInRange 19 45
+GetGroup 34
+AddTroll 42 12
+AddTroll 6 5
+GetNumOfTrollsInRange 33 255
+AddTroll 25 16
+AddTroll 78 36
+AssignTroll 56 17 
+GetNumOfTrollsInRange 53 37
+AssignTroll 50 2 
+GetGroup 29
+GetNumOfTrollsInRange 85 160
+AddTroll 12 37
+AddTroll 63 67
+JoinGroups 18 13
+GetStrongestTroll 29
+GetStrongestTroll 12
+JoinGroups 4 27
+AddTroll 85 97
+JoinGroups 24 29
+JoinGroups 7 10
+AddTroll 11 46
+JoinGroups 2 9
+AddTroll 22 82
+AssignTroll 59 21 
+GetNumOfTrollsInRange 42 133
+AddTroll 79 50
+AssignTroll 88 0 
+AssignTroll 92 0 
+GetGroup 78
+AddTroll 71 65
+AddTroll 1 31
+AddTroll 16 80
+AssignTroll 51 20 
+AddTroll 99 66
+GetNumOfTrollsInRange 3 75
+GetGroup 23
+JoinGroups 25 28
+JoinGroups 9 27
+JoinGroups 7 26
+AssignTroll 56 29 
+AssignTroll 73 23 
+GetNumOfTrollsInRange 36 78
+AddTroll 84 36
+JoinGroups 0 8
+GetStrongestTroll 21
+GetStrongestTroll 9
+AssignTroll 52 29 
+GetNumOfTrollsInRange 34 211
+GetGroup 88
+AssignTroll 32 29 
+GetGroup 47
+AddTroll 75 69
+GetNumOfTrollsInRange 55 93
+AssignTroll 23 22 
+AssignTroll 59 11 
+GetStrongestTroll 22
+AddTroll 77 65
+GetGroup 70
+JoinGroups 19 13
+GetGroup 8
+AssignTroll 72 9 
+GetGroup 46
+AddTroll 9 47
+JoinGroups 1 28
+GetNumOfTrollsInRange 11 227
+GetNumOfTrollsInRange 71 249
+AssignTroll 4 25 
+GetNumOfTrollsInRange 67 194
+AddTroll 26 43
+JoinGroups 13 6
+AssignTroll 13 23 
+GetGroup 25
+JoinGroups 15 18
+AssignTroll 83 0 
+GetGroup 75
+GetGroup 83
+GetGroup 1
+GetGroup 54
+GetGroup 38
+GetNumOfTrollsInRange 6 134
+GetGroup 4
+GetGroup 89
+GetNumOfTrollsInRange 96 110
+GetNumOfTrollsInRange 44 227
+GetGroup 38
+JoinGroups 4 11
+GetNumOfTrollsInRange 14 276
+JoinGroups 8 7
+AddTroll 62 9
+AddTroll 83 33
+AddTroll 73 50
+GetGroup 57
+GetNumOfTrollsInRange 86 96
+AssignTroll 81 18 
+GetNumOfTrollsInRange 99 171
+AddTroll 3 94
+GetNumOfTrollsInRange 86 246
+GetNumOfTrollsInRange 9 104
+GetGroup 94
+AssignTroll 93 8 
+AddTroll 89 21
+AddTroll 34 81
+GetStrongestTroll 14
+GetNumOfTrollsInRange 24 147
+GetGroup 81
+GetStrongestTroll 23
+GetStrongestTroll 6
+JoinGroups 14 29
+AddTroll 48 52
+AddTroll 71 51
+GetStrongestTroll 24
+GetNumOfTrollsInRange 99 10
+GetStrongestTroll 19
+GetStrongestTroll 19
+GetStrongestTroll 5
+AssignTroll 93 28 
+GetGroup 8
+GetStrongestTroll 17
+GetStrongestTroll 7
+GetGroup 20
+GetStrongestTroll 0
+GetStrongestTroll 25
+GetGroup 86
+JoinGroups 8 12
+AddTroll 0 45
+GetGroup 25
+AddTroll 36 17
+GetStrongestTroll 23
+GetGroup 89
+AddTroll 88 55
+JoinGroups 19 7
+AssignTroll 56 16 
+GetGroup 11
+AssignTroll 2 27 
+JoinGroups 29 18
+AssignTroll 98 20 
+JoinGroups 27 3
+GetStrongestTroll 17
+JoinGroups 15 24
+GetStrongestTroll 3
+AssignTroll 99 22 
+AddTroll 36 16
+GetGroup 2
+AssignTroll 83 22 
+GetNumOfTrollsInRange 24 130
+GetStrongestTroll 19
+GetNumOfTrollsInRange 6 108
+AssignTroll 14 19 
+JoinGroups 26 12
+JoinGroups 23 27
+GetStrongestTroll 24
+GetGroup 76
+GetNumOfTrollsInRange 92 166
+AssignTroll 0 1 
+AssignTroll 85 26 
+GetStrongestTroll 6
+GetNumOfTrollsInRange 14 108
+GetGroup 14
+JoinGroups 23 24
+AddTroll 40 42
+AddTroll 86 0
+GetNumOfTrollsInRange 86 115
+GetStrongestTroll 3
+AssignTroll 44 2 
+AddTroll 58 15
+JoinGroups 13 13
+JoinGroups 21 13
+GetNumOfTrollsInRange 49 19
+GetNumOfTrollsInRange 76 161
+GetNumOfTrollsInRange 7 27
+AssignTroll 90 9 
+AssignTroll 46 10 
+AddTroll 7 91
+GetGroup 9
+GetStrongestTroll 26
+AssignTroll 74 10 
+GetStrongestTroll 24
+GetStrongestTroll 0
+AddTroll 74 81
+AssignTroll 84 29 
+GetNumOfTrollsInRange 70 267
+GetGroup 59
+GetNumOfTrollsInRange 9 60
+GetNumOfTrollsInRange 2 245
+AssignTroll 65 1 
+AssignTroll 58 13 
+AssignTroll 89 12 
+AssignTroll 41 9 
+GetStrongestTroll 21
+GetStrongestTroll 23
+GetGroup 91
+AssignTroll 46 3 
+JoinGroups 23 28
+GetStrongestTroll 15
+JoinGroups 20 3
+AddTroll 22 6
+GetNumOfTrollsInRange 43 138
+AddTroll 96 56
+GetNumOfTrollsInRange 17 293
+AssignTroll 16 9 
+AssignTroll 62 13 
+GetGroup 82
+GetGroup 64
+GetNumOfTrollsInRange 9 104
+GetNumOfTrollsInRange 64 270
+GetGroup 75
+AddTroll 51 56
+AssignTroll 88 20 
+GetStrongestTroll 22
+GetStrongestTroll 21
+AssignTroll 71 25 
+GetStrongestTroll 18
+AddTroll 1 1
+AddTroll 36 25
+AddTroll 87 31
+GetNumOfTrollsInRange 58 181
+GetStrongestTroll 27
+AddTroll 35 17
+GetStrongestTroll 22
+AssignTroll 12 8 
+GetNumOfTrollsInRange 12 100
+GetNumOfTrollsInRange 58 205
+GetStrongestTroll 8
+GetGroup 59
+GetGroup 96
+GetStrongestTroll 8
+GetStrongestTroll 15
+GetGroup 84
+JoinGroups 14 8
+AssignTroll 50 27 
+AddTroll 59 2
+GetStrongestTroll 4
+GetGroup 86
+GetStrongestTroll 4
+AddTroll 10 43
+JoinGroups 12 3
+AssignTroll 1 25 
+AddTroll 22 1
+JoinGroups 25 29
+AssignTroll 32 19 
+AssignTroll 66 8 
+GetStrongestTroll 12
+GetStrongestTroll 0
+GetNumOfTrollsInRange 6 21
+JoinGroups 18 20
+GetGroup 91
+AssignTroll 16 14 
+JoinGroups 29 8
+GetGroup 97
+GetNumOfTrollsInRange 11 212
+GetNumOfTrollsInRange 99 242
+GetStrongestTroll 23
+JoinGroups 6 16
+AddTroll 50 54
+AddTroll 45 81
+AddTroll 84 18
+JoinGroups 3 16
+AddTroll 30 46
+AssignTroll 4 15 
+AssignTroll 97 17 
+AddTroll 22 11
+AddTroll 85 22
+GetStrongestTroll 6
+AddTroll 55 71
+JoinGroups 29 4
+GetNumOfTrollsInRange 72 271
+GetGroup 99
+GetGroup 98
+AssignTroll 88 6 
+JoinGroups 17 16
+AssignTroll 27 13 
+GetNumOfTrollsInRange 67 195
+AddTroll 3 11
+GetNumOfTrollsInRange 63 95
+AssignTroll 51 0 
+AddTroll 88 10
+AssignTroll 67 0 
+AddTroll 74 62
+GetStrongestTroll 16
+AddTroll 94 10
+AddTroll 53 94
+GetNumOfTrollsInRange 83 236
+AddTroll 68 25
+GetStrongestTroll 18
+GetStrongestTroll 29
+GetNumOfTrollsInRange 45 54
+AssignTroll 10 9 
+GetGroup 50
+GetGroup 8
+JoinGroups 8 28
+GetGroup 87
+JoinGroups 2 8
+AddTroll 47 4
+AssignTroll 42 3 
+GetGroup 2
+AddTroll 28 67
+GetStrongestTroll 22
+AddTroll 77 61
+GetNumOfTrollsInRange 39 144
+GetStrongestTroll 29
+GetStrongestTroll 27
+GetGroup 95
+GetGroup 37
+JoinGroups 2 16
+AddTroll 35 59
+GetGroup 89
+GetStrongestTroll 18
+AddTroll 60 38
+GetNumOfTrollsInRange 54 165
+GetNumOfTrollsInRange 62 278
+GetGroup 16
+AssignTroll 0 4 
+AddTroll 42 87
+GetStrongestTroll 17
+JoinGroups 12 15
+GetStrongestTroll 14
+JoinGroups 26 21
+AddTroll 89 47
+GetNumOfTrollsInRange 21 72
+GetStrongestTroll 21
+JoinGroups 15 6
+GetGroup 98
+GetStrongestTroll 4
+GetGroup 87
+JoinGroups 17 13
+AddTroll 14 24
+AddTroll 76 37
+GetStrongestTroll 13
+GetStrongestTroll 14
+AssignTroll 76 3 
+AssignTroll 61 27 
+JoinGroups 22 10
+AddTroll 41 29
+GetNumOfTrollsInRange 54 91
+JoinGroups 17 14
+JoinGroups 24 11
+JoinGroups 14 2
+JoinGroups 26 0
+GetNumOfTrollsInRange 46 241
+GetGroup 45
+JoinGroups 8 26
+GetNumOfTrollsInRange 34 230
+GetGroup 84
+GetStrongestTroll 0
+GetStrongestTroll 18
+GetStrongestTroll 7
+GetNumOfTrollsInRange 79 29
+GetGroup 43
+AddTroll 51 96
+JoinGroups 9 2
+AddTroll 67 40
+GetStrongestTroll 1
+GetStrongestTroll 22
+GetGroup 74
+GetGroup 26
+JoinGroups 28 0
+AddTroll 87 42
+GetGroup 87
+JoinGroups 4 14
+GetStrongestTroll 0
+AssignTroll 58 0 
+GetNumOfTrollsInRange 29 136
+GetStrongestTroll 19
+JoinGroups 27 18
+JoinGroups 29 12
+GetStrongestTroll 5
+AssignTroll 12 19 
+JoinGroups 11 12
+GetGroup 36
+GetNumOfTrollsInRange 51 71
+JoinGroups 7 1
+JoinGroups 9 29
+AssignTroll 73 11 
+JoinGroups 21 8
+GetStrongestTroll 16
+AssignTroll 33 3 
+GetNumOfTrollsInRange 37 82
+JoinGroups 10 0
+AddTroll 39 68
+AssignTroll 86 8 
+GetNumOfTrollsInRange 26 224
+JoinGroups 17 24
+AssignTroll 45 6 
+GetStrongestTroll 14
+AddTroll 54 53
+AssignTroll 57 10 
+AssignTroll 41 9 
+AssignTroll 73 20 
+GetStrongestTroll 25
+JoinGroups 6 12
+AssignTroll 54 0 
+GetStrongestTroll 10
+GetNumOfTrollsInRange 71 108
+GetGroup 38
+JoinGroups 5 21
+GetNumOfTrollsInRange 32 88
+AddTroll 53 58
+GetGroup 38
+GetNumOfTrollsInRange 65 165
+JoinGroups 14 6
+GetNumOfTrollsInRange 97 245
+AddTroll 12 84
+AssignTroll 12 5 
+AssignTroll 84 23 
+JoinGroups 8 17
+AssignTroll 21 15 
+JoinGroups 10 12
+AssignTroll 74 8 
+AssignTroll 27 3 
+AssignTroll 43 6 
+GetGroup 28
+AddTroll 12 16
+AssignTroll 41 5 
+JoinGroups 20 29
+GetStrongestTroll 8
+GetNumOfTrollsInRange 91 133
+JoinGroups 21 0
+GetStrongestTroll 4
+GetNumOfTrollsInRange 9 195
+AddTroll 69 60
+GetNumOfTrollsInRange 47 55
+AddTroll 77 0
+GetNumOfTrollsInRange 56 244
+AssignTroll 78 11 
+AddTroll 75 81
+GetStrongestTroll 29
+AssignTroll 4 22 
+JoinGroups 15 17
+AddTroll 84 50
+GetNumOfTrollsInRange 78 192
+AssignTroll 8 29 
+GetNumOfTrollsInRange 63 179
+GetNumOfTrollsInRange 11 207
+AssignTroll 35 3 
+GetNumOfTrollsInRange 0 243
+GetStrongestTroll 23
+GetStrongestTroll 24
+AddTroll 6 67
+GetGroup 88
+AddTroll 45 18
+AssignTroll 85 3 
+JoinGroups 18 22
+GetGroup 12
+GetStrongestTroll 3
+AssignTroll 3 17 
+GetStrongestTroll 12
+GetNumOfTrollsInRange 35 270
+AddTroll 77 9
+AssignTroll 37 2 
+AssignTroll 34 5 
+GetStrongestTroll 28
+GetStrongestTroll 0
+JoinGroups 21 24
+GetNumOfTrollsInRange 41 205
+JoinGroups 23 19
+GetStrongestTroll 6
+AssignTroll 14 22 
+AssignTroll 95 3 
+GetGroup 17
+GetNumOfTrollsInRange 92 203
+JoinGroups 5 9
+GetNumOfTrollsInRange 16 150
+JoinGroups 21 28
+GetStrongestTroll 12
+AddTroll 53 10
+JoinGroups 24 23
+AddTroll 58 82
+GetNumOfTrollsInRange 28 102
+GetGroup 59
+GetNumOfTrollsInRange 35 262
+AssignTroll 37 8 
+AddTroll 89 64
+GetNumOfTrollsInRange 63 218
+AssignTroll 86 27 
+GetNumOfTrollsInRange 23 276
+GetStrongestTroll 13
+GetStrongestTroll 7
+JoinGroups 19 9
+AssignTroll 80 6 
+GetNumOfTrollsInRange 91 115
+GetNumOfTrollsInRange 4 239
+AssignTroll 68 29 
+GetNumOfTrollsInRange 14 153
+JoinGroups 16 25
+AssignTroll 66 1 
+JoinGroups 16 29
+GetStrongestTroll 0
+AddTroll 4 54
+GetStrongestTroll 7
+GetNumOfTrollsInRange 37 184
+AddTroll 99 46
+JoinGroups 12 20
+JoinGroups 29 9
+GetStrongestTroll 23
+AddTroll 89 84
+GetNumOfTrollsInRange 97 279
+GetGroup 41
+GetStrongestTroll 1
+AssignTroll 2 12 
+GetGroup 0
+AddTroll 22 25
+GetNumOfTrollsInRange 11 61
+AddTroll 29 43
+GetStrongestTroll 14
+GetGroup 9
+AddTroll 14 49
+AssignTroll 86 5 
+JoinGroups 2 24
+JoinGroups 12 2
+GetNumOfTrollsInRange 54 61
+GetNumOfTrollsInRange 68 248
+GetGroup 74
+AssignTroll 69 28 
+GetStrongestTroll 18
+GetNumOfTrollsInRange 52 106
+GetGroup 12
+AssignTroll 3 1 
+GetGroup 26
+AddTroll 30 40
+GetNumOfTrollsInRange 48 88
+GetStrongestTroll 16
+GetGroup 6
+AddTroll 9 73
+GetStrongestTroll 29
+AddTroll 77 20
+AddTroll 60 16
+GetGroup 41
+AssignTroll 43 14 
+JoinGroups 8 17
+AddTroll 48 53
+GetStrongestTroll 20
+AssignTroll 37 17 
+GetGroup 44
+JoinGroups 16 13
+GetNumOfTrollsInRange 51 3
+GetGroup 99
+GetStrongestTroll 12
+GetGroup 50
+GetGroup 31
+AssignTroll 2 15 
+GetStrongestTroll 25
+AssignTroll 14 28 
+AssignTroll 93 3 
+AddTroll 45 14
+GetGroup 4
+AddTroll 53 1
+GetNumOfTrollsInRange 89 161
+GetNumOfTrollsInRange 49 141
+GetStrongestTroll 17
+GetNumOfTrollsInRange 47 56
+GetGroup 1
+GetStrongestTroll 5
+GetGroup 94
+GetNumOfTrollsInRange 53 214
+GetStrongestTroll 19
+GetGroup 60
+AssignTroll 48 24 
+GetGroup 15
+GetStrongestTroll 7
+GetNumOfTrollsInRange 12 39
+GetGroup 31
+GetStrongestTroll 5
+AddTroll 28 81
+AssignTroll 34 4 
+JoinGroups 18 18
+JoinGroups 5 10
+AddTroll 72 29
+JoinGroups 1 3
+JoinGroups 22 22
+AssignTroll 70 27 
+AddTroll 15 72
+GetGroup 79
+AssignTroll 84 2 
+AddTroll 39 69
+AddTroll 12 67
+AssignTroll 62 4 
+GetStrongestTroll 29
+GetNumOfTrollsInRange 46 177
+GetStrongestTroll 0
+GetStrongestTroll 12
+GetStrongestTroll 21
+AssignTroll 78 4 
+AssignTroll 94 5 
+AssignTroll 23 4 
+GetNumOfTrollsInRange 15 88
+JoinGroups 14 27
+GetGroup 81
+GetGroup 87
+JoinGroups 25 18
+GetStrongestTroll 7
+GetNumOfTrollsInRange 48 144
+AssignTroll 14 17 
+AssignTroll 49 27 
+JoinGroups 29 22
+JoinGroups 13 23
+GetStrongestTroll 23
+GetStrongestTroll 29
+AssignTroll 83 12 
+AddTroll 95 78
+GetStrongestTroll 6
+AssignTroll 35 18 
+AssignTroll 97 0 
+GetStrongestTroll 26
+JoinGroups 28 24
+GetGroup 3
+GetNumOfTrollsInRange 37 117
+GetStrongestTroll 14
+JoinGroups 19 10
+GetGroup 40
+GetNumOfTrollsInRange 95 191
+AddTroll 27 61
+GetGroup 14
+GetNumOfTrollsInRange 66 172
+GetGroup 88
+AddTroll 8 18
+GetGroup 87
+AssignTroll 80 17 
+JoinGroups 11 15
+AssignTroll 78 2 
+JoinGroups 18 25
+AssignTroll 36 19 
+GetNumOfTrollsInRange 51 96
+AddTroll 11 28
+GetGroup 2
+GetGroup 89
+GetNumOfTrollsInRange 8 165
+AddTroll 24 24
+JoinGroups 22 11
+GetNumOfTrollsInRange 7 272
+GetStrongestTroll 6
+GetGroup 65
+AssignTroll 26 10 
+GetNumOfTrollsInRange 91 195
+JoinGroups 2 22
+GetNumOfTrollsInRange 41 150
+GetNumOfTrollsInRange 10 242
+AssignTroll 23 22 
+GetNumOfTrollsInRange 42 90
+GetStrongestTroll 3
+GetGroup 85
+AssignTroll 16 4 
+GetNumOfTrollsInRange 20 260
+GetStrongestTroll 22
+GetNumOfTrollsInRange 95 84
+GetGroup 57
+GetNumOfTrollsInRange 73 59
+GetNumOfTrollsInRange 23 253
+AddTroll 69 30
+AssignTroll 71 14 
+AssignTroll 0 9 
+GetStrongestTroll 6
+JoinGroups 3 10
+GetStrongestTroll 15
+GetStrongestTroll 25
+GetGroup 80
+GetNumOfTrollsInRange 51 77
+AssignTroll 2 3 
+GetNumOfTrollsInRange 55 133
+JoinGroups 8 12
+JoinGroups 4 21
+AssignTroll 2 9 
+JoinGroups 24 5
+GetStrongestTroll 16
+AssignTroll 15 11 
+GetGroup 23
+AssignTroll 20 3 
+GetNumOfTrollsInRange 12 141
+AssignTroll 18 3 
+GetStrongestTroll 12
+AssignTroll 81 6 
+AddTroll 61 98
+GetGroup 83
+AddTroll 62 13
+GetGroup 32
+GetStrongestTroll 1
+GetStrongestTroll 6
+GetNumOfTrollsInRange 72 157
+JoinGroups 2 11
+GetGroup 16
+GetGroup 75
+GetGroup 66
+GetNumOfTrollsInRange 46 281
+GetStrongestTroll 11
+JoinGroups 21 29
+GetStrongestTroll 22
+GetNumOfTrollsInRange 10 257
+GetStrongestTroll 1
+JoinGroups 16 6
+GetStrongestTroll 18
+AssignTroll 62 17 
+JoinGroups 23 1
+AddTroll 22 41
+AddTroll 85 91
+GetNumOfTrollsInRange 61 152
+GetGroup 98
+JoinGroups 15 16
+AddTroll 17 2
+AssignTroll 77 28 
+AddTroll 24 3
+JoinGroups 14 26
+GetStrongestTroll 3
+GetGroup 57
+GetStrongestTroll 29
+GetStrongestTroll 4
+GetStrongestTroll 6
+AddTroll 20 82
+AddTroll 18 3
+GetStrongestTroll 0
+GetGroup 27
+GetStrongestTroll 13
+GetStrongestTroll 25
+GetNumOfTrollsInRange 83 124
+AddTroll 2 5
+GetStrongestTroll 13
+AssignTroll 18 16 
+AddTroll 12 39
+GetGroup 50
+AssignTroll 83 22 
+JoinGroups 14 1
+JoinGroups 26 22
+JoinGroups 17 5
+GetStrongestTroll 11
+GetNumOfTrollsInRange 84 246
+AddTroll 65 87
+JoinGroups 6 24
+GetGroup 46
+AssignTroll 39 7 
+AddTroll 39 4
+GetGroup 69
+AddTroll 73 47
+AssignTroll 9 11 
+AddTroll 81 4
+AddTroll 75 6
+GetStrongestTroll 0
+GetStrongestTroll 3
+GetNumOfTrollsInRange 44 214
+AssignTroll 39 20 
+AddTroll 9 48
+AssignTroll 61 10 
+GetStrongestTroll 0
+GetGroup 18
+GetNumOfTrollsInRange 42 81
+GetStrongestTroll 24
+GetStrongestTroll 6
+AddTroll 54 22
+JoinGroups 25 10
+GetGroup 7
+GetNumOfTrollsInRange 58 166
+GetStrongestTroll 16
+AddTroll 83 98
+JoinGroups 17 24
+AssignTroll 69 9 
+AddTroll 0 56
+GetGroup 13
+GetGroup 54
+AssignTroll 56 8 
+AddTroll 86 88
+JoinGroups 0 17
+GetGroup 50
+GetNumOfTrollsInRange 16 57
+GetNumOfTrollsInRange 3 15
+JoinGroups 9 27
+GetNumOfTrollsInRange 74 200
+JoinGroups 8 27
+AddTroll 88 73
+AssignTroll 4 14 
+AssignTroll 0 5 
+AddTroll 91 40
+AddTroll 90 71
+GetStrongestTroll 8
+AddTroll 80 54
+JoinGroups 5 7
+GetGroup 93
+AssignTroll 63 20 
+AssignTroll 15 5 
+GetStrongestTroll 12
+JoinGroups 4 29
+GetNumOfTrollsInRange 30 280
+GetNumOfTrollsInRange 51 279
+GetNumOfTrollsInRange 16 178
+GetNumOfTrollsInRange 88 119
+AssignTroll 32 14 
+AssignTroll 28 4 
+AssignTroll 29 12 
+AssignTroll 71 21 
+JoinGroups 23 13
+AssignTroll 75 26 
+GetStrongestTroll 28
+JoinGroups 2 0
+AssignTroll 32 28 
+AddTroll 98 93
+GetGroup 79
+GetNumOfTrollsInRange 1 210
+JoinGroups 18 10
+GetGroup 58
+GetNumOfTrollsInRange 11 261
+AddTroll 44 87
+AddTroll 37 62
+GetGroup 51
+GetNumOfTrollsInRange 21 245
+AddTroll 17 3
+JoinGroups 8 19
+GetGroup 79
+AssignTroll 91 28 
+GetGroup 84
+GetNumOfTrollsInRange 11 54
+AssignTroll 40 11 
+GetStrongestTroll 11
+GetNumOfTrollsInRange 45 0
+GetStrongestTroll 27
+AssignTroll 43 2 
+GetStrongestTroll 28
+AddTroll 47 97
+AddTroll 28 83
+AddTroll 44 61
+GetStrongestTroll 23
+JoinGroups 26 15
+AddTroll 67 17
+AddTroll 38 67
+JoinGroups 24 12
+GetGroup 56
+AssignTroll 84 5 
+JoinGroups 18 27
+GetNumOfTrollsInRange 67 228
+GetGroup 70
+GetGroup 0
+GetStrongestTroll 23
+GetStrongestTroll 27
+AddTroll 41 69
+AddTroll 21 5
+GetStrongestTroll 16
+AssignTroll 11 25 
+JoinGroups 18 3
+AssignTroll 60 1 
+GetNumOfTrollsInRange 30 198
+GetNumOfTrollsInRange 99 129
+GetGroup 43
+GetGroup 10
+AssignTroll 22 29 
+GetStrongestTroll 9
+AddTroll 71 56
+AddTroll 66 55
+GetNumOfTrollsInRange 42 71
+AssignTroll 62 12 
+GetNumOfTrollsInRange 83 225
+GetStrongestTroll 17
+AssignTroll 12 15 
+JoinGroups 24 29
+GetStrongestTroll 4
+GetNumOfTrollsInRange 37 5
+AddTroll 97 3
+GetGroup 3
+AssignTroll 97 28 
+AssignTroll 48 14 
+AddTroll 13 86
+GetNumOfTrollsInRange 89 161
+JoinGroups 27 23
+GetNumOfTrollsInRange 62 160
+GetNumOfTrollsInRange 38 181
+AddTroll 26 54
+GetNumOfTrollsInRange 75 212
+JoinGroups 7 13
+GetNumOfTrollsInRange 17 272
+GetGroup 45
+JoinGroups 3 27
+AssignTroll 1 5 
+GetNumOfTrollsInRange 73 261
+JoinGroups 16 21
+JoinGroups 29 24
+AssignTroll 41 3 
+AddTroll 11 39
+JoinGroups 5 6
+AssignTroll 61 18 
+GetStrongestTroll 2
+AssignTroll 95 9 
+GetStrongestTroll 26
+GetNumOfTrollsInRange 25 101
+AssignTroll 92 2 
+GetStrongestTroll 0
+JoinGroups 13 6
+GetStrongestTroll 23
+GetNumOfTrollsInRange 42 294
+GetGroup 10
+JoinGroups 17 18
+JoinGroups 25 14
+AssignTroll 67 23 
+GetNumOfTrollsInRange 2 203
+GetNumOfTrollsInRange 46 127
+GetGroup 97
+AddTroll 38 99
+JoinGroups 19 5
+JoinGroups 16 27
+JoinGroups 20 25
+AssignTroll 28 1 
+GetStrongestTroll 26
+GetGroup 79
+GetStrongestTroll 21
+GetNumOfTrollsInRange 20 98
+GetStrongestTroll 27
+GetStrongestTroll 5
+AddTroll 53 13
+GetGroup 47
+AddTroll 34 13
+GetStrongestTroll 6
+AddTroll 85 32
+GetStrongestTroll 2
+GetStrongestTroll 2
+GetStrongestTroll 2
+JoinGroups 11 21
+GetGroup 37
+AddTroll 10 1
+JoinGroups 17 27
+GetNumOfTrollsInRange 25 245
+AssignTroll 3 4 
+GetStrongestTroll 3
+JoinGroups 28 18
+JoinGroups 7 13
+GetGroup 28
+GetGroup 80
+GetNumOfTrollsInRange 39 270
+AssignTroll 72 11 
+GetGroup 40
+AddTroll 84 96
+GetStrongestTroll 21
+GetGroup 24
+AssignTroll 57 4 
+GetGroup 80
+JoinGroups 0 12
+GetNumOfTrollsInRange 2 101
+JoinGroups 9 15
+GetGroup 23
+JoinGroups 18 22
+GetStrongestTroll 20
+GetGroup 70
+GetStrongestTroll 11
+GetNumOfTrollsInRange 47 259
+AssignTroll 42 10 
+AssignTroll 11 8 
+GetStrongestTroll 25
+GetNumOfTrollsInRange 46 254
+GetStrongestTroll 26
+GetNumOfTrollsInRange 18 91
+GetNumOfTrollsInRange 99 151
+GetStrongestTroll 24
+AssignTroll 53 22 
+JoinGroups 15 17
+GetGroup 4
+GetNumOfTrollsInRange 42 82
+GetNumOfTrollsInRange 62 105
+JoinGroups 23 1
+AddTroll 11 77
+AssignTroll 93 14 
+JoinGroups 28 21
+GetGroup 89
+GetGroup 51
+JoinGroups 8 17
+GetNumOfTrollsInRange 44 154
+AddTroll 93 93
+GetNumOfTrollsInRange 69 135
+GetNumOfTrollsInRange 5 114
+GetGroup 51
+GetGroup 39
+AddTroll 78 44
+AddTroll 72 50
+GetStrongestTroll 20
+GetGroup 16
+JoinGroups 4 9
+GetGroup 24
+GetStrongestTroll 2
+GetGroup 34
+AssignTroll 36 9 
+AssignTroll 45 29 
+AddTroll 85 34
+GetNumOfTrollsInRange 90 100
+GetGroup 64
+AddTroll 77 1
+AssignTroll 22 6 
+GetStrongestTroll 19
+GetGroup 64
+GetGroup 45
+GetNumOfTrollsInRange 32 241
+GetGroup 29
+AddTroll 43 31
+GetGroup 37
+AddTroll 52 47
+AddTroll 81 79
+AssignTroll 44 22 
+JoinGroups 23 3
+AssignTroll 90 17 
+JoinGroups 15 1
+JoinGroups 2 9
+GetNumOfTrollsInRange 53 265
+GetGroup 19
+GetNumOfTrollsInRange 69 291
+GetNumOfTrollsInRange 76 265
+AddTroll 88 82
+GetGroup 86
+AssignTroll 23 13 
+JoinGroups 22 3
+GetNumOfTrollsInRange 16 197
+GetGroup 9
+AddTroll 91 29
+JoinGroups 12 21
+AddTroll 28 70
+AddTroll 3 28
+JoinGroups 0 24
+AssignTroll 79 11 
+JoinGroups 1 10
+GetStrongestTroll 29
+JoinGroups 21 14
+GetNumOfTrollsInRange 24 266
+AssignTroll 96 21 
+GetGroup 66
+AssignTroll 71 20 
+GetStrongestTroll 20
+GetStrongestTroll 17
+AssignTroll 19 1 
+GetStrongestTroll 18
+GetGroup 59
+AssignTroll 19 8 
+JoinGroups 12 19
+AssignTroll 14 12 
+AssignTroll 38 1 
+AddTroll 11 93
+GetGroup 29
+GetGroup 15
+AssignTroll 86 7 
+AssignTroll 17 22 
+JoinGroups 19 11
+GetStrongestTroll 13
+GetGroup 97
+AssignTroll 74 25 
+JoinGroups 12 21
+GetNumOfTrollsInRange 19 220
+GetNumOfTrollsInRange 59 214
+GetStrongestTroll 28
+AssignTroll 51 27 
+JoinGroups 13 21
+GetGroup 28
+AssignTroll 78 28 
+GetNumOfTrollsInRange 2 269
+AddTroll 11 59
+GetGroup 58
+GetNumOfTrollsInRange 99 275
+AddTroll 96 8
+JoinGroups 25 21
+JoinGroups 13 3
+AssignTroll 58 3 
+AssignTroll 31 7 
+JoinGroups 26 22
+AssignTroll 73 21 
+GetGroup 22
+GetGroup 56
+AssignTroll 37 17 
+GetNumOfTrollsInRange 46 273
+GetStrongestTroll 3
+AddTroll 95 58
+AddTroll 6 3
+GetGroup 60
+GetNumOfTrollsInRange 48 113
+GetNumOfTrollsInRange 41 143
+AssignTroll 50 9 
+AssignTroll 43 22 
+GetGroup 62
+GetStrongestTroll 2
+GetGroup 14
+JoinGroups 2 2
+AddTroll 82 13
+JoinGroups 21 25
+AddTroll 89 83
+JoinGroups 21 20
+GetGroup 39
+GetGroup 19
+GetNumOfTrollsInRange 39 157
+AssignTroll 17 28 
+GetStrongestTroll 13
+GetGroup 17
+GetStrongestTroll 4
+GetNumOfTrollsInRange 30 43
+GetNumOfTrollsInRange 20 92
+GetStrongestTroll 11
+GetNumOfTrollsInRange 81 62
+GetStrongestTroll 21
+JoinGroups 12 2
+GetStrongestTroll 22
+AssignTroll 47 13 
+JoinGroups 28 12
+GetStrongestTroll 18
+GetStrongestTroll 24
+JoinGroups 26 18
+GetGroup 35
+JoinGroups 13 22
+GetStrongestTroll 29
+AddTroll 14 61
+GetStrongestTroll 25
+GetNumOfTrollsInRange 36 244
+AssignTroll 65 25 
+GetGroup 80
+GetNumOfTrollsInRange 15 264
+JoinGroups 27 7
+JoinGroups 17 10
+AddTroll 95 39
+GetNumOfTrollsInRange 24 73
+AddTroll 43 73
+AddTroll 56 92
+AddTroll 15 74
+AddTroll 69 57
+AssignTroll 37 10 
+AddTroll 80 56
+GetStrongestTroll 27
+AssignTroll 2 27 
+GetGroup 44
+GetNumOfTrollsInRange 54 243
+JoinGroups 12 19
+GetStrongestTroll 21
+AddTroll 1 43
+GetGroup 49
+AssignTroll 42 27 
+AssignTroll 60 19 
+GetGroup 28
+GetStrongestTroll 4
+AddTroll 62 27
+GetNumOfTrollsInRange 81 158
+AddTroll 45 12
+GetNumOfTrollsInRange 16 152
+GetNumOfTrollsInRange 77 101
+AddTroll 80 53
+GetStrongestTroll 25
+GetNumOfTrollsInRange 39 49
+GetStrongestTroll 1
+GetGroup 32
+AddTroll 66 38
+GetStrongestTroll 25
+AssignTroll 11 24 
+GetStrongestTroll 18
+AddTroll 49 12
+AssignTroll 54 14 
+GetGroup 90
+GetStrongestTroll 8
+GetGroup 74
+GetStrongestTroll 16
+GetGroup 41
+GetGroup 72
+JoinGroups 20 10
+JoinGroups 6 12
+GetGroup 65
+GetStrongestTroll 4
+GetStrongestTroll 23
+GetNumOfTrollsInRange 29 234
+AssignTroll 33 9 
+AddTroll 54 42
+AddTroll 3 88
+JoinGroups 24 3
+AssignTroll 35 23 
+AssignTroll 94 19 
+JoinGroups 18 26
+GetStrongestTroll 4
+GetGroup 16
+GetGroup 52
+JoinGroups 0 29
+AssignTroll 42 10 
+AddTroll 69 54
+JoinGroups 13 9
+GetNumOfTrollsInRange 11 113
+GetStrongestTroll 16
+AssignTroll 44 13 
+GetGroup 31
+GetNumOfTrollsInRange 11 124
+GetStrongestTroll 12
+GetStrongestTroll 8
+GetGroup 45
+GetNumOfTrollsInRange 38 191
+AssignTroll 85 6 
+GetStrongestTroll 17
+AddTroll 8 25
+JoinGroups 17 19
+JoinGroups 18 24
+AssignTroll 54 27 
+GetGroup 24
+GetNumOfTrollsInRange 5 23
+AddTroll 60 72
+GetNumOfTrollsInRange 53 6
+GetNumOfTrollsInRange 75 299
+GetGroup 29
+AssignTroll 88 5 
+GetGroup 54
+AssignTroll 83 28 
+GetStrongestTroll 19
+AddTroll 99 14
+GetNumOfTrollsInRange 58 72
+AssignTroll 51 8 
+GetGroup 4
+GetNumOfTrollsInRange 70 279
+GetGroup 98
+GetNumOfTrollsInRange 63 188
+AssignTroll 80 16 
+GetGroup 4
+GetGroup 12
+AddTroll 43 97
+JoinGroups 17 8
+GetGroup 92
+AssignTroll 47 2 
+AddTroll 34 17
+JoinGroups 12 25
+JoinGroups 25 0
+AssignTroll 19 16 
+GetGroup 14
+AssignTroll 19 19 
+AssignTroll 3 10 
+AddTroll 54 91
+AddTroll 58 66
+GetStrongestTroll 15
+AssignTroll 67 6 
+GetGroup 34
+JoinGroups 3 24
+AssignTroll 4 29 
+AssignTroll 37 10 
+GetNumOfTrollsInRange 82 172
+GetStrongestTroll 11
+JoinGroups 17 14
+JoinGroups 21 23
+AssignTroll 63 6 
+JoinGroups 21 14
+JoinGroups 23 6
+AddTroll 66 92
+GetGroup 75
+GetStrongestTroll 29
+GetStrongestTroll 29
+GetStrongestTroll 20
+GetGroup 1
+GetStrongestTroll 18
+JoinGroups 9 18
+GetNumOfTrollsInRange 37 295
+AssignTroll 43 8 
+GetStrongestTroll 29
+GetGroup 50
+GetNumOfTrollsInRange 7 210
+GetGroup 51
+GetStrongestTroll 21
+GetNumOfTrollsInRange 88 208
+GetGroup 89
+AssignTroll 65 5 
+AssignTroll 19 27 
+AssignTroll 28 3 
+GetGroup 66
+AddTroll 69 22
+GetNumOfTrollsInRange 60 83
+JoinGroups 22 3
+GetGroup 84
+GetGroup 37
+AddTroll 60 96
+GetGroup 93
+GetNumOfTrollsInRange 87 206
+AssignTroll 45 8 
+GetGroup 69
+AssignTroll 33 17 
+GetStrongestTroll 13
+AssignTroll 32 2 
+GetStrongestTroll 22
+AddTroll 53 49
+GetStrongestTroll 2
+GetNumOfTrollsInRange 29 96
+JoinGroups 8 3
+GetNumOfTrollsInRange 86 243
+AddTroll 70 79
+GetNumOfTrollsInRange 35 46
+GetNumOfTrollsInRange 79 32
+AddTroll 76 50
+AssignTroll 60 5 
+GetStrongestTroll 12
+JoinGroups 2 0
+AddTroll 80 69
+GetStrongestTroll 27
+AddTroll 8 71
+GetStrongestTroll 21
+JoinGroups 17 7
+AddTroll 90 28
+JoinGroups 12 11
+GetGroup 69
+GetNumOfTrollsInRange 37 82
+GetGroup 23
+GetGroup 85
+GetStrongestTroll 3
+AssignTroll 25 3 
+GetNumOfTrollsInRange 42 128
+GetGroup 63
+GetStrongestTroll 22
+AddTroll 46 96
+GetStrongestTroll 3
+GetNumOfTrollsInRange 90 129
+AddTroll 26 58
+AddTroll 0 18
+GetStrongestTroll 22
+GetStrongestTroll 2
+GetNumOfTrollsInRange 31 82
+AssignTroll 13 24 
+JoinGroups 16 1
+AddTroll 74 84
+GetGroup 54
+GetNumOfTrollsInRange 24 135
+GetStrongestTroll 3
+JoinGroups 12 14
+GetStrongestTroll 14
+JoinGroups 4 28
+JoinGroups 14 12
+AssignTroll 1 18 
+GetGroup 29
+JoinGroups 29 10
+AssignTroll 46 5 
+JoinGroups 2 29
+AssignTroll 27 15 
+AddTroll 78 88
+AssignTroll 35 25 
+GetGroup 80
+GetGroup 80
+GetGroup 94
+GetStrongestTroll 3
+GetGroup 34
+GetNumOfTrollsInRange 28 183
+AssignTroll 47 25 
+JoinGroups 3 2
+AssignTroll 78 22 
+JoinGroups 8 13
+AddTroll 22 90
+AddTroll 72 96
+AddTroll 11 5
+JoinGroups 27 28
+AssignTroll 48 7 
+AssignTroll 12 1 
+GetStrongestTroll 23
+JoinGroups 28 20
+AssignTroll 43 22 
+GetGroup 55
+AddTroll 67 34
+GetNumOfTrollsInRange 65 198
+GetStrongestTroll 19
+GetGroup 17
+GetNumOfTrollsInRange 17 166
+GetNumOfTrollsInRange 14 64
+GetNumOfTrollsInRange 11 276
+AssignTroll 19 21 
+GetNumOfTrollsInRange 3 263
+GetGroup 12
+AddTroll 25 22
+GetStrongestTroll 18
+GetStrongestTroll 13
+GetNumOfTrollsInRange 6 145
+GetGroup 62
+GetNumOfTrollsInRange 59 251
+JoinGroups 4 2
+AssignTroll 7 17 
+JoinGroups 13 23
+GetStrongestTroll 22
+GetNumOfTrollsInRange 62 89
+GetNumOfTrollsInRange 88 190
+JoinGroups 16 23
+AddTroll 95 48
+AssignTroll 9 2 
+GetGroup 36
+AssignTroll 80 16 
+GetNumOfTrollsInRange 10 63
+JoinGroups 1 14
+GetGroup 76
+JoinGroups 5 7
+GetStrongestTroll 27
+GetNumOfTrollsInRange 71 105
+AssignTroll 31 27 
+GetGroup 0
+GetNumOfTrollsInRange 63 130
+JoinGroups 5 26
+JoinGroups 15 16
+AddTroll 49 8
+GetGroup 64
+AssignTroll 8 13 
+GetGroup 89
+GetGroup 52
+JoinGroups 9 24
+GetNumOfTrollsInRange 39 52
+JoinGroups 16 5
+GetGroup 7
+GetGroup 93
+GetNumOfTrollsInRange 43 100
+JoinGroups 23 2
+AssignTroll 29 14 
+GetStrongestTroll 12
+AssignTroll 82 3 
+AssignTroll 7 20 
+AddTroll 49 10
+GetNumOfTrollsInRange 85 97
+GetStrongestTroll 24
+GetStrongestTroll 27
+AssignTroll 80 10 
+AssignTroll 20 14 
+GetStrongestTroll 9
+AssignTroll 23 3 
+AssignTroll 61 7 
+JoinGroups 19 11
+GetNumOfTrollsInRange 50 109
+GetGroup 73
+GetGroup 4
+GetStrongestTroll 25
+JoinGroups 24 2
+AssignTroll 5 7 
+AssignTroll 91 21 
+GetStrongestTroll 6
+GetNumOfTrollsInRange 13 125
+GetStrongestTroll 20
+AddTroll 32 32
+JoinGroups 24 19
+AddTroll 98 78
+JoinGroups 8 25
+AddTroll 88 60
+GetNumOfTrollsInRange 29 202
+GetStrongestTroll 20
+AddTroll 46 6
+GetStrongestTroll 10
+AddTroll 6 10
+AddTroll 76 60
+GetGroup 87
+GetNumOfTrollsInRange 97 279
+GetGroup 29
+GetStrongestTroll 12
+GetStrongestTroll 12
+AssignTroll 44 10 
+AssignTroll 7 23 
+GetStrongestTroll 16
+AddTroll 19 5
+GetNumOfTrollsInRange 94 114
+GetGroup 13
+AssignTroll 0 17 
+JoinGroups 20 28
+JoinGroups 6 6
+AssignTroll 51 13 
+AssignTroll 64 16 
+GetNumOfTrollsInRange 64 130
+AddTroll 27 45
+GetGroup 81
+GetStrongestTroll 5
+GetNumOfTrollsInRange 47 201
+JoinGroups 15 18
+AddTroll 62 98
+GetGroup 95
+JoinGroups 4 17
+JoinGroups 14 24
+AddTroll 24 28
+JoinGroups 4 6
+GetStrongestTroll 0
+JoinGroups 2 25
+GetStrongestTroll 27
+AddTroll 8 8
+GetStrongestTroll 11
+GetNumOfTrollsInRange 79 180
+AssignTroll 10 9 
+GetStrongestTroll 12
+AddTroll 31 52
+GetStrongestTroll 13
+GetNumOfTrollsInRange 5 52
+AssignTroll 41 23 
+AddTroll 88 77
+GetGroup 1
+AssignTroll 90 22 
+GetGroup 45
+JoinGroups 4 15
+GetGroup 38
+AddTroll 13 4
+AddTroll 4 1
+GetNumOfTrollsInRange 87 245
+TeamUpgrade 1 0
+GetGroup 16
+GetGroup 26
+AddTroll 59 68
+AddTroll 87 90
+GetNumOfTrollsInRange 12 98
+GetNumOfTrollsInRange 47 177
+AddTroll 21 37
+AddTroll 76 58
+GetGroup 29
+GetNumOfTrollsInRange 37 285
+JoinGroups 5 11
+JoinGroups 24 9
+AssignTroll 47 23 
+GetStrongestTroll 26
+JoinGroups 19 9
+TeamUpgrade 15 1
+AddTroll 53 54
+AssignTroll 28 4 
+AssignTroll 61 16 
+GetNumOfTrollsInRange 91 136
+GetStrongestTroll 9
+GetNumOfTrollsInRange 99 175
+GetNumOfTrollsInRange 39 244
+GetNumOfTrollsInRange 92 246
+GetStrongestTroll 3
+AddTroll 72 10
+GetNumOfTrollsInRange 81 144
+AddTroll 58 51
+AssignTroll 54 16 
+GetGroup 94
+GetGroup 29
+AssignTroll 80 24 
+JoinGroups 21 21
+AddTroll 3 18
+GetGroup 82
+GetNumOfTrollsInRange 35 254
+GetStrongestTroll 21
+GetStrongestTroll 13
+GetGroup 68
+GetNumOfTrollsInRange 10 65
+AddTroll 19 14
+AssignTroll 61 11 
+AddTroll 91 14
+GetNumOfTrollsInRange 7 239
+AddTroll 26 28
+JoinGroups 27 1
+GetGroup 59
+GetStrongestTroll 25
+AddTroll 7 4
+AddTroll 27 82
+AddTroll 2 95
+AddTroll 56 98
+AssignTroll 25 1 
+GetGroup 29
+GetStrongestTroll 5
+GetStrongestTroll 22
+AddTroll 50 73
+GetStrongestTroll 22
+GetStrongestTroll 29
+AddTroll 46 46
+GetStrongestTroll 0
+GetGroup 51
+JoinGroups 11 18
+GetStrongestTroll 2
+GetGroup 12
+AddTroll 26 26
+GetStrongestTroll 24
+AssignTroll 5 6 
+GetGroup 74
+AssignTroll 13 21 
+AddTroll 30 42
+AddTroll 44 91
+GetStrongestTroll 25
+GetStrongestTroll 17
+AssignTroll 68 21 
+AddTroll 61 61
+GetGroup 83
+JoinGroups 1 4
+GetStrongestTroll 28
+GetGroup 0
+GetStrongestTroll 0
+JoinGroups 17 14
+GetGroup 69
+GetGroup 2
+AddTroll 55 85
+JoinGroups 8 18
+GetStrongestTroll 5
+GetStrongestTroll 23
+GetStrongestTroll 1
+GetGroup 27
+AddTroll 73 23
+AddTroll 79 59
+GetNumOfTrollsInRange 55 183
+GetGroup 60
+GetNumOfTrollsInRange 5 297
+GetGroup 96
+AssignTroll 60 10 
+AssignTroll 47 10 
+GetNumOfTrollsInRange 12 28
+AddTroll 99 76
+AssignTroll 59 23 
+JoinGroups 18 25
+JoinGroups 8 7
+AddTroll 60 54
+AssignTroll 31 5 
+AddTroll 43 61
+GetGroup 2
+JoinGroups 26 21
+GetStrongestTroll 14
+AssignTroll 41 16 
+AssignTroll 87 27 
+GetGroup 38
+GetGroup 57
+JoinGroups 12 28
+AddTroll 59 21
+JoinGroups 27 18
+GetNumOfTrollsInRange 47 64
+GetStrongestTroll 17
+GetNumOfTrollsInRange 62 122
+GetStrongestTroll 13
+GetStrongestTroll 18
+GetStrongestTroll 14
+AssignTroll 43 23 
+JoinGroups 23 9
+AssignTroll 36 26 
+AddTroll 78 66
+JoinGroups 5 11
+AddTroll 10 79
+AddTroll 40 16
+AddTroll 50 80
+GetStrongestTroll 17
+AssignTroll 21 26 
+GetGroup 43
+GetGroup 90
+JoinGroups 5 15
+GetNumOfTrollsInRange 44 3
+AssignTroll 17 27 
+GetStrongestTroll 5
+GetStrongestTroll 8
+AddTroll 23 8
+JoinGroups 1 4
+GetNumOfTrollsInRange 50 271
+GetGroup 85
+GetNumOfTrollsInRange 92 101
+AddTroll 55 98
+AssignTroll 74 17 
+GetNumOfTrollsInRange 60 105
+GetStrongestTroll 19
+JoinGroups 10 9
+JoinGroups 25 24
+GetNumOfTrollsInRange 79 110
+AddTroll 46 77
+GetGroup 26
+GetNumOfTrollsInRange 87 60
+GetStrongestTroll 0
+JoinGroups 9 21
+GetGroup 12
+JoinGroups 1 11
+GetNumOfTrollsInRange 60 293
+GetGroup 93
+AddTroll 75 40
+GetStrongestTroll 24
+GetGroup 84
+AssignTroll 36 1 
+GetNumOfTrollsInRange 3 270
+GetGroup 66
+GetStrongestTroll 23
+GetNumOfTrollsInRange 97 157
+JoinGroups 21 13
+AddTroll 48 63
+AssignTroll 72 25 
+AddTroll 60 99
+GetNumOfTrollsInRange 86 155
+GetStrongestTroll 17
+GetNumOfTrollsInRange 7 243
+GetNumOfTrollsInRange 44 195
+GetStrongestTroll 2
+GetGroup 19
+GetNumOfTrollsInRange 2 74
+AddTroll 17 25
+JoinGroups 28 13
+AddTroll 77 74
+AssignTroll 40 11 
+GetStrongestTroll 25
+GetGroup 74
+AddTroll 95 12
+JoinGroups 17 13
+GetStrongestTroll 21
+GetStrongestTroll 21
+GetStrongestTroll 23
+GetNumOfTrollsInRange 0 69
+AddTroll 98 14
+GetGroup 70
+GetGroup 54
+AssignTroll 37 4 
+AddTroll 64 63
+AddTroll 13 96
+AssignTroll 69 5 
+GetGroup 69
+GetStrongestTroll 17
+GetStrongestTroll 13
+GetNumOfTrollsInRange 88 126
+GetNumOfTrollsInRange 3 222
+GetGroup 67
+GetStrongestTroll 13
+AssignTroll 73 0 
+AddTroll 79 34
+AssignTroll 81 13 
+JoinGroups 10 4
+AddTroll 15 71
+GetGroup 68
+JoinGroups 17 2
+GetGroup 35
+GetNumOfTrollsInRange 49 284
+AssignTroll 23 18 
+AssignTroll 24 3 
+AddTroll 60 56
+JoinGroups 6 23
+GetGroup 51
+GetStrongestTroll 10
+GetStrongestTroll 6
+AssignTroll 0 4 
+GetStrongestTroll 14
+AddTroll 47 11
+JoinGroups 9 20
+GetNumOfTrollsInRange 75 46
+JoinGroups 15 28
+JoinGroups 20 4
+GetNumOfTrollsInRange 69 162
+GetGroup 79
+AddTroll 0 67
+GetNumOfTrollsInRange 42 70
+JoinGroups 27 9
+AssignTroll 96 2 
+GetStrongestTroll 4
+GetGroup 85
+AddTroll 49 40
+JoinGroups 1 11
+AssignTroll 14 5 
+GetNumOfTrollsInRange 6 71
+JoinGroups 0 15
+AssignTroll 85 5 
+AssignTroll 24 5 
+GetStrongestTroll 11
+AddTroll 75 11
+AddTroll 44 50
+AssignTroll 44 25 
+GetNumOfTrollsInRange 80 44
+JoinGroups 9 18
+AssignTroll 57 19 
+GetStrongestTroll 12
+JoinGroups 15 11
+AddTroll 1 64
+GetStrongestTroll 1
+GetNumOfTrollsInRange 8 180
+GetGroup 69
+GetGroup 59
+AddTroll 43 66
+GetGroup 11
+AssignTroll 30 10 
+GetNumOfTrollsInRange 44 128
+AssignTroll 60 21 
+GetNumOfTrollsInRange 24 259
+JoinGroups 0 5
+AddTroll 97 32
+GetGroup 46
+JoinGroups 3 12
+GetGroup 58
+GetNumOfTrollsInRange 74 76
+AddTroll 29 58
+AddTroll 68 52
+AssignTroll 61 10 
+JoinGroups 7 25
+JoinGroups 28 12
+JoinGroups 15 0
+AssignTroll 30 0 
+GetGroup 99
+GetGroup 85
+GetGroup 4
+JoinGroups 25 18
+AddTroll 14 31
+JoinGroups 14 16
+AssignTroll 20 3 
+AssignTroll 78 5 
+AssignTroll 21 8 
+GetStrongestTroll 14
+AddTroll 5 45
+GetNumOfTrollsInRange 17 260
+AddTroll 48 73
+AssignTroll 43 29 
+GetGroup 52
+JoinGroups 10 12
+AddTroll 88 38
+GetGroup 86
+GetStrongestTroll 7
+GetStrongestTroll 1
+GetGroup 87
+GetGroup 76
+GetStrongestTroll 25
+GetNumOfTrollsInRange 30 78
+JoinGroups 18 2
+AddTroll 73 1
+GetGroup 69
+AssignTroll 83 27 
+AddTroll 98 52
+JoinGroups 0 7
+GetNumOfTrollsInRange 26 41
+GetStrongestTroll 6
+GetStrongestTroll 1
+AssignTroll 63 5 
+JoinGroups 20 16
+JoinGroups 7 9
+JoinGroups 4 2
+JoinGroups 20 4
+GetGroup 55
+AddTroll 93 81
+GetNumOfTrollsInRange 72 265
+GetNumOfTrollsInRange 54 273
+AddTroll 7 90
+GetNumOfTrollsInRange 84 92
+AddTroll 70 7
+GetGroup 75
+JoinGroups 17 20
+GetGroup 68
+GetNumOfTrollsInRange 23 186
+GetStrongestTroll 12
+AssignTroll 77 11 
+GetGroup 21
+AddTroll 62 7
+AddTroll 60 20
+AddTroll 41 76
+GetStrongestTroll 8
+JoinGroups 7 9
+GetNumOfTrollsInRange 98 141
+AddTroll 3 3
+GetNumOfTrollsInRange 2 107
+TeamUpgrade 2 6
+GetNumOfTrollsInRange 53 286
+GetStrongestTroll 10
+AddTroll 57 67
+GetNumOfTrollsInRange 66 203
+GetStrongestTroll 21
+GetNumOfTrollsInRange 50 232
+GetNumOfTrollsInRange 8 259
+AddTroll 49 97
+GetGroup 67
+AddTroll 45 21
+AssignTroll 77 27 
+GetGroup 6
+AssignTroll 1 23 
+JoinGroups 0 11
+GetNumOfTrollsInRange 32 46
+JoinGroups 24 4
+GetGroup 68
+GetStrongestTroll 27
+GetStrongestTroll 25
+GetNumOfTrollsInRange 21 226
+GetNumOfTrollsInRange 98 199
+JoinGroups 21 4
+GetNumOfTrollsInRange 48 152
+GetStrongestTroll 8
+AssignTroll 17 26 
+GetStrongestTroll 24
+GetStrongestTroll 21
+JoinGroups 14 4
+AssignTroll 52 19 
+GetNumOfTrollsInRange 70 115
+GetGroup 80
+GetGroup 75
+AssignTroll 45 1 
+JoinGroups 11 25
+GetNumOfTrollsInRange 84 249
+AddTroll 6 96
+AssignTroll 35 3 
+AssignTroll 59 15 
+AssignTroll 54 22 
+GetGroup 54
+AssignTroll 89 18 
+GetStrongestTroll 2
+AssignTroll 77 25 
+AddTroll 15 55
+AddTroll 85 5
+AddTroll 51 97
+AddTroll 93 97
+AddTroll 47 33
+GetStrongestTroll 15
+GetNumOfTrollsInRange 14 180
+GetGroup 43
+GetGroup 11
+GetGroup 71
+GetNumOfTrollsInRange 98 144
+GetNumOfTrollsInRange 12 130
+AddTroll 7 64
+JoinGroups 5 0
+AssignTroll 85 10 
+JoinGroups 28 11
+GetStrongestTroll 15
+GetGroup 58
+GetNumOfTrollsInRange 55 64
+GetStrongestTroll 23
+AddTroll 26 92
+JoinGroups 9 7
+AssignTroll 89 1 
+GetGroup 64
+JoinGroups 13 24
+AddTroll 62 39
+GetNumOfTrollsInRange 68 158
+AssignTroll 64 24 
+AddTroll 95 69
+JoinGroups 4 13
+AssignTroll 55 25 
+AddTroll 65 24
+GetNumOfTrollsInRange 8 187
+GetGroup 5
+AddTroll 1 72
+GetGroup 15
+GetStrongestTroll 15
+GetNumOfTrollsInRange 23 280
+AssignTroll 38 23 
+GetNumOfTrollsInRange 91 53
+GetStrongestTroll 18
+GetGroup 33
+GetGroup 87
+GetStrongestTroll 8
+AssignTroll 27 9 
+GetNumOfTrollsInRange 20 58
+JoinGroups 19 6
+JoinGroups 11 19
+TeamUpgrade 6 4
+JoinGroups 17 22
+JoinGroups 15 6
+JoinGroups 7 18
+AddTroll 97 27
+AddTroll 37 98
+AddTroll 82 59
+GetGroup 88
+GetStrongestTroll 0
+JoinGroups 24 3
+AddTroll 70 65
+AddTroll 65 93
+GetStrongestTroll 20
+GetGroup 12
+AddTroll 82 55
+GetStrongestTroll 5
+GetNumOfTrollsInRange 90 62
+GetStrongestTroll 12
+GetStrongestTroll 19
+AssignTroll 45 1 
+JoinGroups 12 28
+GetStrongestTroll 18
+GetGroup 59
+AssignTroll 8 26 
+AddTroll 82 31
+JoinGroups 16 28
+GetStrongestTroll 23
+JoinGroups 24 25
+GetGroup 60
+AssignTroll 34 23 
+AssignTroll 17 25 
+AssignTroll 47 16 
+GetGroup 22
+GetGroup 23
+AddTroll 97 9
+GetNumOfTrollsInRange 55 105
+GetNumOfTrollsInRange 97 21
+GetGroup 55
+GetGroup 58
+GetStrongestTroll 22
+JoinGroups 11 19
+GetNumOfTrollsInRange 28 78
+AddTroll 76 71
+AddTroll 68 97
+GetNumOfTrollsInRange 29 270
+GetNumOfTrollsInRange 82 141
+AddTroll 30 76
+AssignTroll 46 25 
+JoinGroups 0 28
+GetGroup 4
+AddTroll 14 40
+JoinGroups 3 21
+GetGroup 5
+GetNumOfTrollsInRange 79 252
+GetGroup 1
+AddTroll 71 66
+GetNumOfTrollsInRange 59 82
+GetNumOfTrollsInRange 13 242
+GetGroup 26
+GetGroup 88
+AssignTroll 94 14 
+AddTroll 52 44
+GetStrongestTroll 20
+GetGroup 88
+GetNumOfTrollsInRange 71 80
+JoinGroups 29 24
+GetStrongestTroll 1
+AssignTroll 79 7 
+GetGroup 98
+AddTroll 29 6
+GetNumOfTrollsInRange 70 299
+GetGroup 31
+AddTroll 11 61
+GetNumOfTrollsInRange 25 195
+GetStrongestTroll 12
+AddTroll 47 48
+GetNumOfTrollsInRange 57 97
+AddTroll 70 46
+AddTroll 51 2
+GetGroup 63
+AddTroll 45 64
+AddTroll 52 68
+TeamUpgrade 11 0
+GetGroup 97
+GetStrongestTroll 0
+GetGroup 0
+AssignTroll 53 19 
+AddTroll 43 90
+JoinGroups 24 18
+AssignTroll 91 22 
+GetStrongestTroll 12
+GetGroup 0
+GetStrongestTroll 16
+GetStrongestTroll 7
+GetGroup 81
+GetNumOfTrollsInRange 80 110
+GetGroup 74
+GetGroup 2
+JoinGroups 20 13
+GetNumOfTrollsInRange 97 92
+AssignTroll 44 16 
+JoinGroups 7 18
+AssignTroll 54 1 
+GetStrongestTroll 19
+GetStrongestTroll 17
+JoinGroups 10 25
+GetNumOfTrollsInRange 15 78
+GetStrongestTroll 27
+GetStrongestTroll 25
+JoinGroups 8 10
+GetNumOfTrollsInRange 34 105
+AddTroll 91 36
+AssignTroll 75 10 
+GetStrongestTroll 13
+AssignTroll 50 26 
+GetNumOfTrollsInRange 68 254
+AddTroll 90 12
+JoinGroups 29 5
+GetStrongestTroll 6
+AssignTroll 92 3 
+GetGroup 90
+GetGroup 15
+GetGroup 20
+GetStrongestTroll 10
+JoinGroups 14 25
+GetStrongestTroll 23
+JoinGroups 9 9
+GetStrongestTroll 11
+GetStrongestTroll 12
+GetGroup 27
+AssignTroll 34 4 
+AssignTroll 77 21 
+GetStrongestTroll 27
+GetStrongestTroll 8
+GetStrongestTroll 17
+GetNumOfTrollsInRange 5 7
+AddTroll 42 9
+GetNumOfTrollsInRange 41 166
+GetStrongestTroll 24
+GetNumOfTrollsInRange 30 104
+GetStrongestTroll 2
+JoinGroups 15 14
+AssignTroll 47 0 
+GetStrongestTroll 11
+GetNumOfTrollsInRange 82 201
+GetNumOfTrollsInRange 8 235
+JoinGroups 28 12
+GetGroup 98
+JoinGroups 17 20
+JoinGroups 9 28
+AddTroll 53 85
+AssignTroll 10 25 
+AddTroll 61 94
+GetNumOfTrollsInRange 27 291
+GetGroup 77
+GetStrongestTroll 7
+AddTroll 9 3
+AddTroll 94 76
+JoinGroups 0 29
+GetNumOfTrollsInRange 52 239
+AddTroll 46 15
+JoinGroups 4 13
+AddTroll 93 19
+GetGroup 37
+AddTroll 40 61
+GetStrongestTroll 29
+GetStrongestTroll 9
+GetGroup 86
+GetGroup 50
+GetStrongestTroll 1
+JoinGroups 10 25
+AddTroll 1 91
+GetNumOfTrollsInRange 9 274
+JoinGroups 9 24
+GetGroup 3
+GetNumOfTrollsInRange 47 218
+JoinGroups 12 27
+AssignTroll 55 1 
+GetStrongestTroll 9
+AddTroll 92 24
+GetStrongestTroll 8
+AssignTroll 46 17 
+GetStrongestTroll 12
+GetGroup 39
+GetStrongestTroll 3
+GetNumOfTrollsInRange 19 51
+AssignTroll 40 0 
+GetGroup 8
+GetNumOfTrollsInRange 89 181
+GetNumOfTrollsInRange 29 139
+AssignTroll 87 0 
+JoinGroups 4 28
+GetStrongestTroll 10
+GetGroup 41
+JoinGroups 21 26
+GetGroup 96
+AddTroll 75 17
+AssignTroll 51 18 
+JoinGroups 3 23
+JoinGroups 19 14
+GetStrongestTroll 26
+AssignTroll 92 4 
+AssignTroll 66 19 
+AddTroll 25 86
+AssignTroll 25 5 
+GetStrongestTroll 5
+GetStrongestTroll 27
+JoinGroups 6 18
+GetGroup 41
+JoinGroups 27 2
+GetGroup 50
+JoinGroups 13 27
+GetNumOfTrollsInRange 92 222
+GetStrongestTroll 19
+GetNumOfTrollsInRange 22 61
+JoinGroups 16 23
+GetStrongestTroll 13
+GetNumOfTrollsInRange 48 169
+JoinGroups 15 9
+AddTroll 33 52
+GetStrongestTroll 20
+AddTroll 9 31
+AssignTroll 52 21 
+GetNumOfTrollsInRange 78 23
+AssignTroll 48 21 
+AssignTroll 51 27 
+AssignTroll 86 10 
+GetStrongestTroll 22
+GetGroup 28
+AddTroll 62 90
+GetGroup 20
+AddTroll 57 93
+GetGroup 32
+GetGroup 94
+GetNumOfTrollsInRange 30 111
+AssignTroll 34 0 
+GetStrongestTroll 15
+GetStrongestTroll 17
+GetStrongestTroll 28
+AssignTroll 56 9 
+GetGroup 52
+GetStrongestTroll 12
+AssignTroll 63 19 
+GetGroup 38
+AssignTroll 64 28 
+AssignTroll 48 5 
+JoinGroups 2 29
+GetGroup 0
+GetNumOfTrollsInRange 4 182
+JoinGroups 22 10
+GetNumOfTrollsInRange 95 249
+AssignTroll 40 17 
+AssignTroll 86 24 
+GetStrongestTroll 9
+AssignTroll 88 8 
+GetGroup 69
+JoinGroups 4 21
+GetNumOfTrollsInRange 57 115
+AddTroll 12 78
+AssignTroll 58 16 
+AssignTroll 50 24 
+AssignTroll 99 0 
+GetNumOfTrollsInRange 47 207
+JoinGroups 14 22
+AssignTroll 86 0 
+GetNumOfTrollsInRange 2 23
+GetStrongestTroll 26
+AssignTroll 99 19 
+AssignTroll 85 10 
+GetGroup 92
+JoinGroups 9 10
+AssignTroll 23 24 
+JoinGroups 3 21
+AddTroll 27 3
+AssignTroll 55 10 
+GetNumOfTrollsInRange 53 205
+GetNumOfTrollsInRange 47 60
+AddTroll 32 87
+AddTroll 55 78
+AddTroll 45 21
+AssignTroll 32 3 
+GetNumOfTrollsInRange 40 240
+AssignTroll 81 8 
+GetNumOfTrollsInRange 13 215
+AddTroll 45 16
+GetNumOfTrollsInRange 22 270
+GetNumOfTrollsInRange 5 206
+JoinGroups 28 16
+AssignTroll 24 4 
+GetStrongestTroll 19
+GetNumOfTrollsInRange 48 225
+AssignTroll 57 12 
+JoinGroups 16 2
+GetGroup 98
+AddTroll 68 20
+GetStrongestTroll 16
+AddTroll 26 99
+JoinGroups 10 29
+GetStrongestTroll 8
+JoinGroups 1 12
+AddTroll 14 77
+JoinGroups 14 28
+AddTroll 38 51
+AddTroll 33 95
+AddTroll 71 81
+GetGroup 46
+JoinGroups 26 4
+GetStrongestTroll 28
+AddTroll 69 47
+GetStrongestTroll 25
+AssignTroll 35 17 
+GetGroup 44
+AddTroll 44 60
+GetGroup 80
+AddTroll 20 51
+JoinGroups 2 18
+GetNumOfTrollsInRange 51 258
+GetGroup 25
+JoinGroups 24 27
+GetGroup 78
+GetNumOfTrollsInRange 11 114
+JoinGroups 6 23
+GetStrongestTroll 8
+GetNumOfTrollsInRange 4 185
+GetStrongestTroll 5
+GetGroup 9
+AddTroll 94 73
+GetStrongestTroll 0
+AddTroll 77 36
+AssignTroll 73 24 
+GetGroup 46
+JoinGroups 9 27
+AddTroll 82 23
+AddTroll 78 65
+GetGroup 21
+GetNumOfTrollsInRange 25 70
+GetStrongestTroll 14
+AssignTroll 7 0 
+GetNumOfTrollsInRange 43 69
+JoinGroups 3 19
+GetNumOfTrollsInRange 83 217
+GetStrongestTroll 27
+GetNumOfTrollsInRange 27 102
+AssignTroll 94 1 
+AddTroll 30 47
+AddTroll 30 26
+AddTroll 62 71
+GetGroup 61
+AddTroll 0 61
+AddTroll 88 86
+GetGroup 78
+GetGroup 59
+JoinGroups 26 23
+GetNumOfTrollsInRange 14 246
+JoinGroups 15 17
+GetNumOfTrollsInRange 90 43
+GetGroup 25
+GetGroup 11
+AddTroll 3 18
+GetNumOfTrollsInRange 94 251
+JoinGroups 29 4
+AssignTroll 15 25 
+AssignTroll 8 8 
+GetGroup 38
+GetStrongestTroll 23
+AddTroll 66 99
+GetStrongestTroll 16
+AssignTroll 60 27 
+JoinGroups 21 4
+GetStrongestTroll 27
+AddTroll 48 18
+GetGroup 21
+JoinGroups 25 11
+JoinGroups 1 14
+AddTroll 44 75
+GetNumOfTrollsInRange 54 194
+GetGroup 21
+GetNumOfTrollsInRange 69 76
+GetStrongestTroll 9
+GetStrongestTroll 28
+GetNumOfTrollsInRange 51 246
+AssignTroll 20 0 
+GetNumOfTrollsInRange 3 144
+JoinGroups 27 17
+AssignTroll 40 8 
+AddTroll 61 74
+GetStrongestTroll 13
+AssignTroll 80 20 
+GetNumOfTrollsInRange 79 142
+GetGroup 46
+AddTroll 62 28
+GetNumOfTrollsInRange 32 285
+GetGroup 17
+AddTroll 7 16
+GetGroup 26
+AddTroll 8 37
+GetGroup 13
+GetStrongestTroll 13
+GetStrongestTroll 15
+GetNumOfTrollsInRange 74 214
+AddTroll 15 29
+GetStrongestTroll 14
+AddTroll 99 38
+GetNumOfTrollsInRange 17 216
+GetStrongestTroll 13
+GetStrongestTroll 19
+GetGroup 25
+GetNumOfTrollsInRange 89 281
+GetGroup 71
+GetGroup 26
+GetGroup 27
+GetNumOfTrollsInRange 7 224
+AssignTroll 83 7 
+AddTroll 71 98
+AssignTroll 5 17 
+GetGroup 62
+GetNumOfTrollsInRange 82 284
+GetGroup 60
+GetStrongestTroll 15
+GetGroup 51
+JoinGroups 21 11
+JoinGroups 6 12
+GetGroup 1
+AddTroll 68 30
+GetStrongestTroll 21
+JoinGroups 6 21
+JoinGroups 13 1
+AddTroll 19 20
+GetStrongestTroll 6
+GetStrongestTroll 23
+AddTroll 99 27
+AssignTroll 24 24 
+GetGroup 33
+JoinGroups 6 6
+AddTroll 97 15
+JoinGroups 25 2
+JoinGroups 9 13
+GetNumOfTrollsInRange 51 194
+GetStrongestTroll 4
+GetNumOfTrollsInRange 63 282
+AddTroll 24 92
+GetStrongestTroll 21
+GetStrongestTroll 12
+JoinGroups 24 7
+AssignTroll 37 21 
+GetNumOfTrollsInRange 73 111
+GetStrongestTroll 0
+AssignTroll 60 18 
+GetGroup 39
+GetGroup 63
+JoinGroups 0 23
+GetGroup 95
+JoinGroups 26 18
+AssignTroll 71 11 
+GetGroup 92
+GetNumOfTrollsInRange 76 125
+GetNumOfTrollsInRange 29 207
+AddTroll 40 66
+AssignTroll 74 24 
+AddTroll 78 59
+GetGroup 86
+GetNumOfTrollsInRange 7 116
+AssignTroll 15 14 
+AssignTroll 47 19 
+GetNumOfTrollsInRange 1 34
+GetGroup 56
+AddTroll 77 21
+AddTroll 88 56
+AssignTroll 25 2 
+AssignTroll 76 23 
+GetStrongestTroll 15
+AssignTroll 93 2 
+GetGroup 14
+GetStrongestTroll 28
+GetStrongestTroll 2
+AddTroll 3 92
+GetNumOfTrollsInRange 62 65
+GetGroup 26
+GetStrongestTroll 13
+AssignTroll 0 20 
+AddTroll 86 99
+AddTroll 96 2
+AssignTroll 26 5 
+GetStrongestTroll 11
+GetGroup 2
+JoinGroups 8 17
+AssignTroll 60 19 
+AddTroll 55 51
+GetNumOfTrollsInRange 10 296
+JoinGroups 4 18
+GetGroup 22
+GetNumOfTrollsInRange 15 90
+AssignTroll 30 25 
+GetGroup 12
+JoinGroups 26 20
+JoinGroups 25 15
+AddTroll 35 62
+GetGroup 16
+AddTroll 51 4
+GetGroup 23
+AddTroll 99 27
+GetNumOfTrollsInRange 24 51
+GetGroup 23
+GetNumOfTrollsInRange 91 256
+GetNumOfTrollsInRange 73 147
+JoinGroups 10 4
+GetGroup 15
+GetStrongestTroll 19
+JoinGroups 22 20
+GetStrongestTroll 10
+GetGroup 15
+AssignTroll 5 19 
+AssignTroll 55 5 
+AddTroll 24 8
+AssignTroll 52 9 
+AddTroll 13 43
+AddTroll 4 5
+JoinGroups 23 0
+GetNumOfTrollsInRange 82 238
+AddTroll 44 15
+GetGroup 34
+AssignTroll 48 11 
+JoinGroups 27 8
+AssignTroll 38 20 
+JoinGroups 15 0
+GetNumOfTrollsInRange 45 48
+AssignTroll 72 25 
+AssignTroll 67 15 
+AddTroll 86 15
+JoinGroups 6 22
+GetStrongestTroll 11
+JoinGroups 26 2
+AddTroll 51 56
+AssignTroll 76 6 
+GetGroup 82
+AddTroll 22 77
+AssignTroll 37 2 
+AssignTroll 87 9 
+GetGroup 76
+JoinGroups 27 16
+AddTroll 78 97
+GetStrongestTroll 20
+AddTroll 37 48
+JoinGroups 8 14
+AssignTroll 51 29 
+AddTroll 49 21
+JoinGroups 1 21
+GetStrongestTroll 22
+AddTroll 25 21
+GetGroup 95
+GetGroup 76
+GetGroup 5
+GetGroup 19
+GetGroup 70
+AssignTroll 9 7 
+GetNumOfTrollsInRange 52 75
+JoinGroups 16 26
+AssignTroll 18 10 
+GetGroup 85
+GetGroup 97
+JoinGroups 20 2
+AddTroll 48 96
+GetGroup 82
+GetGroup 0
+GetGroup 89
+JoinGroups 2 23
+AddTroll 38 46
+JoinGroups 26 27
+AddTroll 68 48
+GetGroup 99
+AssignTroll 43 19 
+GetGroup 90
+GetNumOfTrollsInRange 6 192
+JoinGroups 13 22
+GetStrongestTroll 3
+AssignTroll 90 16 
+GetStrongestTroll 4
+GetStrongestTroll 6
+JoinGroups 15 4
+GetStrongestTroll 8
+AddTroll 61 38
+JoinGroups 17 27
+GetNumOfTrollsInRange 80 138
+JoinGroups 2 0
+GetGroup 34
+GetGroup 97
+GetGroup 30
+GetStrongestTroll 0
+JoinGroups 29 6
+AddTroll 41 54
+GetStrongestTroll 13
+JoinGroups 10 8
+GetNumOfTrollsInRange 91 211
+AddTroll 86 57
+GetStrongestTroll 24
+JoinGroups 21 4
+AssignTroll 74 1 
+AddTroll 66 50
+JoinGroups 20 21
+JoinGroups 6 2
+GetGroup 44
+AssignTroll 23 9 
+AddTroll 89 48
+JoinGroups 15 29
+GetGroup 4
+GetStrongestTroll 17
+AddTroll 92 60
+JoinGroups 16 15
+GetGroup 75
+AssignTroll 89 27 
+AssignTroll 92 4 
+GetGroup 60
+JoinGroups 3 12
+GetStrongestTroll 29
+GetNumOfTrollsInRange 26 113
+JoinGroups 23 10
+AssignTroll 35 24 
+JoinGroups 20 9
+GetNumOfTrollsInRange 70 109
+GetNumOfTrollsInRange 11 205
+GetStrongestTroll 17
+GetGroup 66
+GetStrongestTroll 11
+GetNumOfTrollsInRange 71 264
+GetStrongestTroll 22
+JoinGroups 21 8
+JoinGroups 17 14
+JoinGroups 13 5
+AssignTroll 19 2 
+JoinGroups 7 29
+JoinGroups 19 7
+AssignTroll 31 13 
+AssignTroll 14 14 
+AssignTroll 28 21 
+GetGroup 71
+GetStrongestTroll 9
+GetStrongestTroll 7
+GetGroup 67
+GetStrongestTroll 16
+GetStrongestTroll 21
+GetGroup 76
+GetGroup 96
+GetNumOfTrollsInRange 6 55
+AssignTroll 8 9 
+GetGroup 2
+AddTroll 42 5
+AssignTroll 26 27 
+GetNumOfTrollsInRange 69 264
+GetStrongestTroll 4
+JoinGroups 18 4
+GetGroup 87
+AssignTroll 74 6 
+GetStrongestTroll 5
+GetNumOfTrollsInRange 89 281
+AssignTroll 59 2 
+GetNumOfTrollsInRange 33 248
+AddTroll 89 43
+GetNumOfTrollsInRange 52 142
+AssignTroll 56 9 
+GetNumOfTrollsInRange 30 158
+AssignTroll 1 25 
+GetNumOfTrollsInRange 48 230
+GetNumOfTrollsInRange 77 79
+GetNumOfTrollsInRange 16 285
+GetNumOfTrollsInRange 87 229
+GetNumOfTrollsInRange 58 156
+GetNumOfTrollsInRange 42 94
+JoinGroups 14 29
+AssignTroll 7 23 
+GetNumOfTrollsInRange 7 99
+GetStrongestTroll 18
+GetStrongestTroll 5
+AddTroll 69 88
+GetGroup 24
+AssignTroll 43 5 
+JoinGroups 20 12
+GetStrongestTroll 25
+GetStrongestTroll 0
+JoinGroups 12 3
+AddTroll 61 55
+AddTroll 48 59
+GetNumOfTrollsInRange 77 270
+GetNumOfTrollsInRange 42 133
+AddTroll 39 21
+AssignTroll 65 23 
+AddTroll 44 28
+AddTroll 73 8
+AssignTroll 10 1 
+GetGroup 84
+AssignTroll 29 16 
+GetGroup 96
+AddTroll 55 38
+AddTroll 88 6
+AddTroll 0 57
+GetStrongestTroll 21
+GetGroup 74
+GetNumOfTrollsInRange 18 118
+AssignTroll 29 19 
+GetGroup 81
+JoinGroups 4 26
+GetStrongestTroll 25
+AddTroll 67 42
+GetGroup 20
+JoinGroups 7 27
+AddTroll 54 16
+GetGroup 13
+GetNumOfTrollsInRange 5 98
+GetStrongestTroll 29
+GetNumOfTrollsInRange 80 96
+AssignTroll 88 13 
+GetGroup 34
+AddTroll 73 47
+GetNumOfTrollsInRange 90 179
+AssignTroll 53 15 
+JoinGroups 7 4
+JoinGroups 6 7
+GetNumOfTrollsInRange 22 150
+AddTroll 86 13
+GetNumOfTrollsInRange 15 139
+JoinGroups 29 8
+AddTroll 95 15
+JoinGroups 25 15
+AddTroll 36 62
+JoinGroups 2 3
+AssignTroll 4 2 
+JoinGroups 15 13
+GetNumOfTrollsInRange 71 259
+AddTroll 89 36
+GetNumOfTrollsInRange 39 271
+GetStrongestTroll 28
+GetNumOfTrollsInRange 6 158
+GetGroup 93
+AssignTroll 21 16 
+GetGroup 14
+GetGroup 88
+GetStrongestTroll 6
+JoinGroups 10 20
+GetGroup 74
+GetNumOfTrollsInRange 17 222
+GetStrongestTroll 17
+GetGroup 68
+GetNumOfTrollsInRange 96 246
+GetStrongestTroll 2
+GetNumOfTrollsInRange 52 175
+GetStrongestTroll 8
+GetNumOfTrollsInRange 82 197
+GetGroup 5
+AssignTroll 96 20 
+JoinGroups 3 18
+GetNumOfTrollsInRange 5 268
+AddTroll 13 3
+GetStrongestTroll 29
+AssignTroll 96 16 
+GetNumOfTrollsInRange 16 92
+GetStrongestTroll 0
+JoinGroups 12 25
+AssignTroll 83 16 
+GetStrongestTroll 18
+AddTroll 4 86
+AddTroll 67 84
+AssignTroll 40 6 
+GetGroup 35
+GetStrongestTroll 4
+AddTroll 4 46
+GetStrongestTroll 26
+AddTroll 22 58
+GetGroup 73
+GetNumOfTrollsInRange 13 70
+GetStrongestTroll 22
+GetNumOfTrollsInRange 14 41
+AssignTroll 75 0 
+AddTroll 43 7
+AddTroll 30 30
+GetStrongestTroll 25
+GetNumOfTrollsInRange 69 202
+GetNumOfTrollsInRange 43 62
+AddTroll 50 97
+GetStrongestTroll 8
+JoinGroups 10 18
+GetNumOfTrollsInRange 10 267
+GetGroup 38
+AssignTroll 24 0 
+JoinGroups 20 20
+AddTroll 83 22
+GetNumOfTrollsInRange 8 32
+AddTroll 93 31
+AddTroll 87 40
+JoinGroups 18 2
+JoinGroups 29 20
+AssignTroll 87 7 
+AddTroll 44 21
+GetNumOfTrollsInRange 27 49
+AddTroll 45 16
+GetStrongestTroll 12
+AssignTroll 0 22 
+AssignTroll 8 13 
+GetGroup 71
+JoinGroups 12 2
+GetStrongestTroll 28
+GetStrongestTroll 17
+GetGroup 23
+GetNumOfTrollsInRange 74 292
+JoinGroups 29 7
+GetStrongestTroll 16
+GetGroup 94
+GetNumOfTrollsInRange 28 52
+AssignTroll 6 10 
+GetNumOfTrollsInRange 40 80
+GetGroup 34
+JoinGroups 24 26
+GetStrongestTroll 11
+GetNumOfTrollsInRange 3 28
+GetNumOfTrollsInRange 16 79
+GetNumOfTrollsInRange 10 85
+AssignTroll 87 26 
+GetNumOfTrollsInRange 89 255
+GetGroup 76
+AssignTroll 67 27 
+GetStrongestTroll 21
+GetNumOfTrollsInRange 39 88
+AssignTroll 79 0 
+GetGroup 78
+GetGroup 88
+AssignTroll 84 17 
+AddTroll 83 69
+GetGroup 99
+GetGroup 88
+AssignTroll 99 9 
+AssignTroll 72 6 
+AddTroll 46 69
+GetGroup 24
+GetNumOfTrollsInRange 25 179
+GetGroup 23
+AssignTroll 7 0 
+GetNumOfTrollsInRange 74 265
+GetNumOfTrollsInRange 48 215
+AssignTroll 65 1 
+JoinGroups 17 26
+GetGroup 24
+AssignTroll 3 11 
+GetStrongestTroll 27
+GetNumOfTrollsInRange 47 287
+GetStrongestTroll 28
+GetStrongestTroll 19
+AddTroll 87 95
+GetGroup 54
+GetGroup 6
+GetGroup 76
+GetStrongestTroll 5
+AssignTroll 46 0 
+AddTroll 2 90
+GetNumOfTrollsInRange 87 135
+AssignTroll 31 10 
+GetNumOfTrollsInRange 33 126
+GetStrongestTroll 16
+GetNumOfTrollsInRange 33 192
+JoinGroups 20 28
+GetNumOfTrollsInRange 50 230
+JoinGroups 27 19
+JoinGroups 21 5
+GetNumOfTrollsInRange 20 205
+AddTroll 52 25
+AssignTroll 22 20 
+GetStrongestTroll 13
+GetStrongestTroll 20
+GetGroup 15
+GetGroup 44
+GetGroup 63
+GetNumOfTrollsInRange 73 159
+GetStrongestTroll 12
+GetNumOfTrollsInRange 79 264
+AssignTroll 96 17 
+AddTroll 66 85
+JoinGroups 11 12
+AddTroll 31 40
+GetGroup 29
+GetStrongestTroll 18
+GetNumOfTrollsInRange 58 35
+GetGroup 59
+GetGroup 65
+AddTroll 4 11
+AssignTroll 91 27 
+GetGroup 51
+AddTroll 52 38
+AddTroll 46 16
+AddTroll 36 29
+GetStrongestTroll 0
+JoinGroups 17 28
+GetStrongestTroll 19
+GetNumOfTrollsInRange 97 146
+AddTroll 15 38
+GetGroup 93
+GetStrongestTroll 18
+GetStrongestTroll 2
+GetStrongestTroll 12
+AssignTroll 59 27 
+GetStrongestTroll 5
+GetStrongestTroll 28
+GetStrongestTroll 17
+GetGroup 31
+AssignTroll 1 2 
+AddTroll 34 30
+GetStrongestTroll 29
+GetGroup 53
+GetNumOfTrollsInRange 40 198
+GetGroup 94
+GetStrongestTroll 7
+GetNumOfTrollsInRange 4 294
+GetNumOfTrollsInRange 9 172
+GetGroup 25
+JoinGroups 9 12
+GetGroup 47
+JoinGroups 18 13
+GetNumOfTrollsInRange 17 199
+GetGroup 9
+GetGroup 7
+AssignTroll 67 15 
+GetNumOfTrollsInRange 7 262
+AddTroll 91 52
+GetStrongestTroll 25
+GetNumOfTrollsInRange 41 227
+GetGroup 66
+GetStrongestTroll 15
+AssignTroll 75 3 
+AddTroll 61 65
+GetNumOfTrollsInRange 17 265
+AssignTroll 48 12 
+GetStrongestTroll 15
+AddTroll 66 30
+AddTroll 29 34
+AddTroll 31 2
+GetNumOfTrollsInRange 99 104
+AddTroll 44 76
+GetStrongestTroll 3
+GetGroup 95
+AddTroll 6 3
+GetNumOfTrollsInRange 84 227
+GetStrongestTroll 7
+AddTroll 27 78
+GetNumOfTrollsInRange 17 183
+JoinGroups 10 25
+AssignTroll 14 9 
+GetGroup 42
+GetGroup 42
+GetStrongestTroll 24
+GetStrongestTroll 29
+GetStrongestTroll 25
+AddTroll 84 39
+AssignTroll 93 4 
+GetGroup 30
+AddTroll 34 29
+GetNumOfTrollsInRange 79 267
+GetNumOfTrollsInRange 22 144
+GetNumOfTrollsInRange 60 136
+AssignTroll 95 17 
+GetNumOfTrollsInRange 20 39
+AddTroll 19 11
+GetNumOfTrollsInRange 39 290
+GetStrongestTroll 25
+JoinGroups 13 18
+GetStrongestTroll 12
+JoinGroups 22 11
+GetNumOfTrollsInRange 64 155
+AddTroll 82 13
+JoinGroups 23 24
+GetGroup 71
+AddTroll 84 81
+GetStrongestTroll 28
+AssignTroll 49 14 
+AddTroll 85 80
+GetGroup 6
+AssignTroll 91 24 
+JoinGroups 20 20
+GetNumOfTrollsInRange 63 239
+GetNumOfTrollsInRange 11 257
+JoinGroups 0 12
+GetNumOfTrollsInRange 42 273
+GetNumOfTrollsInRange 89 155
+AddTroll 71 11
+GetStrongestTroll 3
+GetGroup 76
+AddTroll 55 69
+AssignTroll 21 14 
+GetNumOfTrollsInRange 25 198
+GetNumOfTrollsInRange 38 56
+GetNumOfTrollsInRange 5 36
+GetNumOfTrollsInRange 0 63
+AddTroll 84 55
+JoinGroups 2 17
+JoinGroups 13 14
+JoinGroups 13 7
+AddTroll 36 17
+GetStrongestTroll 0
+AddTroll 64 41
+GetStrongestTroll 15
+GetGroup 29
+JoinGroups 2 9
+JoinGroups 0 4
+AddTroll 65 19
+GetStrongestTroll 7
+GetNumOfTrollsInRange 14 92
+Quit
