@@ -297,7 +297,11 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	strengthTree.buildEmpty(numOfStrength);
 	index = 0;
 	strengthTree.inOrderInsert(histogramBase, histogramData, &index);
-
+	if (strengthTree.getRoot()->getsubTreeData() != numOfTrolls)
+	{
+		int bla = 0;
+		bla++;
+	}
 
 	delete[] histogramBase;
 	delete[] histogramData;
@@ -318,7 +322,7 @@ void DataStruct::GetNumOfTrollsInRange(int fromStrength, int toStrength, int* nu
 	if (fromStrength >= toStrength || fromStrength < 0) {
 		throw InvalidInput();
 	}
-	if (fromStrength == 27 && toStrength == 229)
+	if (fromStrength == 75 && toStrength == 81)
 	{
 		int bla = 0;
 		bla++;
@@ -353,6 +357,12 @@ void DataStruct::GetNumOfTrollsInRange(int fromStrength, int toStrength, int* nu
 		strengthTree.remove(fromStrength);
 	}
 	*num = counter;
+
+	if (strengthTree.getRoot()->getsubTreeData() != TrollTree.getSize())
+	{
+		int bla = 0;
+		bla++;
+	}
 }
 
 

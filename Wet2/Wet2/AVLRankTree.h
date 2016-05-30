@@ -728,8 +728,8 @@ bool rankTree<T, C>::removeAux(rankNode<T, C>* node, T& item) {
 		if (removeAux(node->getRight(), item)) {
 			node->setHeight(
 				1 + max(height(node->getLeft()), height(node->getRight())));
-			node->updatesubTreeData();
 			reBalance(node);
+			node->updatesubTreeData();
 			return true;
 		}
 		return false;
@@ -738,8 +738,8 @@ bool rankTree<T, C>::removeAux(rankNode<T, C>* node, T& item) {
 		if (removeAux(node->getLeft(), item)) {
 			node->setHeight(
 				1 + max(height(node->getLeft()), height(node->getRight())));
-			node->updatesubTreeData();
 			reBalance(node);
+			node->updatesubTreeData();
 			return true;
 		}
 		return false;
@@ -754,15 +754,18 @@ bool rankTree<T, C>::removeAux(rankNode<T, C>* node, T& item) {
 		}
 		/** switching between node and ptr */
 		node->setData(ptr->getData());
+		node->setCurrentData(ptr->getCurrentData());
 		rankNode<T, C>* tmp = ptr->getParent();
 		removeHelper(ptr);
 		while (tmp && tmp != node) {
 			tmp->setHeight(
 				1 + max(height(tmp->getLeft()), height(tmp->getRight())));
-			tmp->updatesubTreeData();
+			
 			reBalance(tmp);
+			tmp->updatesubTreeData();
 			tmp = tmp->getParent();
 		}
+		node->updatesubTreeData();
 	}
 	else {
 		removeHelper(node);
@@ -805,6 +808,7 @@ void rankTree<T, C>::removeHelper(rankNode<T, C>* node) {
 			son->setParent(node->getParent());
 		}
 		son->updatesubTreeData();
+
 	}
 	delete node;
 }
