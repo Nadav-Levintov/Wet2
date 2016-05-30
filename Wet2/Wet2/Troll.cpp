@@ -4,7 +4,7 @@
 
 Troll::Troll()
 {
-	ID = 0;
+	ID = -1;
 	strength = 0;
 	team = -1;
 }

@@ -14,7 +14,7 @@
 #include "AVLRankTree.h"
 
 #define EMPTY -1
-#define NOTROLL 0
+#define NOTROLL -1
 
 using std::exception;
 

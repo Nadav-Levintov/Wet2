@@ -14,7 +14,7 @@ class Troll
 
 public:
 	Troll();
-	Troll(int id, int strength=0, int group=-1) :ID(id), strength(strength),team(group) {};
+	Troll(int id, int strength = 0, int group = -1) :ID(id), strength(strength), team(group) {};
 	~Troll();
 	int getID();
 	int getGroup();
@@ -43,7 +43,9 @@ public:
 	~TrollComparer() {
 	}
 	bool operator()(Troll& a, Troll& b) {
-		return a.getID() > b.getID();
+		if (a.getID() > b.getID())
+			return true;
+		return false;
 	}
 };
 
@@ -54,10 +56,15 @@ public:
 	~TrollStrengthComparer() {
 	}
 	bool operator()(Troll& a, Troll& b) {
-		if(a.getStrength() == b.getStrength())
-			return a.getID() > b.getID();
+		if (a.getStrength() < b.getStrength())
+			return true;
+		else if (a.getStrength() > b.getStrength())
+			return false;
 		else
-			return a.getStrength() < b.getStrength();
+		{
+			TrollComparer comp = TrollComparer();
+			return comp(a, b);
+		}
 	}
 };
 

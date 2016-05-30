@@ -2,13 +2,19 @@
 
 Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 {
+	if (num == 200)
+	{
+		int bla =0 ;
+		bla++;
+	}
+	TrollStrengthComparer comp = TrollStrengthComparer();
 	Troll* merged = new Troll[num];
 	int a = 0, b = 0, i = 0;
 	while ((a < num) && (b < num) && (i < num))
 	{
 		if ((array1[a].getID() != NOTROLL) && (array2[b].getID() != NOTROLL))
 		{
-			if (array1[a].getStrength() < array2[b].getStrength())
+			if (comp(array1[a],array2[b]))
 			{
 				merged[i] = array1[a];
 				i++;
@@ -119,12 +125,14 @@ void DataStruct::AddTroll(int TrollID, int strength) {
 	if (strength < 0 || TrollID < 0) {
 		throw InvalidInput();
 	}
+
 	Troll s(TrollID, strength);
+	Troll s2(TrollID, strength);
 	if (TrollTree.find(s)) {
 		throw Failure();
 	}
 	TrollTree.insert(s);
-	TrollStrengthTree.insert(s);
+	TrollStrengthTree.insert(s2);
 	rankNode<int, intComparer>* strengthNode = strengthTree.find(strength);
 	if (!strengthNode)
 	{
@@ -146,6 +154,7 @@ void DataStruct::AssignTroll(int TrollID, int team) {
 		throw Failure();
 	}
 	Troll s = TrollTree.find(tmp)->getData();
+	Troll s2 = TrollStrengthTree.find(s)->getData();
 	if (s.getGroup() == team) {
 		return;
 	}
@@ -153,6 +162,7 @@ void DataStruct::AssignTroll(int TrollID, int team) {
 		throw Failure();
 	}
 	s.setGroup(team);
+	s2.setGroup(team);
 	ht.insert(s);
 	int group = groups.Find(team);
 	if (maxArray[group] <= s.getStrength()) {
@@ -168,8 +178,8 @@ void DataStruct::AssignTroll(int TrollID, int team) {
 	}
 	TrollTree.remove(s);
 	TrollTree.insert(s);
-	TrollStrengthTree.remove(s);
-	TrollStrengthTree.insert(s);
+	TrollStrengthTree.remove(s2);
+	TrollStrengthTree.insert(s2);
 
 }
 
@@ -230,6 +240,7 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	if (factor < 1 || team < 0 || team >= numOfGroups) {
 		throw InvalidInput();
 	}
+
 	/*ID tree update*/
 	int group = groups.Find(team), tempMax = maxArray[group], tempMaxID = maxIdArray[group];
 	Troll* Trolls = TrollTree.inOrder();
@@ -263,16 +274,17 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 
 	Troll* TrollsByStrength = TrollStrengthTree.inOrder();
 	Troll* newStrengthArray = new Troll[numOfTrolls];
-	numOfTrolls = TrollTree.getSize();
+	
 	int x = 0;
 	for (int i = 0; i < numOfTrolls; i++) {
 		if (TrollsByStrength[i].getGroup() == team) {
 			int oldStrength = TrollsByStrength[i].getStrength();
 			int newStrength = oldStrength * factor;
-			newStrengthArray[x] = TrollsByStrength[i];
-			newStrengthArray[x].setStrength(newStrength);
-			TrollsByStrength[i].setID(NOTROLL);
-			x++;
+				newStrengthArray[x] = Troll(TrollsByStrength[i]);
+				newStrengthArray[x].setStrength(newStrength);
+				TrollsByStrength[i].setID(NOTROLL);
+				x++;
+			
 		}
 	}
 	Troll* mergedArray = mergeTrollsArray(TrollsByStrength, newStrengthArray, numOfTrolls);
