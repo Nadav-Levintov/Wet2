@@ -10,7 +10,7 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 	{
 		if ((array1[a].getID() != NOTROLL) && (array2[b].getID() != NOTROLL))
 		{
-			if (comp(array1[a],array2[b]))
+			if (comp(array1[a], array2[b]))
 			{
 				merged[i] = array1[a];
 				i++;
@@ -60,6 +60,11 @@ Troll * DataStruct::mergeTrollsArray(Troll * array1, Troll * array2, int num)
 
 void DataStruct::buildStrengthHistogram(Troll * strengthArray, int ** histogramData, int ** histogramBase, int numOfTrolls, int* numOfStrengths)
 {
+	if (numOfTrolls <= 0)
+	{
+		*numOfStrengths = 0;
+		return;
+	}
 	int numOfStrength = 1;
 	for (int i = 0; i < numOfTrolls - 1; i++)
 	{
@@ -75,6 +80,7 @@ void DataStruct::buildStrengthHistogram(Troll * strengthArray, int ** histogramD
 		data[i] = 1;
 	}
 	int histoCounter = 1, histoIndex = 0;
+
 	base[0] = strengthArray[0].getStrength();
 	for (int i = 1; i < numOfTrolls; i++)
 	{
@@ -270,17 +276,17 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 
 	Troll* TrollsByStrength = TrollStrengthTree.inOrder();
 	Troll* newStrengthArray = new Troll[numOfTrolls];
-	
+
 	int x = 0;
 	for (int i = 0; i < numOfTrolls; i++) {
 		if (TrollsByStrength[i].getGroup() == team) {
 			int oldStrength = TrollsByStrength[i].getStrength();
 			int newStrength = oldStrength * factor;
-				newStrengthArray[x] = Troll(TrollsByStrength[i]);
-				newStrengthArray[x].setStrength(newStrength);
-				TrollsByStrength[i].setID(NOTROLL);
-				x++;
-			
+			newStrengthArray[x] = Troll(TrollsByStrength[i]);
+			newStrengthArray[x].setStrength(newStrength);
+			TrollsByStrength[i].setID(NOTROLL);
+			x++;
+
 		}
 	}
 	Troll* mergedArray = mergeTrollsArray(TrollsByStrength, newStrengthArray, numOfTrolls);
@@ -293,14 +299,16 @@ void DataStruct::TeamUpgrade(int team, int factor) {
 	int numOfStrength = 0;
 	int* histogramData = NULL, *histogramBase = NULL;
 	buildStrengthHistogram(mergedArray, &histogramData, &histogramBase, numOfTrolls, &numOfStrength);
-	strengthTree.clear();
-	strengthTree.buildEmpty(numOfStrength);
-	index = 0;
-	strengthTree.inOrderInsert(histogramBase, histogramData, &index);
+	if (numOfStrength != 0) {
+		strengthTree.clear();
+		strengthTree.buildEmpty(numOfStrength);
+		index = 0;
+		strengthTree.inOrderInsert(histogramBase, histogramData, &index);
 
 
-	delete[] histogramBase;
-	delete[] histogramData;
+		delete[] histogramBase;
+		delete[] histogramData;
+	}
 	delete[] mergedArray;
 }
 
